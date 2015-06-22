@@ -4,8 +4,11 @@
   {% include head.html %}
 
   <body class="blog">
-  	{% include blog-header.html %}
-
+    <div class="header-img">
+      <div class="vert-text">
+         <h2>{{ page.title }}</h2>
+      </div>
+    </div>
   	{% assign author = site.data.team | where: "id", page.author_id | first %}
   	<div class="post">
 		<div class="date">{{ page.date | date: "%B %-d, %Y" }}</div>
