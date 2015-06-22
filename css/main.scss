@@ -1,0 +1,282 @@
+---
+---
+@charset "utf-8";
+
+// Breakpoints
+$mobile: max-width 767px;
+$tablet: min-width 768px max-width 991px;
+$desktop: min-width 992px max-width 1199px;
+$largedesktop: min-width 1200px;
+
+// Colours
+$brand-color: rgb(4, 59, 126);
+$separator-color: rgb(214,214,214);
+$dark-color: rgb(39, 43, 67);
+$dark-link-color: darken($dark-color, 25);
+$light-color: rgb(255,255,255);
+$form-background: rgb(245,245,245);
+
+@mixin brand-gradient() {
+	background-color: $brand-color;
+	@include linear-gradient(top, rgb(4, 59, 126) 0%, rgb(104, 121, 229) 100%);
+}
+
+// Libraries
+@import "normalize";
+@import "bourbon";
+@import "neat";
+
+@import "syntax-highlighting";
+
+// Our SCSS
+@import "home";
+@import "blog";
+@import "page";
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Lato', Helvetica Neue, Arial, Sans-Serif;
+	font-size: 1.1em;
+	color: $dark-color;
+}
+
+html, body {
+	height: 100%;
+}
+
+a, .dark {
+	text-decoration: none;
+  color: $dark-link-color;
+}
+
+a:hover, .dark:hover {
+  color: lighten($dark-link-color, 20);
+}
+
+h1, h2, h3 {
+	font-family: 'Lato', sans-serif;
+	font-weight: normal;
+	margin: 0;
+}
+
+h1, h2 {
+	text-transform: none;
+}
+
+h1 {
+	font-size: 2.6em;
+
+  @include media($tablet) {
+    font-size: 2em;
+  }
+
+  @include media($mobile) {
+    font-size: 1.8em;
+  }
+}
+
+h2 {
+	font-size: 2.4em;
+
+  @include media($mobile) {
+      font-size: 2em;
+  }
+}
+
+h3 {
+	font-size: 1.4em;
+}
+
+.nav {
+	display: block;
+}
+
+.sign-in {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  font-size: 0.8em;
+  padding: 6px, 40px;
+}
+
+.button {
+	display: inline-block;
+	border: 1px solid $dark-color;
+	border-radius: 3px;
+	padding: 15px 40px;
+  font-size: 0.8em;
+	color: $dark-color;
+}
+
+.button:hover {
+  border-color: darken($dark-color, 20);
+  color: darken($dark-color, 20);
+}
+
+.light {
+  border-color: $light-color;
+  color: $light-color;
+  background: transparent;
+}
+
+.white-fill {
+  border-color: $light-color;
+  background: $light-color;
+  color: $brand-color;
+}
+
+.dark-fill {
+  border-color: $dark-color;
+  background: $dark-color;
+  color: $light-color;
+}
+
+.light:hover {
+  border-color: $light-color;
+  color: $light-color;
+}
+
+footer {
+  @include span-columns(12 of 12);
+  padding-top: 24px;
+  display: block;
+  background: $dark-color;
+  text-align: left;
+
+  .info {
+    @include span-columns(10 of 12);
+    @include shift(1);
+    color: $light-color;
+    margin-bottom: 18px;
+
+    .left {
+      float: left;
+    }
+
+    .right {
+      float: right;
+    }
+
+    @include media($tablet) {
+      @include span-columns(12 of 12);
+      @include shift(0);
+    }
+
+    @include media($mobile) {
+      @include span-columns(12 of 12);
+      @include shift(0);
+    }
+  }
+
+  .list {
+    list-style-type: none;
+    padding: 0;
+
+    @include media($mobile) {
+      margin-top: 7px;
+    }
+
+    a {
+      @extend .light;
+    }
+  }
+
+  .copyright {
+    @include span-columns(4 of 12);
+    @include shift(4);
+    text-align: center;
+    color: white;
+    margin-bottom: 8px;
+  }
+}
+
+.subscribe {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 500px;
+
+    *::-webkit-input-placeholder {
+        color: lighten($dark-color, 30);
+    }
+    *:-moz-placeholder {
+        /* FF 4-18 */
+        color: lighten($dark-color, 30);
+    }
+    *::-moz-placeholder {
+        /* FF 19+ */
+        color: lighten($dark-color, 30);
+    }
+    *:-ms-input-placeholder {
+        /* IE 10+ */
+        color: lighten($dark-color, 30);
+    }
+
+    label {
+        color: $dark-color;
+        display: block;
+        text-align: center;
+    }
+
+    input, button {
+        height: 50px;
+        padding: 0;
+        margin: 0;
+        font-size: 1.0em;
+    }
+
+    input {
+        display: inline-block;
+        width: 350px;
+        border-width: 2px;
+        border-color: $dark-color;
+        border-style: solid;
+        padding-left: 20px;
+        border-radius: 3px 0 0 3px;
+    }
+
+    button {
+        display: inline-block;
+        width: 150px;
+        background-color: $dark-color;
+        color: $light-color;
+        border-radius: 0 3px 3px 0;
+        border-width: 2px;
+        border-left-width: 0;
+        border-color: $dark-color;
+    }
+
+    button:hover {
+        color: $dark-color;
+        background-color: $light-color;
+        border-color: $dark-color;
+        border-left-width: 0;
+    }
+
+    input:focus {
+        outline-style:none;
+        -webkit-box-shadow: inset 0 1px 1px lighten($dark-color, 40), 0 0 2px $dark-color;
+          box-shadow: inset 0 1px 1px lighten($dark-color, 20), 0 0 2px $dark-color;
+    }
+
+
+    @include media($mobile) {
+        width: 370px;
+
+        input,  button {
+            font-size: 1em;
+        }
+
+        input {
+            width: 280px;
+        }
+
+        button {
+            width: 90px;
+        }
+    }
+}

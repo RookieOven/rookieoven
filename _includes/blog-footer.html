@@ -1,0 +1,15 @@
+<div class="blog-footer">
+  {% if page.layout == 'blog-post' %}
+    <p>If you enjoyed this post, why not subscribe to our monthly roundup?</p>
+    <form class="subscribe" action="http://lolnewsletter.us3.list-manage1.com/subscribe/post" method="POST">
+      <input type="hidden" name="u" value="6fdb1513fca31b3b5bdf1cd50">
+      <input type="hidden" name="id" value="37217ba75e">
+      <input id='email' name="MERGE0" type="email" placeholder="yo@email.com" required=true><button type="submit" class="button">Subscribe</button>
+      <label for='email'>A monthly email with our new posts</label>
+    </form>
+  {% else %}
+    Want to talk? <a href="mailto:{{ site.email }}?subject=Yo!">{{ site.email }}</a>
+  {% endif %}
+</div>
+
+{% include footer.html %}

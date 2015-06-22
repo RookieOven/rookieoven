@@ -1,0 +1,47 @@
+- name: Add Jam
+  id: 1
+  image: add-jam.png
+  description: Creating beautiful mobile products
+  twitter: add_jam
+  email: yo@addjam.com
+  url: http://addjam.com
+
+- name: Insurance By Jack
+  id: 2
+  image: insurance-by-jack.png
+  description: Simple business insurance for freelancers
+  twitter: insurancebyjack
+  email: hello@insurancebyjack.co.uk
+  url: http://insurancebyjack.co.uk
+
+- name: FarmGeek
+  id: 3
+  image: farmgeek.png
+  description: Business management software for Farmers
+  twitter: wearefarmgeek
+  email: hello@farmer.io
+  url: http://farmer.io
+
+- name: RawTech
+  id: 4
+  image: rawtech.png
+  description: Expert python development from Glasgow
+  twitter: rawtechio
+  email: hello@rawtech.io
+  url: http://rawtech.io
+
+- name: ActiveRefer
+  id: 5
+  image: activerefer.png
+  description: Simple referal system plugin
+  twitter: activerefer
+  email: hello@activerefer.com
+  url: http://activerefer.com
+
+- name: Sunstone Communications
+  id: 6
+  image: sunstone.png
+  description: World class business advice
+  twitter: sunstone
+  email: hello@sunstone.com
+  url: http://sunstonecommunication.com

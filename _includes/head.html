@@ -1,0 +1,38 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="user-scalable=no,width=device-width"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <!-- non-retina iPhone pre iOS 7 -->
+	<link rel="apple-touch-icon" href="/images/apple-touch-57.png" sizes="57x57">
+	<!-- non-retina iPad pre iOS 7 -->
+	<link rel="apple-touch-icon" href="/images/apple-touch-72.png" sizes="72x72">
+	<!-- non-retina iPad iOS 7 -->
+	<link rel="apple-touch-icon" href="/images/apple-touch-76.png" sizes="76x76">
+	<!-- retina iPhone pre iOS 7 -->
+	<link rel="apple-touch-icon" href="/images/apple-touch-114.png" sizes="114x114">
+	<!-- retina iPhone iOS 7 -->
+	<link rel="apple-touch-icon" href="/images/apple-touch-120.png" sizes="120x120">
+	<!-- retina iPad pre iOS 7 -->
+	<link rel="apple-touch-icon" href="/images/apple-touch-144.png" sizes="144x144">
+	<!-- retina iPad iOS 7 -->
+	<link rel="apple-touch-icon" href="/images/apple-touch-152.png" sizes="152x152">
+	<!-- Win8 tile -->
+	<meta name="msapplication-TileImage" content="/images/w8-icon.png">
+	<meta name="msapplication-TileColor" content="#464E58"/>
+	<meta name="application-name" content="Add Jam - mobile development" />
+
+	<!-- IE11 tiles -->
+	<meta name="msapplication-square70x70logo" content="/images/tile-small.png"/>
+	<meta name="msapplication-square150x150logo" content="/images/tile-medium.png"/>
+	<meta name="msapplication-wide310x150logo" content="/images/tile-wide.png"/>
+	<meta name="msapplication-square310x310logo" content="/images/tile-large.png"/>
+
+	<link rel='shortcut icon' type='image/x-icon' href='/images/favicon.ico' />
+
+  <title>{{site.title}}{% if page.title %} | {{ page.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+
+	<link href='http://fonts.googleapis.com/css?family=Quicksand:300,400,700' rel='stylesheet' type='text/css'>  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+</head>

@@ -1,0 +1,5 @@
+{
+  "name": "rookieoven",
+  "root": "./_site",
+  "clean_urls": true
+}

@@ -1,0 +1,104 @@
+.home .header {
+	@include span-columns(12 of 12);
+	min-height: 650px;
+	height: 100%;
+	padding: 100px;
+	margin-right: 0;
+	position: relative;
+	@include brand-gradient;
+	text-align: center;
+
+	@include media($mobile) {
+		padding: 10px;
+	}
+
+	.nav {
+		@include span-columns(12 of 12);
+	.logo {
+	  position: absolute;
+	  top: 20px;
+	  left: 30px;
+		margin: 0 auto;
+		height: 50px;
+
+		@include media($mobile) {
+			margin-top: 80px;
+		}
+	}
+}
+
+	.strapline {
+		margin-top: 60px;
+		color: $light-color;
+		margin-left: 40px;
+		margin-right: 40px;
+		text-align: left;
+
+		@include media($mobile) {
+			margin-left: 20px;
+			margin-right: 20px;
+		}
+	}
+
+	.description {
+		margin-top: 60px;
+		margin-bottom: 80px;
+		color: $light-color;
+		margin-left: 40px;
+		margin-right: 40px;
+		max-width: 450px;
+		text-align: left;
+
+		@include media($mobile) {
+			margin-left: 20px;
+			margin-right: 20px;
+		}
+	}
+
+	.actions {
+		float: left;
+		margin-left: 40px;
+
+		.light{
+			margin-left: 20px;
+		}
+	}
+}
+
+.steps {
+	@include span-columns(8 of 12);
+	@include shift(2);
+	padding: 50px 0;
+
+	@include media($desktop) {
+		@include span-columns(10 of 12);
+		@include shift(1);
+	}
+
+	@include media($tablet) {
+		@include span-columns(10 of 12);
+		@include shift(1);
+	}
+
+	@include media($mobile) {
+		@include span-columns(12 of 12);
+		@include shift(0);
+	}
+
+	h2, h3{
+		text-align: center;
+		margin-bottom: 50px;
+	}
+
+	p {
+		font-size: 1.1em;
+		padding: 20px;
+	}
+
+	img {
+		display: block;
+		margin: 0 auto;
+		min-height: 120px;
+		padding: 48px 0;
+	}
+}

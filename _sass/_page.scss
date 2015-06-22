@@ -1,0 +1,213 @@
+.header {
+	@include span-columns(12 of 12);
+	min-height: 650px;
+	height: 100%;
+	padding: 100px;
+	margin-right: 0;
+	position: relative;
+	@include brand-gradient;
+	text-align: center;
+
+	@include media($mobile) {
+		padding: 10px;
+	}
+
+	.nav {
+		@include span-columns(12 of 12);
+
+		.logo {
+		  position: absolute;
+		  top: 20px;
+		  left: 30px;
+			margin: 0 auto;
+			height: 50px;
+
+			@include media($mobile) {
+				margin-top: 80px;
+			}
+		}
+
+		.page-actions {
+		  position: absolute;
+		  top: 20px;
+		  right: 30px;
+		  font-size: 0.8em;
+		  padding: 6px, 40px;
+
+		  .button {
+		  	margin: 0 20px;
+		  }
+		}
+	}
+
+	.strapline {
+		margin-top: 60px;
+		color: $light-color;
+		margin-left: 40px;
+		margin-right: 40px;
+		text-align: left;
+
+		@include media($mobile) {
+			margin-left: 20px;
+			margin-right: 20px;
+		}
+	}
+
+	.description {
+		margin-top: 60px;
+		margin-bottom: 80px;
+		color: $light-color;
+		margin-left: 40px;
+		margin-right: 40px;
+		max-width: 450px;
+		text-align: left;
+
+		@include media($mobile) {
+			margin-left: 20px;
+			margin-right: 20px;
+		}
+	}
+}
+
+.section {
+	@include span-columns(8 of 12);
+	@include shift(2);
+	padding: 50px 0;
+
+	@include media($desktop) {
+		@include span-columns(10 of 12);
+		@include shift(1);
+	}
+
+	@include media($tablet) {
+		@include span-columns(10 of 12);
+		@include shift(1);
+	}
+
+	@include media($mobile) {
+		@include span-columns(12 of 12);
+		@include shift(0);
+	}
+
+	h2 {
+		text-align: center;
+		margin-bottom: 50px;
+	}
+
+	p {
+		color: $dark-color;
+		font-size: 1.2em;
+
+		@include media($mobile) {
+			@include span-columns(10 of 12);
+			@include shift(1);
+		}
+	}
+}
+
+.person {
+	@include span-columns(10 of 12);
+	@include shift(1);
+	margin-bottom: 50px;
+
+	.image {
+		@include span-columns(3 of 8);
+		float: left;
+
+		img {
+			display: block;
+			width: 230px;
+			max-width: 100%;
+			margin: 0 auto;
+			border-radius: 115px;
+		}
+	}
+
+	.image.odd {
+		float: right;
+	}
+
+	.description {
+		@include span-columns(5 of 8);
+
+		a {
+			display: block;
+		}
+	}
+
+	.name {
+		margin-top: 0;
+		font-size: 2.2em;
+	}
+
+	.social {
+		@include span-columns(12 of 12);
+		display: block;
+		margin-bottom: 5px;
+
+		img {
+			display: inline-block;
+			width: 21px;
+			margin-right: 5px;
+			vertical-align: middle;
+		}
+
+		a {
+			display: inline-block;
+		}
+	}
+
+	@include media($mobile) {
+		.image {
+			float: none;
+			@include span-columns(10 of 12);
+			@include shift(1);
+		}
+
+		.description {
+			@include span-columns(10 of 12);
+			@include shift(1);
+			text-align: justify;
+		}
+
+		.name {
+			margin-top: 20px;
+			margin-bottom: 0;
+			text-align: center;
+		}
+	}
+}
+
+.pre-footer {
+	@include span-columns(12 of 12);
+	background-color: $dark-color;
+
+	.content {
+		@include span-columns(6 of 12);
+		@include shift(3);
+		margin-top: 40px;
+		margin-bottom: 40px;
+		color: $light-color;
+		text-align: center;
+
+		@include media($tablet) {
+			@include span-columns(8 of 12);
+			@include shift(2);
+		}
+
+		@include media($mobile) {
+			@include span-columns(10 of 12);
+			@include shift(1);
+		}
+
+		.title {
+				text-align: center;
+		}
+
+		img {
+			display: block;
+			margin: 20px auto 0 auto;
+			width: 225px;
+		}
+	}
+}

@@ -1,0 +1,215 @@
+.blog .header {
+    @include span-columns(12 of 12);
+
+    img {
+        height: 200px;
+        display: block;
+        margin: 40px auto 20px auto;
+    }
+}
+
+.blog .posts {
+    @include span-columns(6 of 12);
+    @include shift(3);
+    margin-top: 50px;
+    margin-bottom: 0;
+
+    text-align: center;
+
+    p {
+        text-align: justify;
+    }
+
+    @include media($mobile) {
+        @include span-columns(10 of 12);
+        @include shift(1);
+    }
+
+    @include media($tablet) {
+        @include span-columns(8 of 12);
+        @include shift(2);
+    }
+}
+
+.blog .summary:first-child {
+    padding-top: 0;
+}
+
+.blog .summary:last-child {
+    border-bottom: none;
+}
+
+.blog .summary {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-bottom: 1px solid $separator-color;
+}
+
+.blog .post {
+    @include span-columns(12 of 12);
+    margin-top: 20px;
+
+    a {
+        color: #ff5371;
+    }
+
+    p, ul, h2, h3, h4, h5, pre, div {
+        display: block;
+        margin: 20px auto;
+    }
+
+    h3, h4, h5 {
+        width: 45%;
+
+        @include media($tablet) {
+            width: 70%;
+        }
+
+        @include media($mobile) {
+            width: 80%;
+        }
+    }
+
+    video {
+        max-width: 60%;
+        text-align: center;
+        margin: 0 auto;
+        display: block;
+
+        @include media($tablet) {
+            max-width: 75%;
+        }
+
+        @include media($mobile) {
+            max-width: 100%;
+        }
+    }
+
+    p, ul, h2, pre {
+        width: 50%;
+
+        @include media($tablet) {
+            width: 75%;
+        }
+
+        @include media($mobile) {
+            width: 83.33%;
+        }
+    }
+
+    h2 {
+        margin-top: 50px;
+    }
+
+    .image {
+      width: 60%;
+      margin: 20px auto;
+
+      img {
+        max-width: 100%;
+        margin: 0 auto;
+        display: block;
+      }
+
+      @include media($tablet) {
+        width: 90%;
+      }
+
+      @include media($mobile) {
+        width: 100%;
+      }
+    }
+
+    .date, .author {
+        text-align: center;
+        width: 100%;
+    }
+
+    .author {
+        margin-bottom: 10px;
+    }
+
+    pre {
+        background-color: #333;
+        padding: 10px;
+    }
+
+    p > code {
+        background-color: rgba(255, 53, 71, 0.1);
+        padding-left: 3px;
+        padding-right: 3px;
+        border-radius: 1px;
+    }
+}
+
+.blog .blog-footer {
+    @include span-columns(6 of 12);
+    @include shift(3);
+
+    text-align: center;
+    margin-top: 50px;
+    padding-bottom: 50px;
+    border-bottom: 1px solid $separator-color;
+
+    @include media($mobile) {
+      @include span-columns(12 of 12);
+      @include shift(0);
+    }
+
+    @include media($tablet) {
+        @include span-columns(8 of 12);
+        @include shift(2);
+    }
+
+    .subscribe {
+      margin-top: 0;
+    }
+}
+
+.blog .footer {
+  background-color: $light-color;
+  background-image: none;
+
+  .copyright, .links {
+    color: $dark-color;
+  }
+
+  .list a {
+    @extend .dark;
+  }
+}
+
+.date {
+    color: lighten($dark-color, 30);
+}
+
+.empty {
+    text-align: center;
+}
+
+.relatedPosts {
+  h2 {
+    padding-top: 40px;
+    border-top: 1px solid $separator-color;
+  }
+
+  ul {
+    padding-left: 0;
+  }
+
+  li {
+    list-style-type: none;
+    margin: 10px 0;
+
+    p {
+      width: 100% !important;
+      border-left: 5px solid $separator-color;
+      padding-left: 20px;
+    }
+  }
+}
+
+.pagination {
+  @include span-columns(12 of 12);
+  text-align: center;
+}

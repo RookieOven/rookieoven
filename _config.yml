@@ -1,0 +1,20 @@
+title: RookieOven
+description: Baking a tasy startup scene in Scotland.
+email: michael@rookieoven.com
+url: "http://rookieoven.com"
+twitter_username: rookieoven
+gems: [bourbon, neat, jekyll-sitemap]
+paginate: 5
+paginate_path: "/blog/page:num"
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "blog-post"
+exclude:
+  - divshot.json

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="blog">
+  	{% include blog-header.html %}
+
+  	{% assign author = site.data.team | where: "id", page.author_id | first %}
+  	<div class="post">
+		<div class="date">{{ page.date | date: "%B %-d, %Y" }}</div>
+	    <div class="author">By <a href="http://twitter.com/{{author.twitter}}">{{ author.name }}</a></div>
+		{{ content }}
+
+    <div class="relatedPosts">
+      <h2>Related Posts</h2>
+      {% related_posts 3 %}
+    </div>
+	</div>
+
+  {% include blog-footer.html %}
+
+  </body>
+
+</html>
