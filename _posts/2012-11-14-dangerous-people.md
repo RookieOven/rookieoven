@@ -1,6 +1,6 @@
 ---
 title: Dangerous People
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/11/14/dangerous-people/
 dsq_thread_id:

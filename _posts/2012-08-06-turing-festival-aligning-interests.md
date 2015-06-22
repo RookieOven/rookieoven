@@ -1,6 +1,6 @@
 ---
 title: 'Turing Festival: Aligning Interests'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/08/06/turing-festival-aligning-interests/
 dsq_thread_id:

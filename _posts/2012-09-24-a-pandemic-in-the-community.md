@@ -1,6 +1,6 @@
 ---
 title: A pandemic in the community
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/09/24/a-pandemic-in-the-community/
 dsq_thread_id:

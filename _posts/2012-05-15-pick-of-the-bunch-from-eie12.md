@@ -1,6 +1,6 @@
 ---
 title: Pick of the bunch from EIE12
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/05/15/pick-of-the-bunch-from-eie12/
 dsq_thread_id:

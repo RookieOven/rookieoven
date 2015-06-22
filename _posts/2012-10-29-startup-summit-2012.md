@@ -1,6 +1,6 @@
 ---
 title: Startup Summit 2012
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/10/29/startup-summit-2012/
 dsq_thread_id:

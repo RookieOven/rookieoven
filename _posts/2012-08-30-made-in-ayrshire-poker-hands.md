@@ -1,6 +1,6 @@
 ---
 title: 'Made in Ayrshire: Poker Hands'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/08/30/made-in-ayrshire-poker-hands/
 dsq_thread_id:

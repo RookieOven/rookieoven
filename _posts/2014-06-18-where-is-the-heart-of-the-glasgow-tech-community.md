@@ -1,6 +1,6 @@
 ---
 title: Where is the heart of the Glasgow tech community?
-author: mdhayes
+author: 1
 layout: post
 permalink: /2014/06/18/where-is-the-heart-of-the-glasgow-tech-community/
 dsq_thread_id:

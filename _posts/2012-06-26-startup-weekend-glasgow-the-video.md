@@ -1,6 +1,6 @@
 ---
 title: 'Startup Weekend Glasgow &#8211; The Video'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/06/26/startup-weekend-glasgow-the-video/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: Host a Guest for the Turing Festival
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/07/23/host-a-guest-for-the-turing-festival/
 dsq_thread_id:

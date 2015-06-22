@@ -1,6 +1,6 @@
 ---
 title: 'Turing Festival: Essential Events'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/08/15/turing-festival-essential-events/
 dsq_thread_id:

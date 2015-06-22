@@ -1,6 +1,6 @@
 ---
 title: Open Glasgow Hackathons
-author: mdhayes
+author: 1
 layout: post
 permalink: /2014/03/18/open-glasgow-hackathons/
 dsq_thread_id:

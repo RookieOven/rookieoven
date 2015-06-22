@@ -1,6 +1,6 @@
 ---
 title: Exhibit at EIE12
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/02/18/exhibit-at-eie12/
 dsq_thread_id:

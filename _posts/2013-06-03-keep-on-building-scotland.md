@@ -1,6 +1,6 @@
 ---
 title: Keep on building Scotland
-author: mdhayes
+author: 1
 layout: post
 permalink: /2013/06/03/keep-on-building-scotland/
 dsq_thread_id:

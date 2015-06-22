@@ -1,6 +1,6 @@
 ---
 title: RookieOven November Meetup
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/10/30/rookieoven-november-meetup/
 dsq_thread_id:
@@ -14,7 +14,7 @@ The next RookieOven Meetup is taking place in Glasgow this coming Monday, 5th of
 
 [<img title="vespbar" src="http://www.rookieoven.com/wp-content/uploads/2011/09/vespbar.png" alt="Vespbar Glasgow Venue for RookieOven Meetup" width="620" height="199" />][1]
 
-The venue for the RookieOven meetup is Vespbar which is a short walk from either Glasgow Central or Queen Street Station. It has a great selection of beers and they do pizza by the metre. We will be in the downstairs section but any problems finding the venue on the night tweet me ([@_MDHayes][2]) or the [RookieOven twitter][3] account.
+The venue for the RookieOven meetup is Vespbar which is a short walk from either Glasgow Central or Queen Street Station. It has a great selection of beers and they do pizza by the metre. We will be in the downstairs section but any problems finding the venue on the night tweet me ([@_1][2]) or the [RookieOven twitter][3] account.
 
 The meetup is a platform for the Scottish startup community to interact on a regular basis. At the meetup there are no talks, presentations or set agendas just great conversations between Scottish startup founders, employees and enthusiasts. There are only two rules for the meetup:
 
@@ -28,7 +28,7 @@ We will also have plenty to discuss as October has been a busy month on RookieOv
 November looks to be yet another exciting month for Scottish tech startups. We have [Startup Summit][10] and [Startup Weekend Edinburgh][11] to look forward to in Edinburgh and the usual mix of meetups and user groups getting together across the country. What better way to kick the month off than to come together for a few drinks in Vespbar?
 
  [1]: http://www.rookieoven.com/wp-content/uploads/2011/09/vespbar.png
- [2]: http://twitter.com/_MDHayes "Michael Hayes Twitter"
+ [2]: http://twitter.com/_1 "Michael Hayes Twitter"
  [3]: http://twitter.com/Rookieoven "RookieOven Twitter"
  [4]: http://www.rookieoven.com/2012/10/17/scottish-talent-at-the-dublin-web-summit/ "Scottish talent at the Dublin Web Summit"
  [5]: http://www.rookieoven.com/2012/10/17/gogobot-building-an-engaged-user-base/ "Gogobot – building an engaged user base"

@@ -1,6 +1,6 @@
 ---
 title: Events in Scotland 2014
-author: mdhayes
+author: 1
 layout: post
 permalink: /2014/04/28/events-in-scotland-2014/
 dsq_thread_id:

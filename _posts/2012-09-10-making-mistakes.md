@@ -1,6 +1,6 @@
 ---
 title: Making mistakes
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/09/10/making-mistakes/
 dsq_thread_id:

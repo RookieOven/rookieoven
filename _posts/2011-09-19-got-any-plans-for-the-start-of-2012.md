@@ -1,6 +1,6 @@
 ---
 title: Got Any Plans For the Start of 2012?
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/09/19/got-any-plans-for-the-start-of-2012/
 dsq_thread_id:

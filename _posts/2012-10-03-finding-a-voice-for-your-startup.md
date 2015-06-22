@@ -1,6 +1,6 @@
 ---
 title: Finding a voice for your startup
-author: CRussell
+author: 3
 layout: post
 permalink: /2012/10/03/finding-a-voice-for-your-startup/
 dsq_thread_id:

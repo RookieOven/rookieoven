@@ -1,6 +1,6 @@
 ---
 title: Ten Tips For Young Entrepreneurs
-author: CRussell
+author: 3
 layout: post
 permalink: /2012/05/31/ten-tips-in-for-young-entrepreneurs/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: 'Slight Change of Plan &#8211; Sorry'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/11/29/slight-change-of-plan-sorry/
 dsq_thread_id:

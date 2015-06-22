@@ -1,6 +1,6 @@
 ---
 title: 'Skate Where the Puck&#8217;s Going, Not Where it&#8217;s Been'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/08/30/skate-where-the-pucks-going-not-where-its-been/
 dsq_thread_id:

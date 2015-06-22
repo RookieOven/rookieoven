@@ -1,6 +1,6 @@
 ---
 title: Why Be a Startup Founder?
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/08/17/why-be-a-startup-founder/
 dsq_thread_id:

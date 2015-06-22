@@ -1,6 +1,6 @@
 ---
 title: 'Get Away From It All: Doing the &#8216;Someday&#8217; Tasks'
-author: JMcHale
+author: 2
 layout: post
 permalink: /2011/08/29/get-away-from-it-all-doing-the-someday-tasks/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: Looking beyond the border
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/09/13/looking-beyond-the-border/
 dsq_thread_id:

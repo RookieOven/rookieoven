@@ -1,6 +1,6 @@
 ---
 title: 'Scotland: The Foundations Of A Startup Community'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/11/07/scotland-the-foundations-of-a-startup-community/
 dsq_thread_id:

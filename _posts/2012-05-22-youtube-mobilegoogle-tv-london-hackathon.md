@@ -1,6 +1,6 @@
 ---
 title: YouTube Mobile/Google TV London Hackathon
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/05/22/youtube-mobilegoogle-tv-london-hackathon/
 dsq_thread_id:

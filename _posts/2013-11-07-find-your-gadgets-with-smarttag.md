@@ -1,6 +1,6 @@
 ---
 title: Find your gadgets with SmartTAG
-author: mdhayes
+author: 1
 layout: post
 permalink: /2013/11/07/find-your-gadgets-with-smarttag/
 dsq_thread_id:

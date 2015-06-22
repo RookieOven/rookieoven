@@ -1,6 +1,6 @@
 ---
 title: 'How to Get Inside Your Users&#8217; Heads: Lessons from UX Scotland 2013'
-author: DWong
+author: 4
 layout: post
 permalink: /2013/07/05/ux-find-out-what-users-want/
 dsq_thread_id:

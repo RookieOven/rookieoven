@@ -1,6 +1,6 @@
 ---
 title: Startup Folk to Follow on Twitter
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/10/07/startup-folk-to-follow-on-twitter/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: 'Tech Events in Scotland 2013 [Update]'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2013/08/14/techevents-in-scotland-2013/
 dsq_thread_id:

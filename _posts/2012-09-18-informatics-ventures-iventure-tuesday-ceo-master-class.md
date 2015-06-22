@@ -1,6 +1,6 @@
 ---
 title: 'Informatics Ventures: iVenture Tuesday &#038; CEO Master Class'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/09/18/informatics-ventures-iventure-tuesday-ceo-master-class/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: Snap to it! Springboard Application Deadline Approaching
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/01/20/snap-to-it-springboard-application-deadline-approaching/
 dsq_thread_id:

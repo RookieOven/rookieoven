@@ -1,6 +1,6 @@
 ---
 title: Sunny Day in Edinburgh
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/09/15/sunny-day-in-edinburgh/
 dsq_thread_id:

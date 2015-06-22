@@ -1,6 +1,6 @@
 ---
 title: 5 Christmas Gift Ideas for a Tech Startup Founder
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/12/11/5-best-christmas-gifts-for-a-startup-founder/
 dsq_thread_id:

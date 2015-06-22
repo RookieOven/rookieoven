@@ -1,6 +1,6 @@
 ---
 title: 'Pugs and Spreadsheets: Edinburgh TechMeetup'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/01/12/pugs-and-spreadsheets-edinburgh-techmeetup/
 dsq_thread_id:

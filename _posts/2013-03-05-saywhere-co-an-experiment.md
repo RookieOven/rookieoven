@@ -1,6 +1,6 @@
 ---
 title: 'SayWhere.co &#8211; An experiment'
-author: JMcHale
+author: 2
 layout: post
 permalink: /2013/03/05/saywhere-co-an-experiment/
 dsq_thread_id:

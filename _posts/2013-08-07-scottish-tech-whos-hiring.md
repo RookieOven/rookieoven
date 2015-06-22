@@ -1,6 +1,6 @@
 ---
 title: 'Scottish Tech &#8211; Who&#8217;s Hiring?'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2013/08/07/scottish-tech-whos-hiring/
 dsq_thread_id:

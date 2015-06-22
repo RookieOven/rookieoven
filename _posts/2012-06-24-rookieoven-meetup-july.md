@@ -1,6 +1,6 @@
 ---
 title: 'RookieOven Meetup &#8211; July'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/06/24/rookieoven-meetup-july/
 dsq_thread_id:

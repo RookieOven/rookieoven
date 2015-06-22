@@ -1,6 +1,6 @@
 ---
 title: Advice for Success and Happiness
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/09/21/advice-for-success-and-happiness/
 dsq_thread_id:

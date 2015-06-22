@@ -1,6 +1,6 @@
 ---
 title: Pick of the bunch from EIE11
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/05/20/pick-of-the-bunch-from-eie11/
 dsq_thread_id:

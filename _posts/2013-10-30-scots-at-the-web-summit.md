@@ -1,6 +1,6 @@
 ---
 title: Scots at the Web Summit
-author: mdhayes
+author: 1
 layout: post
 permalink: /2013/10/30/scots-at-the-web-summit/
 dsq_thread_id:
@@ -73,7 +73,7 @@ Twitter: [@miicard][14]
 
 ## RookieOven
 
-I will also be at the Web Summit (@_MDHayes), if you want to find out about the Scottish startup community and how you can engage with companies and individuals in it please don’t hesitate to get in touch.
+I will also be at the Web Summit (@_1), if you want to find out about the Scottish startup community and how you can engage with companies and individuals in it please don’t hesitate to get in touch.
 
  [1]: http://www.rookieoven.com/wp-content/uploads/2013/10/flexiant.png
  [2]: https://twitter.com/tonylucas "Twitter Tony Lucas"

@@ -1,6 +1,6 @@
 ---
 title: 'Startup Weekend Glasgow: The Results'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/05/28/startup-weekend-glasgow-the-results/
 dsq_thread_id:

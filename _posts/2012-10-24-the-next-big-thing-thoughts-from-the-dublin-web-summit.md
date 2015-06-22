@@ -1,6 +1,6 @@
 ---
 title: 'The Next Big Thing: thoughts from the Dublin Web Summit'
-author: DWong
+author: 4
 layout: post
 permalink: /2012/10/24/the-next-big-thing-thoughts-from-the-dublin-web-summit/
 dsq_thread_id:

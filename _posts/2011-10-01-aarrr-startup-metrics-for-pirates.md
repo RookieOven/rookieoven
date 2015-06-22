@@ -1,6 +1,6 @@
 ---
 title: AARRR! Startup Metrics for Pirates
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/10/01/aarrr-startup-metrics-for-pirates/
 dsq_thread_id:

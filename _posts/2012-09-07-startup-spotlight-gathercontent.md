@@ -1,6 +1,6 @@
 ---
 title: 'Startup Spotlight: GatherContent'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/09/07/startup-spotlight-gathercontent/
 dsq_thread_id:

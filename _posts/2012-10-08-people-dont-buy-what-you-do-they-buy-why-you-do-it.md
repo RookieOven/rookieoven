@@ -1,6 +1,6 @@
 ---
 title: 'People don&#8217;t buy what you do, they buy why you do it'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/10/08/people-dont-buy-what-you-do-they-buy-why-you-do-it/
 dsq_thread_id:

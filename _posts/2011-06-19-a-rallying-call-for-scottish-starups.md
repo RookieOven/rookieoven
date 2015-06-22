@@ -1,6 +1,6 @@
 ---
 title: A Rallying Call for Scottish Startups
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/06/19/a-rallying-call-for-scottish-starups/
 dsq_thread_id:

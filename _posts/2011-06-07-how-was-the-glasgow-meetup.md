@@ -1,6 +1,6 @@
 ---
 title: 'How was the Glasgow Meetup &#8211; UPDATE'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/06/07/how-was-the-glasgow-meetup/
 dsq_thread_id:

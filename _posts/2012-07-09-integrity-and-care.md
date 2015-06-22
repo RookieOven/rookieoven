@@ -1,6 +1,6 @@
 ---
 title: Integrity and Care
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/07/09/integrity-and-care/
 dsq_thread_id:

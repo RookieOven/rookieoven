@@ -1,6 +1,6 @@
 ---
 title: RookieOven About The Web
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/06/19/rookieoven-about-the-web/
 dsq_thread_id:

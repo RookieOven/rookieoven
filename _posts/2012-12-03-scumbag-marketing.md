@@ -1,6 +1,6 @@
 ---
 title: Scumbag marketing
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/12/03/scumbag-marketing/
 dsq_thread_id:

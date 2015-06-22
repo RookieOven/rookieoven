@@ -1,6 +1,6 @@
 ---
 title: 'WallaBee: The Ultimate Location-Based Item Game'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/02/16/wallabee-the-ultimate-location-based-item-game/
 dsq_thread_id:

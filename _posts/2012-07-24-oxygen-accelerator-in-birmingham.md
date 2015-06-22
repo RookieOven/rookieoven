@@ -1,6 +1,6 @@
 ---
 title: Oxygen Accelerator in Birmingham
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/07/24/oxygen-accelerator-in-birmingham/
 dsq_thread_id:

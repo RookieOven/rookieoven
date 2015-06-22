@@ -1,6 +1,6 @@
 ---
 title: YouTube Comes to Glasgow
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/04/05/youtube-comes-to-glasgow/
 dsq_thread_id:

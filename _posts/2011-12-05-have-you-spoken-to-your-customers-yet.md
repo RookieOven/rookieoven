@@ -1,6 +1,6 @@
 ---
 title: Have You Spoken to Your Customers Yet?
-author: JMcHale
+author: 2
 layout: post
 permalink: /2011/12/05/have-you-spoken-to-your-customers-yet/
 dsq_thread_id:

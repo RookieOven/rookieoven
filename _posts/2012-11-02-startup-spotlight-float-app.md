@@ -1,6 +1,6 @@
 ---
 title: 'Startup Spotlight: Float App'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/11/02/startup-spotlight-float-app/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: Fluid UI and the Mobile Gold Rush
-author: DWong
+author: 4
 layout: post
 permalink: /2012/10/29/fluid-ui-and-the-mobile-gold-rush/
 dsq_thread_id:

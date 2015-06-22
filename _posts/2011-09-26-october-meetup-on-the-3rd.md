@@ -1,6 +1,6 @@
 ---
 title: October meetup on the 3rd
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/09/26/october-meetup-on-the-3rd/
 dsq_thread_id:

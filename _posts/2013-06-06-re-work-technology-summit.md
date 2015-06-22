@@ -1,6 +1,6 @@
 ---
 title: RE.WORK Technology Summit
-author: mdhayes
+author: 1
 layout: post
 permalink: /2013/06/06/re-work-technology-summit/
 dsq_thread_id:

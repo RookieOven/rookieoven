@@ -1,6 +1,6 @@
 ---
 title: TaxiApp Launches in Aberdeen
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/07/20/taxiapp-launches-in-aberdeen/
 dsq_thread_id:

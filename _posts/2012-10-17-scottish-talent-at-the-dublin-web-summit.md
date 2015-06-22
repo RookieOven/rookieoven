@@ -1,6 +1,6 @@
 ---
 title: Scottish talent at the Dublin Web Summit
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/10/17/scottish-talent-at-the-dublin-web-summit/
 dsq_thread_id:

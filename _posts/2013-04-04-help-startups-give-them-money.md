@@ -1,6 +1,6 @@
 ---
 title: Want to help startups? Just give them money
-author: DWong
+author: 4
 layout: post
 permalink: /2013/04/04/help-startups-give-them-money/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: What Would You Like From The Next Meetup?
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/08/12/what-would-you-like-from-the-next-meetup/
 dsq_thread_id:
@@ -19,9 +19,9 @@ I&#8217;ve had a few attendees suggest having speakers who will give a 5-10 min 
 
 Another option is to have a show and tell. With the talent that is in the room it would be an excellent opportunity for some fellow startups to come and show off their early builds and get some meaningful feedback from others in the same boat. Who better to provide feedback than those who have been at the same stage already?
 
-So what do you think? Would love some feedback in the comments or you can tweet me [@_MDHayes][3]. Remember the next meetup is on the [5th of September][4] so if you have an excellent idea get the comment down as soon as possible because there isn&#8217;t long to go to get the plan in place for the coming meetup.
+So what do you think? Would love some feedback in the comments or you can tweet me [@_1][3]. Remember the next meetup is on the [5th of September][4] so if you have an excellent idea get the comment down as soon as possible because there isn&#8217;t long to go to get the plan in place for the coming meetup.
 
  [1]: http://rookieoven.com/wp-content/uploads/2011/08/suggestion_box.jpeg
  [2]: http://rookieoven.com/2011/08/10/what-happened-to-vesume/ "What Happened to Vesume…"
- [3]: http://twitter.com/_MDHayes
+ [3]: http://twitter.com/_1
  [4]: http://www.facebook.com/event.php?eid=135084749914949

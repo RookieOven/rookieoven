@@ -1,6 +1,6 @@
 ---
 title: Some Weekend Viewing
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/08/26/some-weekend-viewing/
 dsq_thread_id:

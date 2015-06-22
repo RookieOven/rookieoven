@@ -1,6 +1,6 @@
 ---
 title: 'What&#8217;s happening in the Scottish tech community for Christmas?'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2013/12/06/whats-happening-in-the-scottish-tech-community-for-christmas/
 dsq_thread_id:

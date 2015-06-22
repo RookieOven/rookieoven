@@ -1,6 +1,6 @@
 ---
 title: 'A Proper Interview With &#8216;The Zuck&#8217;'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/12/09/a-proper-interview-with-the-zuck/
 dsq_thread_id:

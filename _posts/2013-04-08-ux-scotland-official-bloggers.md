@@ -1,6 +1,6 @@
 ---
 title: 'UX Scotland: RookieOven are the official bloggers'
-author: DWong
+author: 4
 layout: post
 permalink: /2013/04/08/ux-scotland-official-bloggers/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: Peaks and Troughs
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/07/09/peaks-and-troughs/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: Learning from Mistakes
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/10/11/learning-from-mistakes/
 dsq_thread_id:

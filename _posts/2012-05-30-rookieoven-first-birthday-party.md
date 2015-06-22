@@ -1,6 +1,6 @@
 ---
 title: RookieOven First Birthday Party
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/05/30/rookieoven-first-birthday-party/
 dsq_thread_id:

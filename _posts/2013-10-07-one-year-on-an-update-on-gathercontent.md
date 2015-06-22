@@ -1,6 +1,6 @@
 ---
 title: 'One year on &#8211; an update on GatherContent'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2013/10/07/one-year-on-an-update-on-gathercontent/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: 'What Happened to Vesume&#8230;'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/08/10/what-happened-to-vesume/
 dsq_thread_id:

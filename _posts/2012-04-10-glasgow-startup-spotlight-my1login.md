@@ -1,6 +1,6 @@
 ---
 title: 'Glasgow Startup Spotlight: My1Login'
-author: JMcHale
+author: 2
 layout: post
 permalink: /2012/04/10/glasgow-startup-spotlight-my1login/
 dsq_thread_id:

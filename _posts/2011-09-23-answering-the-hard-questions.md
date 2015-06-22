@@ -1,6 +1,6 @@
 ---
 title: Answering the Hard Questions
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/09/23/answering-the-hard-questions/
 dsq_thread_id:

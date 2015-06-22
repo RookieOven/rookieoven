@@ -1,6 +1,6 @@
 ---
 title: 'Events Coming Up &#8211; May'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/04/30/events-coming-up-may/
 dsq_thread_id:

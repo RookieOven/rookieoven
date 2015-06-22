@@ -1,6 +1,6 @@
 ---
 title: 'Startup Spotlight: Lucky Frame'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/09/21/startup-spotlight-lucky-frame/
 dsq_thread_id:

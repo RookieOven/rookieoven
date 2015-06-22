@@ -1,6 +1,6 @@
 ---
 title: What Next For RookieOven?
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/01/31/what-next-for-rookieoven/
 dsq_thread_id:

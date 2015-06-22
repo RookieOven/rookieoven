@@ -1,6 +1,6 @@
 ---
 title: Thinking Outside the Box
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/11/15/thinking-outside-the-box/
 dsq_thread_id:

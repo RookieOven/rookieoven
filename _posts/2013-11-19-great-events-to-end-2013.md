@@ -1,6 +1,6 @@
 ---
 title: Great startup and tech events to end 2013
-author: mdhayes
+author: 1
 layout: post
 permalink: /2013/11/19/great-events-to-end-2013/
 dsq_thread_id:

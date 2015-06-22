@@ -1,6 +1,6 @@
 ---
 title: 'Dare ProtoPlay, Scotland&#8217;s Biggest Video Games Festival'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/08/01/dare-protoplay-scotlands-biggest-video-games-festival/
 dsq_thread_id:

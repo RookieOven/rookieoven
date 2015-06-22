@@ -1,6 +1,6 @@
 ---
 title: Startup Looking to Hire in Glasgow
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/10/18/startup-looking-to-hire-in-glasgow/
 dsq_thread_id:

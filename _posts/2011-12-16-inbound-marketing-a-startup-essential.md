@@ -1,6 +1,6 @@
 ---
 title: 'Inbound Marketing: A Startup Essential'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/12/16/inbound-marketing-a-startup-essential/
 dsq_thread_id:

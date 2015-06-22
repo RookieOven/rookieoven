@@ -1,6 +1,6 @@
 ---
 title: 5 tips for a Startup Weekend
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/11/15/5-tips-for-a-startup-weekend/
 dsq_thread_id:

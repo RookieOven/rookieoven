@@ -1,0 +1,23 @@
+- name: Michael Hayes
+  id: 1
+  twitter: _MDHayes
+
+- name: Jamie McHale
+  id: 2
+  twitter: jamiemchale
+
+- name: Cally Russell
+  id: 3
+  twitter: callyrussell
+
+- name: David Wong
+  id: 4
+  twitter: plantedd
+
+- name: Gregg O'Malley
+  id: 5
+  twitter: equivalence
+
+- name: Rich Smith
+  id: 6
+  twitter:

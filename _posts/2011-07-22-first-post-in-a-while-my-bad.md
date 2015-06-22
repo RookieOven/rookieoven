@@ -1,6 +1,6 @@
 ---
 title: 'First Post in a While&#8230; My Bad'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/07/22/first-post-in-a-while-my-bad/
 dsq_thread_id:
@@ -18,9 +18,9 @@ Since the last meetup a lot has happened in the world of tech, Google Plus is no
 
 Also since the last meetup the guys at the Bier Halle Hippo Lounge in Sauchiehall Street have been in touch and have offered the place as the regular venue and have said they will provide us with pizza&#8217;s. The place has wifi so if anyone wants to bring along some of their work to run it past a few like minded folk feel free. The meetup kicks off as usual at half 6 on first Monday of the month which for August is the 1st. I&#8217;ve made an Event for the meetup over on the [RookieOven Facebook page,][3] would appreciate if you could let me know if you&#8217;re coming along.
 
-If anyone has any suggestions about the meetup leave a comment or send me a tweet [@_MDHayes][4].
+If anyone has any suggestions about the meetup leave a comment or send me a tweet [@_1][4].
 
  [1]: http://itunes.apple.com/us/app/google/id447119634?mt=8
  [2]: http://techcrunch.com/2011/07/06/loic-le-meur-american-start-up-entrepreneurs-have-nothing-to-learn-from-europe-tctv/
  [3]: http://on.fb.me/oLxGCU
- [4]: http://twitter.com/_MDHayes
+ [4]: http://twitter.com/_1

@@ -1,6 +1,6 @@
 ---
 title: The Scottish startup community and crowdfunding
-author: mdhayes
+author: 1
 layout: post
 permalink: /2014/03/21/scottish-startup-community-and-crowdfunding/
 dsq_thread_id:

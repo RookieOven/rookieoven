@@ -1,6 +1,6 @@
 ---
 title: 'ScotSoft 2013 &#8211; Funding Growth'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2013/09/02/scotsoft-2013-funding-growth/
 dsq_thread_id:

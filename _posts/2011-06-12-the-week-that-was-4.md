@@ -1,6 +1,6 @@
 ---
 title: 'The Week That Was &#8211; 4'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/06/12/the-week-that-was-4/
 dsq_thread_id:

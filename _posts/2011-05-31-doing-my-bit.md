@@ -1,6 +1,6 @@
 ---
 title: Doing my bit
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/05/31/doing-my-bit/
 dsq_thread_id:
@@ -19,4 +19,4 @@ I&#8217;m thinking Monday 6th June in [Republic Bier Halle ][1]on Gordon Street,
 If you&#8217;re interested leave a comment or get in touch with me via [Twitter][2].
 
  [1]: http://www.republicbierhalle.com/ "Bier Halle"
- [2]: http://twitter.com/_MDHayes
+ [2]: http://twitter.com/_1

@@ -1,6 +1,6 @@
 ---
 title: 'EIE12 Keynote Speaker &#8211; Sir Jackie Stewart'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/05/17/eie12-keynote-speaker-sir-jackie-stewart/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: Glasgow based entrant to Shell LiveWire
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/08/22/glasgow-based-entrant-to-shell-livewire/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: Cake Time for RookieOven
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/06/03/cake-time-for-rookieoven/
 dsq_thread_id:

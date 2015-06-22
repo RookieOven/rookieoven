@@ -1,6 +1,6 @@
 ---
 title: 'Startup Spotlight: Insight Arcade'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/11/17/startup-spotlight-insight-arcade/
 dsq_thread_id:

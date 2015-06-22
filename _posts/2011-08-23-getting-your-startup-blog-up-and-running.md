@@ -1,6 +1,6 @@
 ---
 title: Getting Your Startup Blog Up and Running
-author: JMcHale
+author: 2
 layout: post
 permalink: /2011/08/23/getting-your-startup-blog-up-and-running/
 dsq_thread_id:

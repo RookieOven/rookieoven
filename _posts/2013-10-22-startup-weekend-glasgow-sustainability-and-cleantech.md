@@ -1,6 +1,6 @@
 ---
 title: 'Startup Weekend Glasgow 2013 &#8211; Sustainability and Clean Tech'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2013/10/22/startup-weekend-glasgow-sustainability-and-cleantech/
 dsq_thread_id:

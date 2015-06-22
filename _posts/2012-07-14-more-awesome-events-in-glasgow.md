@@ -1,6 +1,6 @@
 ---
 title: More Awesome Events in Glasgow
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/07/14/more-awesome-events-in-glasgow/
 dsq_thread_id:

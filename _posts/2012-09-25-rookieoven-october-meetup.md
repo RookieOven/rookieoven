@@ -1,6 +1,6 @@
 ---
 title: RookieOven October Meetup
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/09/25/rookieoven-october-meetup/
 dsq_thread_id:
@@ -13,7 +13,7 @@ September draws to a close this week and that means the next RookieOven meetup i
 
 [<img class="aligncenter size-full wp-image-1571" title="vespbar" src="http://www.rookieoven.com/wp-content/uploads/2011/09/vespbar.png" alt="Vespbar Glasgow Venue for RookieOven Meetup" width="620" height="199" />][1]
 
-The venue for the RookieOven meetup is Vespbar which is a short walk from either Glasgow Central or Queen Street Station. It has a great selection of beers and they do pizza by the metre. We will be in the downstairs section but any problems finding the venue on the night tweet me ([@_MDHayes][2]) or the [RookieOven twitter][3] account. If you sign up to the Vespbar mailing list you can also get yourself a free pizza.
+The venue for the RookieOven meetup is Vespbar which is a short walk from either Glasgow Central or Queen Street Station. It has a great selection of beers and they do pizza by the metre. We will be in the downstairs section but any problems finding the venue on the night tweet me ([@_1][2]) or the [RookieOven twitter][3] account. If you sign up to the Vespbar mailing list you can also get yourself a free pizza.
 
 <p style="text-align: center;">
   <br /> <small><a href="https://maps.google.co.uk/maps?q=vespbar&aq=f&ie=UTF8&hl=en&hq=vespbar&hnear=Glasgow,+United+Kingdom&ll=55.860919,-4.256728&spn=0.012234,0.036135&t=h&z=14&iwloc=A&cid=14174352842774113761&source=embed">View Larger Map</a></small>
@@ -26,7 +26,7 @@ October is bound to be an eventful month for Scottish startups with [CEO Masterc
 See you there?
 
  [1]: http://www.rookieoven.com/wp-content/uploads/2011/09/vespbar.png
- [2]: http://twitter.com/_MDHayes "Michael Hayes Twitter"
+ [2]: http://twitter.com/_1 "Michael Hayes Twitter"
  [3]: http://twitter.com/Rookieoven "RookieOven Twitter"
  [4]: http://blog.swarmly.co/ "Swarmly Blog"
  [5]: http://news.ycombinator.com/item?id=4478326 "RookieOven HackerNews posting"

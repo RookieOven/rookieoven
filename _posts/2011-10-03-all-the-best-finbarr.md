@@ -1,6 +1,6 @@
 ---
 title: All the Best Finbarr
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/10/03/all-the-best-finbarr/
 dsq_thread_id:

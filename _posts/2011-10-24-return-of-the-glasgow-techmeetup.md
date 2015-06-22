@@ -1,6 +1,6 @@
 ---
 title: Return of the Glasgow TechMeetup
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/10/24/return-of-the-glasgow-techmeetup/
 dsq_thread_id:

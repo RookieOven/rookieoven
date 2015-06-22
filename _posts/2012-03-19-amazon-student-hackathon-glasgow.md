@@ -1,6 +1,6 @@
 ---
 title: Amazon Student Hackathon Glasgow
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/03/19/amazon-student-hackathon-glasgow/
 dsq_thread_id:

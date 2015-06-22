@@ -1,6 +1,6 @@
 ---
 title: ShopForCloud Acquired; Now PlanForCloud
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/07/19/shopforcloud-acquired-now-planforcloud/
 dsq_thread_id:

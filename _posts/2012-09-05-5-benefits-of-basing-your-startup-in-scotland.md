@@ -1,6 +1,6 @@
 ---
 title: 5 benefits of basing your startup in Scotland
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/09/05/5-benefits-of-basing-your-startup-in-scotland/
 dsq_thread_id:

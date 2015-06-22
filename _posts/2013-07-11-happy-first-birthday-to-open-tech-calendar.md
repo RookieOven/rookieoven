@@ -1,6 +1,6 @@
 ---
 title: Happy first birthday to Open Tech Calendar
-author: mdhayes
+author: 1
 layout: post
 permalink: /2013/07/11/happy-first-birthday-to-open-tech-calendar/
 dsq_thread_id:

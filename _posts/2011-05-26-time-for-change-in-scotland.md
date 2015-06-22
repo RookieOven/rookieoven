@@ -1,6 +1,6 @@
 ---
 title: Time for change in Scotland
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/05/26/time-for-change-in-scotland/
 dsq_thread_id:

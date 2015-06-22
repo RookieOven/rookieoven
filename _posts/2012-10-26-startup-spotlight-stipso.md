@@ -1,6 +1,6 @@
 ---
 title: 'Startup Spotlight: Stipso'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/10/26/startup-spotlight-stipso/
 dsq_thread_id:

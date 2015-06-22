@@ -1,6 +1,6 @@
 ---
 title: The Lean Startup
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/03/02/the-lean-startup/
 dsq_thread_id:

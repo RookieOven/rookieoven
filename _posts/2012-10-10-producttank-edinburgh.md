@@ -1,6 +1,6 @@
 ---
 title: ProductTank Edinburgh
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/10/10/producttank-edinburgh/
 dsq_thread_id:

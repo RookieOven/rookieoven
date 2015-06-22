@@ -1,6 +1,6 @@
 ---
 title: Taking Funding for your Startup is not Evil
-author: GOMalley
+author: 5
 layout: post
 permalink: /2012/11/19/startup-funding-is-not-evil/
 dsq_thread_id:

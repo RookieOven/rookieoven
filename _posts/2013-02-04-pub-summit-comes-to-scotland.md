@@ -1,6 +1,6 @@
 ---
 title: Pub Summit comes to Scotland
-author: mdhayes
+author: 1
 layout: post
 permalink: /2013/02/04/pub-summit-comes-to-scotland/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: Bootstrapd Open Space Event for Self-Funded Startups
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/06/18/bootstrapd-open-space-event-for-self-funded-startups/
 dsq_thread_id:

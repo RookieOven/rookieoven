@@ -1,6 +1,6 @@
 ---
 title: What I Want From Turing Festival 2012
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/08/23/what-i-want-from-turing-festival-2012/
 dsq_thread_id:

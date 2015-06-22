@@ -1,6 +1,6 @@
 ---
 title: Final RookieOven Meetup of 2012
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/11/29/final-rookieoven-meetup-of-2012/
 dsq_thread_id:
@@ -12,7 +12,7 @@ The next RookieOven Meetup, and last of 2012, is taking place in Glasgow this co
 
 [<img title="vespbar" src="http://www.rookieoven.com/wp-content/uploads/2011/09/vespbar.png" alt="Vespbar Glasgow Venue for RookieOven Meetup" width="620" height="199" />][1]
 
-The venue for the RookieOven meetup is Vespbar which is a short walk from either Glasgow Central or Queen Street Station. It has a great selection of beers and they do pizza by the metre. We will be in the downstairs section but any problems finding the venue on the night tweet me ([@_MDHayes][2]) or the [RookieOven twitter][3] account.
+The venue for the RookieOven meetup is Vespbar which is a short walk from either Glasgow Central or Queen Street Station. It has a great selection of beers and they do pizza by the metre. We will be in the downstairs section but any problems finding the venue on the night tweet me ([@_1][2]) or the [RookieOven twitter][3] account.
 
 The meetup is a platform for the Scottish startup community to interact on a regular basis. At the meetup there are no talks, presentations or set agendas just great conversations between Scottish startup founders, employees and enthusiasts. There are only two rules for the meetup:
 
@@ -32,7 +32,7 @@ More immediately looking ahead to December we have the Edinburgh Startups Chri
 See you all on Monday.
 
  [1]: http://www.rookieoven.com/wp-content/uploads/2011/09/vespbar.png
- [2]: http://twitter.com/_MDHayes "Michael Hayes Twitter"
+ [2]: http://twitter.com/_1 "Michael Hayes Twitter"
  [3]: http://twitter.com/Rookieoven "RookieOven Twitter"
  [4]: http://www.rookieoven.com/2012/10/29/startup-summit-2012/ "Startup Summit 2012"
  [5]: http://www.rookieoven.com/2012/10/15/whats-the-worst-that-could-happen/ "What’s the worst that could happen?"

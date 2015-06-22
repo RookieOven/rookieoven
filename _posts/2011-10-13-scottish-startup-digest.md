@@ -1,6 +1,6 @@
 ---
 title: Scottish StartupDigest
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/10/13/scottish-startup-digest/
 dsq_thread_id:
@@ -15,7 +15,7 @@ categories:
 
 There are so many great events happening across Scotland but it can be difficult finding out about them, a perfect example would be the Turing Festival that happened at the end of August. There were a host of internationally [renowned speakers][1] at the festival however I sadly missed out as it wasn&#8217;t on my radar. From this Monday onwards you will get a weekly email highlighting the best events for startups across Scotland for the coming week and all you have to do is subscribe for free. Subscription is easy on [The Startup Digest signup page][2] selecting Scotland as your area (would also be worth your time subscribing to the London Digest curated by Scott Allison).
 
-To make the Scottish Startup Digest a success I&#8217;m going to need your help. Please email me by the Sunday before the event at <mdhayes@thestartupdigest.com> with any events happening in Scotland that you feel are startup relevant.
+To make the Scottish Startup Digest a success I&#8217;m going to need your help. Please email me by the Sunday before the event at <1@thestartupdigest.com> with any events happening in Scotland that you feel are startup relevant.
 
 Will be doing my first Digest this weekend so get signed up and let me know whats happening.
 

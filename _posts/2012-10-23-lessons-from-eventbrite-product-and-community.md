@@ -1,6 +1,6 @@
 ---
 title: 'Lessons from Eventbrite &#8211; product and community'
-author: JMcHale
+author: 2
 layout: post
 permalink: /2012/10/23/lessons-from-eventbrite-product-and-community/
 geo_latitude:

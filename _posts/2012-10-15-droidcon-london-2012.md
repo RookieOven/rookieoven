@@ -1,6 +1,6 @@
 ---
 title: 'Droidcon London 2012 &#8211; October 25th-26th'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/10/15/droidcon-london-2012/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: 'What&#8217;s the worst that could happen?'
-author: RSmith
+author: 6
 layout: post
 permalink: /2012/10/15/whats-the-worst-that-could-happen/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: 'Interns: A Good Way to Grow Your Team'
-author: JMcHale
+author: 2
 layout: post
 permalink: /2012/03/15/interns-a-good-way-to-grow-your-team/
 dsq_thread_id:

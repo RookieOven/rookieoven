@@ -1,6 +1,6 @@
 ---
 title: Personally Taking Stock
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/12/29/personally-taking-stock/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: Long is Easy, Short is Hard
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/02/09/long-is-easy-short-is-hard/
 dsq_thread_id:

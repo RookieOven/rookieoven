@@ -9,7 +9,7 @@
          <h2>{{ page.title }}</h2>
       </div>
     </div>
-  	{% assign author = site.data.team | where: "id", page.author_id | first %}
+  	{% assign author = site.data.contributors | where: "id", page.author | first %}
   	<div class="post">
 		<div class="date">{{ page.date | date: "%B %-d, %Y" }}</div>
 	    <div class="author">By <a href="http://twitter.com/{{author.twitter}}">{{ author.name }}</a></div>

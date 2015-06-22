@@ -1,6 +1,6 @@
 ---
 title: WallaBee is a Finalist in the Startup2.0 Competition
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/06/10/wallabee-is-a-finalist-in-the-startup2-0-competition/
 dsq_thread_id:

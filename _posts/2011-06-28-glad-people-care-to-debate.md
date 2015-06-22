@@ -1,6 +1,6 @@
 ---
 title: Glad People Care to Debate
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/06/28/glad-people-care-to-debate/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: 'Startup Spotlight: Denki'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/10/12/startup-spotlight-denki/
 dsq_thread_id:

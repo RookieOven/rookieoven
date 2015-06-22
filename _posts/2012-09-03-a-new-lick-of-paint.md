@@ -1,6 +1,6 @@
 ---
 title: A new lick of paint
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/09/03/a-new-lick-of-paint/
 dsq_thread_id:

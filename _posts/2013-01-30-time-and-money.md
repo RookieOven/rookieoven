@@ -1,6 +1,6 @@
 ---
 title: Time and Money
-author: JMcHale
+author: 2
 layout: post
 permalink: /2013/01/30/time-and-money/
 dsq_thread_id:

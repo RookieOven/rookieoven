@@ -1,6 +1,6 @@
 ---
 title: Applications Closing Soon For Seedcamp London
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/07/05/applications-closing-soon-for-seedcamp-london/
 dsq_thread_id:

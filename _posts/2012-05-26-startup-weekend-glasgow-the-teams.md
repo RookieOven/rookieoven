@@ -1,6 +1,6 @@
 ---
 title: 'Startup Weekend Glasgow: The Teams'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/05/26/startup-weekend-glasgow-the-teams/
 dsq_thread_id:

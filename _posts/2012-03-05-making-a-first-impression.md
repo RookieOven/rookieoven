@@ -1,6 +1,6 @@
 ---
 title: Making a First Impression
-author: DWong
+author: 4
 layout: post
 permalink: /2012/03/05/making-a-first-impression/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: Exciting Times Ahead For Glasgow Startups
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/11/10/exciting-times-ahead-for-glasgow-startups/
 dsq_thread_id:

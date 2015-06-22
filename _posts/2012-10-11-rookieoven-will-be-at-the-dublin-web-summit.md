@@ -1,6 +1,6 @@
 ---
 title: RookieOven will be at the Dublin Web Summit
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/10/11/rookieoven-will-be-at-the-dublin-web-summit/
 dsq_thread_id:
@@ -30,4 +30,4 @@ Finally if you are an attendee or exhibitor at Dublin Web Summit and would like 
  [5]: http://www.websummit.net/attendees/ "Attendees list Web Summit 2012"
  [6]: http://twitter.com/rookieoven "RookieOven Twitter"
  [7]: mailto:michael@codecreated.me
- [8]: http://twitter.com/_MDhayes "Michael Hayes Glasgow Twitter"
+ [8]: http://twitter.com/_1 "Michael Hayes Glasgow Twitter"

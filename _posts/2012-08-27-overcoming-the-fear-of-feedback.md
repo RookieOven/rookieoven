@@ -1,6 +1,6 @@
 ---
 title: Overcoming the Fear of Feedback
-author: JMcHale
+author: 2
 layout: post
 permalink: /2012/08/27/overcoming-the-fear-of-feedback/
 dsq_thread_id:

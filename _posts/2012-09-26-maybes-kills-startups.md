@@ -1,6 +1,6 @@
 ---
 title: Maybes kills startups
-author: CRussell
+author: 3
 layout: post
 permalink: /2012/09/26/maybes-kills-startups/
 dsq_thread_id:

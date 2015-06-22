@@ -1,6 +1,6 @@
 ---
 title: 'What&#8217;s on at UX Scotland 2013'
-author: DWong
+author: 4
 layout: post
 permalink: /2013/06/05/ux-scotland-2013-programme/
 dsq_thread_id:

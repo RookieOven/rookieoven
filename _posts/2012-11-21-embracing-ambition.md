@@ -1,6 +1,6 @@
 ---
 title: 'Let&#8217;s embrace Ambition'
-author: CRussell
+author: 3
 layout: post
 permalink: /2012/11/21/embracing-ambition/
 dsq_thread_id:

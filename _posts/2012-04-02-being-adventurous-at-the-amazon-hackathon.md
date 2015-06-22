@@ -1,6 +1,6 @@
 ---
 title: Being Adventurous at the Amazon Hackathon
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/04/02/being-adventurous-at-the-amazon-hackathon/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: The power of association
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/12/21/the-power-of-association/
 dsq_thread_id:

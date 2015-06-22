@@ -1,6 +1,6 @@
 ---
 title: A Startups New Years Resolutions (kinda)
-author: CRussell
+author: 3
 layout: post
 permalink: /2013/01/11/a-startups-new-years-resolutions-kinda/
 dsq_thread_id:

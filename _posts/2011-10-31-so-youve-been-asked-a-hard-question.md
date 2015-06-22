@@ -1,6 +1,6 @@
 ---
 title: 'So You&#8217;ve Been Asked a Hard Question&#8230;'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/10/31/so-youve-been-asked-a-hard-question/
 dsq_thread_id:

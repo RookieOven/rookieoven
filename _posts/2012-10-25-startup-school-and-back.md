@@ -1,6 +1,6 @@
 ---
 title: Startup School and back
-author: GOMalley
+author: 5
 layout: post
 permalink: /2012/10/25/startup-school-and-back/
 dsq_thread_id:

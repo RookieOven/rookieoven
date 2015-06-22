@@ -1,6 +1,6 @@
 ---
 title: Entitlement
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/10/01/entitlement/
 dsq_thread_id:

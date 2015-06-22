@@ -1,6 +1,6 @@
 ---
 title: 'Startup Spotlight: Swarmly'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/09/28/startup-spotlight-swarmly/
 dsq_thread_id:

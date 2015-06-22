@@ -1,6 +1,6 @@
 ---
 title: 'Gogobot &#8211; building an engaged user base'
-author: JMcHale
+author: 2
 layout: post
 permalink: /2012/10/17/gogobot-building-an-engaged-user-base/
 geo_latitude:

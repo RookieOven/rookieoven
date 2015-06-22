@@ -1,6 +1,6 @@
 ---
 title: 'What&#8217;s on in December?'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/12/01/whats-on-in-december/
 dsq_thread_id:

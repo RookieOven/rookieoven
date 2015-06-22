@@ -1,6 +1,6 @@
 ---
 title: EIE12 Keynote Video
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/06/22/eie12-keynote-video/
 dsq_thread_id:

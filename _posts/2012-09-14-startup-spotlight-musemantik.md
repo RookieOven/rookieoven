@@ -1,6 +1,6 @@
 ---
 title: 'Startup Spotlight: Musemantik'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/09/14/startup-spotlight-musemantik/
 dsq_thread_id:

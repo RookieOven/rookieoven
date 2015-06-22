@@ -1,6 +1,6 @@
 ---
 title: 'Startup Spotlight: Tech Britain'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/11/23/startup-spotlight-tech-britain/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: Welcome to Rookie Oven
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/05/15/hello-world-2/
 dsq_thread_id:

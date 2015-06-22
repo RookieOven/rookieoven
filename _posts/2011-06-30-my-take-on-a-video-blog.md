@@ -1,6 +1,6 @@
 ---
 title: My take on a Video Blog
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/06/30/my-take-on-a-video-blog/
 dsq_thread_id:

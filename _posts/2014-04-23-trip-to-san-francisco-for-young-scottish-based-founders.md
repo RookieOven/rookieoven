@@ -1,6 +1,6 @@
 ---
 title: Trip to San Francisco for young Scottish based founders
-author: mdhayes
+author: 1
 layout: post
 permalink: /2014/04/23/trip-to-san-francisco-for-young-scottish-based-founders/
 dsq_thread_id:

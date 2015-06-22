@@ -1,6 +1,6 @@
 ---
 title: 'What&#8217;s on in Scotland'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2014/08/29/whats-on-in-scotland/
 dsq_thread_id:

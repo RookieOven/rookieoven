@@ -1,6 +1,6 @@
 ---
 title: Frames of reference for a startup community
-author: JMcHale
+author: 2
 layout: post
 permalink: /2012/10/18/frames-of-reference-for-a-startup-community/
 geo_latitude:

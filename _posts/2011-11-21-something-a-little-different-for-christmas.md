@@ -1,6 +1,6 @@
 ---
 title: Something a Little Different for Christmas (Updated)
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/11/21/something-a-little-different-for-christmas/
 dsq_thread_id:
@@ -32,7 +32,7 @@ The meetup will start at the usual time of half 6 and there will be free pizza (
   <br /> <small><a style="color: #0000ff; text-align: left;" href="http://maps.google.co.uk/maps?f=q&source=embed&hl=en&geocode=CYz7dhb9RxTKFWkZVAMdGya__ykFUAqelUaISDFm7oE-Bijyrw&q=Glasgow+City+G5+0US,+UK&aq=&sll=55.85224,-4.230251&sspn=0.025101,0.061712&vpsrc=6&gl=uk&ie=UTF8&hq=&hnear=Glasgow+G5+0US,+United+Kingdom&ll=55.843177,-4.250085&spn=0.006276,0.016587&t=m&z=14">View Larger Map</a></small>
 </p>
 
-Attending previous meetups we&#8217;ve had a fantastic mix of people from folk with successful businesses to those who only have an excellent idea and I hope both types would be willing to take part on the 5th. If you&#8217;d like to pitch email me (<mdhayes@gmx.com>) and I would also appreciate if your planning on coming to let me know so we have an idea of numbers for the night but as always no need to book a ticket.
+Attending previous meetups we&#8217;ve had a fantastic mix of people from folk with successful businesses to those who only have an excellent idea and I hope both types would be willing to take part on the 5th. If you&#8217;d like to pitch email me (<1@gmx.com>) and I would also appreciate if your planning on coming to let me know so we have an idea of numbers for the night but as always no need to book a ticket.
 
 So tell me, think it sounds good?
 

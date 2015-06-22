@@ -1,6 +1,6 @@
 ---
 title: 'London Web Summit &#8211; A roundup'
-author: JMcHale
+author: 2
 layout: post
 permalink: /2012/03/31/london-web-summit-a-roundup/
 storify_description_added:

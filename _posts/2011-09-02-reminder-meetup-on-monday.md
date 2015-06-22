@@ -1,6 +1,6 @@
 ---
 title: 'Reminder &#8211; Meetup on Monday'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/09/02/reminder-meetup-on-monday/
 dsq_thread_id:

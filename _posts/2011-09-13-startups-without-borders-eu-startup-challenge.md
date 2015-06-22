@@ -1,6 +1,6 @@
 ---
 title: 'Startups without Borders &#8211; EU Startup Challenge'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/09/13/startups-without-borders-eu-startup-challenge/
 dsq_thread_id:

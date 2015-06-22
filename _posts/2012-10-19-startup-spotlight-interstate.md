@@ -1,6 +1,6 @@
 ---
 title: 'Startup Spotlight: Interstate'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/10/19/startup-spotlight-interstate/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: Social Innovation Camp 2011
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/06/13/social-innovation-camp-2011/
 dsq_thread_id:

@@ -1,6 +1,6 @@
 ---
 title: Essential Blogs for a Start-up Education
-author: mdhayes
+author: 1
 layout: post
 permalink: /2011/09/09/essential-blogs-for-a-start-up-education/
 dsq_thread_id:

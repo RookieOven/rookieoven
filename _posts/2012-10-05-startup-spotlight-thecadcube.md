@@ -1,6 +1,6 @@
 ---
 title: 'Startup Spotlight: theCADcube'
-author: mdhayes
+author: 1
 layout: post
 permalink: /2012/10/05/startup-spotlight-thecadcube/
 dsq_thread_id:
