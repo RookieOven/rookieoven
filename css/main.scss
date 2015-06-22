@@ -9,12 +9,13 @@ $desktop: min-width 992px max-width 1199px;
 $largedesktop: min-width 1200px;
 
 // Colours
-$brand-color: rgb(4, 59, 126);
+$brand-color: rgb(70, 142, 229);
 $separator-color: rgb(214,214,214);
-$dark-color: rgb(39, 43, 67);
+$dark-color: rgb(0, 33, 76);
 $dark-link-color: darken($dark-color, 25);
 $light-color: rgb(255,255,255);
 $form-background: rgb(245,245,245);
+$footer-color: rgb(242, 242, 242);
 
 @mixin brand-gradient() {
 	background-color: $brand-color;
