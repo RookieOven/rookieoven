@@ -1,104 +1,178 @@
-.home .header {
-	@include span-columns(12 of 12);
-	min-height: 650px;
-	height: 100%;
-	padding: 100px;
-	margin-right: 0;
-	position: relative;
-	@include brand-gradient;
-	text-align: center;
+.vert-text {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+  text-align: center;
+  color: $light-color;
+  height: 400px;
+  display: table;
+  width: 100%;
 
-	@include media($mobile) {
-		padding: 10px;
-	}
-
-	.nav {
-		@include span-columns(12 of 12);
-	.logo {
-	  position: absolute;
-	  top: 20px;
-	  left: 30px;
-		margin: 0 auto;
-		height: 50px;
-
-		@include media($mobile) {
-			margin-top: 80px;
-		}
-	}
+  h2 {
+  	display: table-cell;
+  	vertical-align: middle;
+  	font-size: 1.9em;
+  	height: 100%;
+  	padding-left: 100px;
+  	padding-right: 100px;
+  	font-weight: 700;
+  }
+  a:link, a:visited {
+  	color: $light-color;
+  }
+  a:hover {
+  	color: #f6f6f6;
+  }
 }
 
-	.strapline {
-		margin-top: 60px;
-		color: $light-color;
-		margin-left: 40px;
-		margin-right: 40px;
-		text-align: left;
-
-		@include media($mobile) {
-			margin-left: 20px;
-			margin-right: 20px;
-		}
-	}
-
-	.description {
-		margin-top: 60px;
-		margin-bottom: 80px;
-		color: $light-color;
-		margin-left: 40px;
-		margin-right: 40px;
-		max-width: 450px;
-		text-align: left;
-
-		@include media($mobile) {
-			margin-left: 20px;
-			margin-right: 20px;
-		}
-	}
-
-	.actions {
-		float: left;
-		margin-left: 40px;
-
-		.light{
-			margin-left: 20px;
-		}
-	}
+.header-img {
+  display: table;
+  height: 80%;
+  width: 100%;
+  position: relative;
+  background: url(/images/rookieoven-overview.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
-.steps {
+.full-page-img:before {
+	content: "";
+	position:absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	background: rgba(0,0,0,0.15);
+}
+
+.middle-img {
+  display: table;
+  height: 60%;
+  width: 100%;
+  position: relative;
+  background: url(/images/rookieoven-pool.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.middle-img:before {
+	content: "";
+	position:absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	background: rgba(0,0,0,0.15);
+}
+
+.section {
 	@include span-columns(8 of 12);
 	@include shift(2);
-	padding: 50px 0;
-
-	@include media($desktop) {
-		@include span-columns(10 of 12);
-		@include shift(1);
-	}
-
-	@include media($tablet) {
-		@include span-columns(10 of 12);
-		@include shift(1);
-	}
+	color: $dark-color;
+	margin-top: 32px;
+	margin-bottom: 28px;
 
 	@include media($mobile) {
-		@include span-columns(12 of 12);
-		@include shift(0);
-	}
+    @include span-columns(10 of 12);
+		@include shift(1);
+    font-size: 1.1em;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
 
-	h2, h3{
+ 	@include media($tablet) {
+    @include span-columns(8 of 12);
+		@include shift(2);
+    font-size: 1.1em;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+	h2 {
+		font-size: 1.9em;
+		line-height: 1.9em;
 		text-align: center;
-		margin-bottom: 50px;
 	}
-
 	p {
+		@include span-columns(10 of 12);
+		@include shift(1);
 		font-size: 1.1em;
-		padding: 20px;
+		line-height: 1.6em;
+		font-family: 'Open Sans', sans-serif;
+		text-align: left;
+		padding-bottom: 20px;
+	}
+}
+
+.partners {
+	@include span-columns(8 of 12);
+	@include shift(2);
+	color: $dark-color;
+	text-align: center;
+	.partner {
+		@include span-columns(3 of 12);
+		max-width: 350px;
+		padding: 0 25px 35px 25px;
+	}
+	h2 {
+		font-size: 1.9em;
+		line-height: 1.9em;
+		padding-bottom: 30px;
+		text-align: center;
+	}
+}
+
+.recent {
+	@include span-columns(10 of 12);
+	@include shift(1);
+	color: #4A4A4A;
+	text-align: center;
+	padding: 0 100px 50px 100px;
+
+	h2 {
+		font-size: 1.9em;
+		line-height: 1.9em;
+		padding-bottom: 30px;
+		text-align: center;
+	}
+	.post-image {
+		width:100%;
+		margin: 0;
+		text-align: center;
+	}
+	.post-excert {
+		font-size: 1.0em;
+		line-height: 1.6em;
+		padding: 20px 0 30px 0;
+		text-align: justify;
+	}
+	.post-title {
+		font-size: 1.3em;
+		line-height: 1.4em;
+		padding-bottom: 15px;
+		text-align: center;
+    font-family: 'Quicksand', sans-serif;
 	}
 
-	img {
-		display: block;
-		margin: 0 auto;
-		min-height: 120px;
-		padding: 48px 0;
+	.post {
+		float: left;
+		width: 45%;
+		margin-right: 10%;
+
+  	@include media($mobile) {
+    	@include span-columns(10 of 12);
+			@include shift(1);
+    	font-size: 1.1em;
+    	margin-bottom: 20px;
+    	padding-left: 0;
+  	}
+	}
+
+	.post:last-child {
+		margin-right: 0;
 	}
 }
