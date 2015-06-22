@@ -4,7 +4,15 @@
   {% include head.html %}
 
   <body class="blog">
-    <div class="header-img">
+
+  {% include header.html %}
+
+  {% if page.headerImage %}
+    <div class="post-img">
+      <img src="{{ page.headerImage }}">
+  {% else %}
+     <div class="empty-img">
+  {% endif %}
       <div class="vert-text">
          <h2>{{ page.title }}</h2>
       </div>

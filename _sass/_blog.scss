@@ -39,7 +39,7 @@
       background-size: cover;
     }
 
-    .full-page-img:before {
+    .header-img:before {
         content: "";
         position:absolute;
         top: 0;
@@ -47,6 +47,28 @@
         right: 0;
         left: 0;
         background: rgba(0,0,0,0.15);
+    }
+
+    .post-img {
+      height: 80%;
+      overflow: hidden;
+
+      img {
+        width: 100%;
+        object-fit: cover;
+      }
+    }
+
+    .empty-img {
+      display: table;
+      height: 80%;
+      width: 100%;
+      position: relative;
+      background: url(/images/rookieoven.png) no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
     }
 }
 
@@ -92,7 +114,7 @@
     margin-top: 20px;
 
     a {
-        color: #ff5371;
+        color: $brand-color;
     }
 
     p, ul, h2, h3, h4, h5, pre, div {
@@ -101,7 +123,7 @@
     }
 
     h3, h4, h5 {
-        width: 45%;
+        width: 50%;
 
         @include media($tablet) {
             width: 70%;
