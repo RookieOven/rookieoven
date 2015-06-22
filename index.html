@@ -25,6 +25,10 @@ layout: page
 	<div class="section partners">
 		<h2>Partners</h2>
 
+		{% for partner in site.data.partners %}
+			<img class="partner" src="/images/{{ partner.image }}">
+		{% endfor %}
+
 </div>
 	<div class="recent">
 		<h2>Recent Posts</h2>
