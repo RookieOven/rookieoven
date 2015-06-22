@@ -1,0 +1,60 @@
+---
+title: Coworking
+author: 1
+layout: page
+---
+<div class="header-img">
+  <div class="vert-text">
+     <h2>{{ page.header }}</h2>
+  </div>
+</div>
+
+<div class="section">
+	<h2>{{ site.data.home.subheader }}</h2>
+	<p>{{ site.data.home.introduction }}</p>
+
+	<h2>Keep Informed</h2>
+  {% include subscribe.html %}
+</div>
+
+<div class="section pricing">
+	<h2>Rates</h2>
+	<div class ="offering">
+		<h3>Fixed Desk</h3>
+		<h4>£175<small class="vat">+VAT</small></h4>
+		<ul>
+			<li>Your own desk to call home.</li>
+			<li>Flexible access and working times</li>
+			<li>Free Job Board postings</li>
+			<li>Use of Boardroom</li>
+		</ul>
+		<button>Enquire</button>
+	</div>
+	<div class ="offering">
+		<h3>Hot Desk</h3>
+		<h4>£120<small class="vat">+VAT</small></h4>
+		<ul>
+			<li>Use of a Hot Desk</li>
+			<li>Access between 8am and 6pm</li>
+			<li>Free Job Board Postings</li>
+			<li>Bookable meetings rooms</li>
+		</ul>
+		<button>Find out more</button>
+	</div>
+</div>
+
+	<div class="middle">
+    <div class="vert-text">
+       <h2>{{ page.middle }}</h2>
+    </div>
+  </div>
+
+	<div class="section tenants">
+		<h2>Partners</h2>
+
+		{% for tenant in site.data.tenants %}
+			<img class="tenant" src="/images/tenants/{{ tenant.image }}">
+		{% endfor %}
+
+	</div>
+</div>

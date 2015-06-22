@@ -2,13 +2,13 @@
   id: 1
   image: add-jam.png
   description: Creating beautiful mobile products
-  twitter: add_jam
+  twitter: add_jam.png
   email: yo@addjam.com
   url: http://addjam.com
 
 - name: Insurance By Jack
   id: 2
-  image: insurance-by-jack.png
+  image: insurancebyjack.png
   description: Simple business insurance for freelancers
   twitter: insurancebyjack
   email: hello@insurancebyjack.co.uk
@@ -16,7 +16,7 @@
 
 - name: FarmGeek
   id: 3
-  image: farmgeek.png
+  image: farmgeek.jpg
   description: Business management software for Farmers
   twitter: wearefarmgeek
   email: hello@farmer.io
@@ -24,7 +24,7 @@
 
 - name: RawTech
   id: 4
-  image: rawtech.png
+  image: rawtechio.png
   description: Expert python development from Glasgow
   twitter: rawtechio
   email: hello@rawtech.io
