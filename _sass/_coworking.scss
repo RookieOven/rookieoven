@@ -26,7 +26,7 @@
   }
 }
 
-.header-img {
+.coworking-img {
   display: table;
   height: 80%;
   width: 100%;
@@ -38,7 +38,7 @@
   background-size: cover;
 }
 
-.full-page-img:before {
+.coworking-img:before {
 	content: "";
 	position:absolute;
 	top: 0;
@@ -88,7 +88,6 @@
 
 	.tenant {
 		@include span-columns(3 of 12);
-		max-width: 60px;
 		padding: 0 25px;
 
 	 	@include media($tablet) {
@@ -112,12 +111,12 @@
 	h2 {
 		font-size: 1.9em;
 		line-height: 1.9em;
-		padding-bottom: 30px;
+		padding-bottom: 12px;
 		text-align: center;
 	}
 	.offering {
 		@include span-columns(6 of 12);
-		margin-bottom: 40px;
+		margin-bottom: 12px;
 
 		@include media($mobile) {
 			@include span-columns(10 of 12);
@@ -125,18 +124,17 @@
   	}
 		h3 {
 			font-size: 1.3em;
-			line-height: 1.9em;
 			padding-bottom: 10px;
 			text-align: center;
-			color: #4A90E2;
+			color: $brand-color;
 			font-weight: 700;
 		}
 		h4 {
 			font-size: 3.0em;
-			line-height: 1.9em;
+			margin: 0;
 			padding-bottom: 5px;
 			text-align: center;
-			color: #4A90E2;
+			color: $brand-color;
 			font-weight: 700;
 
 			.vat {
@@ -150,7 +148,7 @@
 		}
 		li:before {
     	content: "• ";
-    	color: #4A90E2;
+    	color: $brand-color;
 		}
 		.button {
 			margin-top: 30px;
@@ -163,7 +161,7 @@
       border-radius: 4px;
       font-size: 1.1em;
       background-color: #ffffff;
-      color: #4A90E2;
+      color: $brand-color;
       transition: .3s;
       cursor: pointer;
       -webkit-appearance: none;
@@ -177,7 +175,7 @@
     }
 
     .button :hover {
-      background-color: #4A90E2;
+      background-color: $brand-color;
       color: #ffffff;
     }
 	}

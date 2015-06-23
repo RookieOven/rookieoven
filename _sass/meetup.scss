@@ -1,0 +1,93 @@
+.vert-text {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+  text-align: center;
+  color: $light-color;
+  height: 400px;
+  display: table;
+  width: 100%;
+
+  h2 {
+  	display: table-cell;
+  	vertical-align: middle;
+  	font-size: 1.9em;
+  	height: 100%;
+  	padding-left: 100px;
+  	padding-right: 100px;
+  	font-weight: 700;
+  }
+  a:link, a:visited {
+  	color: $light-color;
+  }
+  a:hover {
+  	color: #f6f6f6;
+  }
+}
+
+.meetup-img {
+  display: table;
+  height: 80%;
+  width: 100%;
+  position: relative;
+  background: url(/images/rookieoven-meetup.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.meetup-img:before {
+	content: "";
+	position:absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	background: rgba(0,0,0,0.15);
+}
+
+.meetup {
+	@include span-columns(8 of 12);
+	@include shift(2);
+	color: #4A4A4A;
+	padding: 25px 0 25px 0;
+
+	@include media($mobile) {
+    @include span-columns(10 of 12);
+		@include shift(1);
+    font-size: 1.1em;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+ 	@include media($tablet) {
+    @include span-columns(8 of 12);
+		@include shift(2);
+    font-size: 1.1em;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+	h2 {
+		font-size: 1.9em;
+		line-height: 1.9em;
+		padding-bottom: 30px;
+		text-align: center;
+	}
+	p {
+		font-size: 1.1em;
+		line-height: 1.6em;
+		font-family: 'Open Sans', sans-serif;
+		text-align: justify;
+		padding-bottom: 20px;
+	}
+	img {
+			max-width: 100%;
+			overflow: hidden;
+	}
+	map {
+		margin-bottom: 60px;
+	}
+}
+
