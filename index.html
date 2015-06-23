@@ -22,16 +22,25 @@ layout: page
 	  </div>
 	</div>
 
-	<div class="section partners">
-		<h2>Partners</h2>
+<div class="section partners">
+	<h2>Partners</h2>
 
-		{% for partner in site.data.partners %}
-			<img class="partner" src="/images/{{ partner.image }}">
-		{% endfor %}
+	{% for partner in site.data.partners %}
+		<img class="partner" src="/images/{{ partner.image }}">
+	{% endfor %}
 
-	</div>
-	<div class="recent">
-		<h2>Recent Posts</h2>
+</div>
 
-	</div>
+<div class="recent">
+	<h2>Recent Posts</h2>
+
+	{% for post in site.posts limit:2 %}
+
+		<div class="post">
+			<h3 class="post-title"><a href={{ post.permalink }}>{{ post.title }}</a></h3>
+			<img class="post-image" src="{{ post.headerImage }}">
+			<p class="post-excert">{{ post.content |truncatehtml | truncatewords: 50 }}</p>
+    </div>
+
+	{% endfor %}
 </div>

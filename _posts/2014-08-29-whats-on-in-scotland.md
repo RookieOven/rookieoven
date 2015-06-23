@@ -2,13 +2,14 @@
 title: 'What&#8217;s on in Scotland'
 author: 1
 layout: post
+headerImage: /images/blog/whats-on.png
 permalink: /2014/08/29/whats-on-in-scotland/
 dsq_thread_id:
   - 2969459776
 categories:
   - Event
 ---
-Been quiet on here (sorry about that) but thought it would be worth rounding up some the events happening over the coming weeks. First up one this weekend in Glasgow.
+Been quiet on here (sorry about that but life and business get in the way) but thought it would be worth while and useful to do a quick rounding up of some great events that are happening over the coming weeks in Scotland. First up one up is on this weekend in Glasgow.
 
 ### The Whisky Bond Summer Party
 
