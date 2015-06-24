@@ -92,12 +92,10 @@
 
 	 	@include media($tablet) {
 	    @include span-columns(4 of 12);
-			@include shift(1);
 	  }
 
 	 	@include media($mobile) {
-	    @include span-columns(5 of 12);
-			@include shift(1);
+	    @include span-columns(6 of 12);
 	  }
 	}
 	h2 {
@@ -147,18 +145,8 @@
 	    font-family: 'Quicksand', sans-serif;
 		}
 
-		.post-image {
-			text-align: center;
-			max-height: 170px;
-			overflow: hidden;
-
-	  	@include media($tablet) {
-				max-height: 130px;
-	  	}
-
-			img {
-				width:100%;
-			}
+		img {
+			width:100%;
 		}
 	}
 }

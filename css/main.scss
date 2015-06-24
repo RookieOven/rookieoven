@@ -176,7 +176,10 @@ header {
     color: darken($brand-color, 20);
   }
 
-  .links {
+  .header-nav {
+    ul {
+      padding: 0px;
+    }
     li {
       display: inline;
       padding: 0 10px;
@@ -347,7 +350,21 @@ footer {
     padding-bottom: 0;
   }
 
-  h2 {
+  h3 {
+    font-size: 1.4em;
+    line-height: 1.6em;
+    text-align: center;
+
+    @include media($mobile) {
+      font-size: 1.2em;
+    }
+
+    @include media($tablet) {
+      font-size: 1.0em;
+    }
+  }
+
+    h2 {
     font-size: 1.9em;
     line-height: 1.9em;
     text-align: center;
