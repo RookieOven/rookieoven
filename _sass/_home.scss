@@ -109,56 +109,56 @@
 }
 
 .recent {
-	@include span-columns(10 of 12);
-	@include shift(1);
-	color: #4A4A4A;
-	text-align: center;
-	padding: 0 100px 50px 100px;
+	@include span-columns(8 of 12);
+	@include shift(2);
+	color: $dark-color;
+	text-align: left;
+
+	@include media($mobile) {
+		@include span-columns(10 of 12);
+		@include shift(1);
+	}
 
 	h2 {
 		font-size: 1.9em;
 		line-height: 1.9em;
-		padding-bottom: 30px;
+		padding-bottom: 12px;
 		text-align: center;
-	}
-	.post-image {
-		margin: 0;
-		text-align: center;
-		max-height: 170px;
-		overflow: hidden;
-		img {
-			width:100%;
-		}
-	}
-	.post-excert {
-		font-size: 1.0em;
-		line-height: 1.6em;
-		text-align: justify;
-	}
-	.post-title {
-		font-size: 1.3em;
-		line-height: 1.4em;
-		padding-bottom: 5px;
-		text-align: center;
-    font-family: 'Quicksand', sans-serif;
 	}
 
 	.post {
-		float: left;
-		width: 45%;
-		margin-right: 10%;
-		text-align: left;
+		@include span-columns(6 of 12);
+		margin-bottom: 12px;
 
-  	@include media($mobile) {
-    	@include span-columns(10 of 12);
-			@include shift(1);
-    	font-size: 1.1em;
-    	margin-bottom: 20px;
-    	padding-left: 0;
+		@include media($mobile) {
+			@include span-columns(12 of 12);
   	}
-	}
 
-	.post:last-child {
-		margin-right: 0;
+  	.post-excert {
+			font-size: 1.0em;
+			line-height: 1.6em;
+		}
+
+		.post-title {
+			font-size: 1.3em;
+			line-height: 1.4em;
+			padding-bottom: 5px;
+			text-align: center;
+	    font-family: 'Quicksand', sans-serif;
+		}
+
+		.post-image {
+			text-align: center;
+			max-height: 170px;
+			overflow: hidden;
+
+	  	@include media($tablet) {
+				max-height: 130px;
+	  	}
+
+			img {
+				width:100%;
+			}
+		}
 	}
 }
