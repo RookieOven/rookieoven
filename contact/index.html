@@ -1,0 +1,36 @@
+---
+title: Contact
+author: 1
+layout: page
+---
+
+<div class="header-img">
+  <div class="vert-text">
+     <h2>{{ site.data.contact.header }}</h2>
+  </div>
+</div>
+
+<div class="section">
+
+<h2>{{ site.data.contact.subheader }}</h2>
+<p>{{ site.data.contact.introduction }}</p>
+
+	<div class="contact-form">
+		<form action="http://getsimpleform.com/messages?form_api_token=############" method="post">
+			<input type='hidden' name='redirect_to' value='http://rookieoven.com/' />
+			<div class="field">
+				<p class="label">Name</p>
+				<input class="ro-input" type='text' name='name' />
+			</div>
+			<div class="field">
+				<p class="label">Email</p>
+				<input class="ro-input" type='text' name='email' />
+			</div>
+			<div class="field">
+				<p class="label">Message</p>
+				<textarea class="ro-input" type='textarea' name='description' rows="4"/> </textarea>
+			</div>
+			<button class="submit-button">Submit</button>
+		</form>
+	</div>
+</div>
