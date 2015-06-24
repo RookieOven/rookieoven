@@ -235,15 +235,36 @@ header {
 footer {
   @include span-columns(12 of 12);
   padding-top: 24px;
-  display: block;
   background: $footer-color;
   text-align: left;
+
+  .pages {
+      @include span-columns(10 of 12);
+  @include shift(1);
+    font-size: 1.6em;
+    color: $brand-color;
+    text-align: center;
+    a {
+      color: $brand-color;
+    }
+    div {
+      @include span-columns(3 of 12);
+      @include media($mobile) {
+        @include span-columns(4 of 4);
+        padding-bottom: 10px;
+      }
+    }
+  }
 
   .info {
     @include span-columns(10 of 12);
     @include shift(1);
     color: $dark-color;
     margin-bottom: 18px;
+
+    img {
+      height: 14px;
+    }
 
     a{
       color: $dark-color;
