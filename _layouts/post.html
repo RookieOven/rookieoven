@@ -19,7 +19,7 @@
     </div>
   	{% assign author = site.data.contributors | where: "id", page.author | first %}
   	<div class="post">
-		<div class="date">{{ page.date | date: "%B %-d, %Y" }}</div>
+		<div class="date"><img src="/images/calendar.png" class="date-img">{{ page.date | date: "%B %-d, %Y" }}</div>
 	    <div class="author">By <a href="http://twitter.com/{{author.twitter}}">{{ author.name }}</a></div>
 		{{ content }}
 

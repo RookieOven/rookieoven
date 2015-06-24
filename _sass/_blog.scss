@@ -272,6 +272,11 @@
   }
 }
 
+.date-img {
+  width: 16px;
+  margin-right: 4px;
+}
+
 .pagination {
   @include span-columns(12 of 12);
   text-align: center;
