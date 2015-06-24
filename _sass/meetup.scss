@@ -49,45 +49,17 @@
 }
 
 .meetup {
-	@include span-columns(8 of 12);
-	@include shift(2);
 	color: $dark-color;
-	padding: 25px 0 25px 0;
 
-	@include media($mobile) {
-    @include span-columns(10 of 12);
-		@include shift(1);
-    font-size: 1.1em;
-    padding-top: 0;
-    padding-bottom: 0;
-  }
-
- 	@include media($tablet) {
-    @include span-columns(8 of 12);
-		@include shift(2);
-    font-size: 1.1em;
-    padding-top: 0;
-    padding-bottom: 0;
-  }
-	h2 {
-		font-size: 1.9em;
-		line-height: 1.9em;
-		padding-bottom: 30px;
-		text-align: center;
-	}
-	p {
-		font-size: 1.1em;
-		line-height: 1.6em;
-		font-family: 'Open Sans', sans-serif;
-		text-align: justify;
-		padding-bottom: 20px;
-	}
 	img {
-			max-width: 100%;
-			overflow: hidden;
+			width: 100%;
 	}
 	map {
 		margin-bottom: 60px;
+
+		@include media($mobile) {
+        width: 100%
+      }
 	}
 }
 
