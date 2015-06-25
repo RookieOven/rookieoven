@@ -70,23 +70,11 @@ h1, h2 {
 	text-transform: none;
 }
 
-h1 {
-	font-size: 2.6em;
-
-  @include media($tablet) {
-    font-size: 2em;
-  }
-
-  @include media($mobile) {
-    font-size: 1.8em;
-  }
-}
-
 h2 {
 	font-size: 2.4em;
 
   @include media($mobile) {
-      font-size: 2em;
+      font-size: 1.8em;
   }
 }
 
@@ -121,7 +109,7 @@ header {
     line-height: 120px;
 
     @include media($mobile) {
-      font-size: 2.0em;
+      font-size: 1.3em;
       width: 100%;
       margin-top: 10px;
       margin-bottom: 3px;
@@ -159,7 +147,7 @@ header {
       text-align: center;
     }
     @include media($mobile) {
-      font-size: 0.9em;
+      font-size: 0.8em;
       width: 100%;
       margin-right: 0px;
       margin-bottom: 10px;
@@ -300,8 +288,8 @@ footer {
     }
 
     @include media($mobile) {
-      @include span-columns(6 of 12);
-      @include shift(3);
+      @include span-columns(10 of 12);
+      @include shift(1);
     }
   }
 
@@ -356,21 +344,24 @@ footer {
     text-align: center;
 
     @include media($mobile) {
-      font-size: 1.2em;
+      font-size: 0.9em;
+      line-height: 1.1em;
     }
 
     @include media($tablet) {
       font-size: 1.0em;
+      line-height: 1.1em;
     }
   }
 
-    h2 {
+  h2 {
     font-size: 1.9em;
     line-height: 1.9em;
     text-align: center;
 
     @include media($mobile) {
-      font-size: 1.6em;
+      line-height: 1.7em;
+      font-size: 1.3em;
     }
 
     @include media($tablet) {
@@ -425,7 +416,23 @@ footer {
     }
 
     @include media($mobile) {
-      width: 500px;
+      width: 300px;
+    }
+
+    h2 {
+      font-size: 1.9em;
+      line-height: 1.9em;
+      text-align: center;
+      margin-bottom: 20px;
+
+      @include media($mobile) {
+        line-height: 1.7em;
+        font-size: 1.3em;
+      }
+
+      @include media($tablet) {
+        font-size: 1.8em;
+      }
     }
 
     label {
@@ -433,6 +440,7 @@ footer {
       display: block;
       text-align: center;
       margin-top: 5px;
+      margin-bottom: 20px;
 
       @include media($mobile) {
        font-size: 0.8em;
@@ -452,7 +460,7 @@ footer {
 
       @include media($mobile) {
         height: 44px;
-       font-size: 0.8em;
+       font-size: 0.7em;
       }
     }
 
@@ -467,7 +475,7 @@ footer {
       padding-left: 14px;
 
       @include media($mobile) {
-       width: 220px;
+       width: 200px;
      }
 
      @include media($tablet) {
@@ -486,7 +494,7 @@ footer {
       margin-left: 22px;
 
       @include media($mobile) {
-       width: 100px;
+       width: 80px;
        margin-left: 12px;
      }
       @include media($tablet) {
@@ -505,4 +513,39 @@ footer {
         -webkit-box-shadow: inset 0 1px 1px lighten($dark-color, 40), 0 0 2px $dark-color;
           box-shadow: inset 0 1px 1px lighten($dark-color, 20), 0 0 2px $dark-color;
     }
+}
+
+.vert-text {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  color: $light-color;
+  height: 400px;
+  display: table;
+  width: 100%;
+
+  h2 {
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 1.9em;
+    height: 100%;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-weight: 700;
+
+    @include media($mobile) {
+      vertical-align: middle;
+      font-size: 1.4em;
+      padding-left: 50px;
+      padding-right: 50px;
+    }
+  }
+  a:link, a:visited {
+    color: $light-color;
+  }
+  a:hover {
+    color: #f6f6f6;
+  }
 }

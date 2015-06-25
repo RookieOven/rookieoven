@@ -1,33 +1,6 @@
 .blog {
-    .vert-text {
-        position: absolute;
-        top: 0;
-        left: 0;
-        right: 0;
-        text-align: center;
-        color: $light-color;
-        height: 400px;
-        display: table;
-        width: 100%;
 
-        h2 {
-            display: table-cell;
-            vertical-align: middle;
-            font-size: 1.9em;
-            height: 100%;
-            padding-left: 100px;
-            padding-right: 100px;
-            font-weight: 700;
-        }
-        a:link, a:visited {
-            color: $light-color;
-        }
-        a:hover {
-            color: #f6f6f6;
-        }
-    }
-
-    .header-img {
+    .blog-header-img {
       display: table;
       height: 80%;
       width: 100%;
@@ -37,9 +10,13 @@
       -moz-background-size: cover;
       -o-background-size: cover;
       background-size: cover;
+
+       @include media($mobile) {
+        background: url(/images/rookieoven-indie-mobile.jpg) no-repeat center center fixed;
+      }
     }
 
-    .header-img:before {
+    .blog-header-img:before {
         content: "";
         position:absolute;
         top: 0;
