@@ -47,8 +47,8 @@
 }
 
 .tenants {
-	@include span-columns(8 of 12);
-	@include shift(2);
+	@include span-columns(10 of 12);
+	@include shift(1);
 	color: $dark-color;
 	text-align: center;
 
@@ -63,17 +63,17 @@
   }
 
 	.tenant {
-		@include span-columns(3 of 12);
-		padding: 0 25px;
+		@include span-columns(2 of 12);
+		margin: 0 25px;
 
 	 	@include media($tablet) {
-	    @include span-columns(4 of 12);
+	    @include span-columns(2 of 12);
 			@include shift(1);
 	  }
 
 	 	@include media($mobile) {
-	    @include span-columns(5 of 12);
-			@include shift(1);
+	    @include span-columns(4 of 12);
+			margin-top: 12px;
 	  }
 	}
 }
@@ -95,8 +95,7 @@
 		margin-bottom: 12px;
 
 		@include media($mobile) {
-			@include span-columns(10 of 12);
-			@include shift(1);
+			@include span-columns(12 of 12);
   	}
 		h3 {
 			font-size: 1.3em;
