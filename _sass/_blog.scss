@@ -27,11 +27,16 @@
 
     .post-img {
       height: 80%;
+      width: 100%;
       overflow: hidden;
 
       img {
         width: 100%;
         object-fit: cover;
+
+        @include media($mobile) {
+          height: 100%;
+        }
       }
     }
 
@@ -47,6 +52,36 @@
       background-size: cover;
     }
 }
+
+.vert-post-text {
+  position: absolute;
+  top: 150px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  color: $light-color;
+  height: 400px;
+  display: table;
+  width: 100%;
+
+  h2 {
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 1.9em;
+    height: 100%;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-weight: 700;
+
+    @include media($mobile) {
+      vertical-align: middle;
+      font-size: 1.4em;
+      padding-left: 50px;
+      padding-right: 50px;
+    }
+  }
+}
+
 
 .blog .posts {
     @include span-columns(6 of 12);

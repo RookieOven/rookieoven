@@ -9,13 +9,17 @@
 
   {% if page.headerImage %}
     <div class="post-img">
-      <img src="{{ page.headerImage }}">
+      <img src="{{ page.headerImage }}" class="centered">
+      <div class="vert-post-text">
+       <h2>{{ page.title }}</h2>
+      </div>
   {% else %}
      <div class="empty-img">
-  {% endif %}
-      <div class="vert-text">
+       <div class="vert-text">
          <h2>{{ page.title }}</h2>
       </div>
+  {% endif %}
+
     </div>
   	{% assign author = site.data.contributors | where: "id", page.author | first %}
   	<div class="post">
