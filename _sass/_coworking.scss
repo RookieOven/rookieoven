@@ -78,11 +78,31 @@
 	}
 }
 
+.details {
+	ul{
+		list-style-type: none;
+	}
+	li {
+		text-align: left;
+		font-size: 0.9em;
+		line-height: 1.3em;
+	}
+	li:before {
+  	content: "• ";
+  	color: $brand-color;
+	}
+}
+
 .pricing {
 	@include span-columns(8 of 12);
 	@include shift(2);
 	color: #4A4A4A;
 	text-align: center;
+
+	@include media($mobile) {
+		@include span-columns(12 of 12);
+		@include shift(0);
+	}
 
 	h2 {
 		font-size: 1.9em;
