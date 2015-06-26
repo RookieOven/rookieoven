@@ -2,7 +2,7 @@
 title: 'What&#8217;s on in Scotland'
 author: 1
 layout: post
-headerImage: /images/blog/whats-on.png
+headerImage: /images/blog/whats-on.jpg
 permalink: /2014/08/29/whats-on-in-scotland/
 dsq_thread_id:
   - 2969459776
