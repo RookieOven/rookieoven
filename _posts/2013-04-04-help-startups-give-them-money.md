@@ -22,10 +22,6 @@ tags:
   Would the government be better giving money directly to startups and letting them decide what to do with it?
 </p>
 
-<div>
-  <a href="http://www.howtoincreasepenissize2014.com/expose-review-penis-growth-guide-ebook-trustworthiness-worthy-information/">how to enlarge penis</a>
-</div>
-
 <p dir="ltr" style="text-align: center">
   <a href="http://www.rookieoven.com/wp-content/uploads/2013/04/GiveDirectly.png"><img class="alignnone size-full wp-image-10941" alt="GiveDirectly" src="http://www.rookieoven.com/wp-content/uploads/2013/04/GiveDirectly.png" width="500" height="90" /></a>
 </p>
