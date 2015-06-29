@@ -93,6 +93,7 @@
 
     p {
         text-align: justify;
+        font-family: 'Open Sans', sans-serif;
     }
 
     @include media($mobile) {
@@ -131,6 +132,10 @@
     p, ul, h2, h3, h4, h5, pre, div {
         display: block;
         margin: 20px auto;
+    }
+
+    p{
+      font-family: 'Open Sans', sans-serif;
     }
 
     h3, h4, h5 {
@@ -280,6 +285,7 @@
       width: 100% !important;
       border-left: 5px solid $separator-color;
       padding-left: 20px;
+      font-family: 'Open Sans', sans-serif;
     }
   }
 }
