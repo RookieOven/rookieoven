@@ -114,10 +114,12 @@
 
 	 	@include media($tablet) {
 	    @include span-columns(12 of 12);
+  		@include shift(0);
 	  }
 
 	 	@include media($mobile) {
 	    @include span-columns(12 of 12);
+  		@include shift(0);
 	  }
 	}
 	li {
