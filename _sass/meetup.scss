@@ -1,4 +1,4 @@
-.meetup-img {
+.meetup-header-img {
   display: table;
   height: 80%;
   width: 100%;
@@ -14,7 +14,7 @@
   }
 }
 
-.meetup-img:before {
+.meetup-header-img:before {
 	content: "";
 	position:absolute;
 	top: 0;
@@ -28,7 +28,9 @@
 	color: $dark-color;
 
 	img {
-			width: 100%;
+			margin: 20px auto;
+			height: 120px;
+			display: block;
 	}
 	map {
 		margin-bottom: 60px;

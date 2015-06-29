@@ -3,7 +3,7 @@ title: Meetup
 author: 1
 layout: page
 ---
-<div class="meetup-img">
+<div class="meetup-header-img">
 	<div class="vert-text">
    	<h2>{{ site.data.meetup.header }}</h2>
 	</div>
@@ -12,6 +12,7 @@ layout: page
 <div class="section">
 	<div class="meetup">
 			<h2>{{ site.data.meetup.location }}</h2>
+			<img src="/images/{{ site.data.meetup.venueImage }}">
 			<p>{{ site.data.meetup.introduction }}</p>
 
 		<div class="map">
