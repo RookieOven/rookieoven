@@ -46,6 +46,33 @@
 	background: rgba(0,0,0,0.15);
 }
 
+.image-row{
+	@include span-columns(10 of 12);
+	@include shift(1);
+
+	@include media($mobile) {
+		@include span-columns(12 of 12);
+		@include shift(0);
+	 }
+
+	img{
+		@include span-columns(3 of 12);
+		margin: 0px;
+		padding: 0px;
+
+		@include media($tablet) {
+	    @include span-columns(6 of 12);
+			margin: 0px;
+			padding: 0px;
+	  }
+		@include media($mobile) {
+	    @include span-columns(6 of 12);
+			margin: 0px;
+			padding: 0px;
+	  }
+  }
+}
+
 .tenants {
 	@include span-columns(10 of 12);
 	@include shift(1);
@@ -81,11 +108,23 @@
 .details {
 	ul{
 		list-style-type: none;
+    @include span-columns(10 of 12);
+		@include shift(1);
+		padding: 0px;
+
+	 	@include media($tablet) {
+	    @include span-columns(12 of 12);
+	  }
+
+	 	@include media($mobile) {
+	    @include span-columns(12 of 12);
+	  }
 	}
 	li {
 		text-align: left;
 		font-size: 0.9em;
 		line-height: 1.3em;
+    font-family: 'Open Sans', sans-serif;
 	}
 	li:before {
   	content: "• ";
@@ -143,6 +182,7 @@
 			text-align: left;
 			font-size: 0.9em;
 			line-height: 1.3em;
+	    font-family: 'Open Sans', sans-serif;
 		}
 		li:before {
     	content: "• ";
