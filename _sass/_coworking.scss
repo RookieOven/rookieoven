@@ -8,10 +8,6 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-
-   @include media($mobile) {
-	  background: url(/images/rookieoven-overview-mobile.jpg) no-repeat center center fixed;
-  }
 }
 
 .coworking-img:before {
