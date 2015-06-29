@@ -112,7 +112,7 @@ header {
       font-size: 1.3em;
       width: 100%;
       margin-top: 10px;
-      margin-bottom: 3px;
+      margin-bottom: 0px;
       margin-left: 0;
       text-align: center;
       line-height: 40px;
@@ -152,7 +152,7 @@ header {
       margin-right: 0px;
       margin-bottom: 10px;
       text-align: center;
-      line-height: 40px;
+      line-height: 25px;
     }
   }
 
@@ -230,20 +230,26 @@ footer {
   background: $footer-color;
   text-align: left;
   margin: 0px;
+
   .pages {
     @include span-columns(10 of 12);
     @include shift(1);
-    font-size: 1.6em;
-    color: $brand-color;
-    text-align: center;
+
     a {
       color: $brand-color;
     }
-    div {
+
+    .footer-title {
       @include span-columns(3 of 12);
+      font-size: 1.6em;
+      color: $brand-color;
+      text-align: center;
+
       @include media($mobile) {
         @include span-columns(4 of 4);
-        padding-bottom: 10px;
+        padding: 0px;
+        font-size: 1.2em;
+        line-height: 1.2em;
       }
     }
   }
