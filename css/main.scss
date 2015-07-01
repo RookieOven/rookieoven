@@ -134,7 +134,7 @@ header {
     text-align: right;
     margin-right: 40px;
     height: 100%;
-    line-height: 120px;
+    line-height: 95px;
     font-size: 1.2em;
 
     @include media($tablet) {
@@ -364,6 +364,7 @@ footer {
     font-size: 1.9em;
     line-height: 1.9em;
     text-align: center;
+    margin-bottom: 12px;
 
     @include media($mobile) {
       line-height: 1.7em;

@@ -10,10 +10,6 @@
       -moz-background-size: cover;
       -o-background-size: cover;
       background-size: cover;
-
-       @include media($mobile) {
-        background: url(/images/rookieoven-indie-mobile.jpg) no-repeat center center fixed;
-      }
     }
 
     .blog-header-img:before {
