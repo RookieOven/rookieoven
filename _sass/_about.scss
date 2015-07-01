@@ -1,0 +1,43 @@
+.about-header-img {
+  display: table;
+  height: 80%;
+  width: 100%;
+  position: relative;
+  background: url(/images/coworking5.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.about-header-img:before {
+	content: "";
+	position:absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	background: rgba(0,0,0,0.15);
+}
+
+.about-middle-img {
+  display: table;
+  height: 60%;
+  width: 100%;
+  position: relative;
+  background: url(/images/rookieoven-about-middle.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.home-middle-img:before {
+	content: "";
+	position:absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	background: rgba(0,0,0,0.15);
+}
