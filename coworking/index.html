@@ -80,7 +80,7 @@ description: A beautiful coworking space just for tech in Glasgow. Home to some 
 		<h2>Tenants</h2>
 
 		{% for tenant in site.data.tenants %}
-			<img class="tenant" src="/images/tenants/{{ tenant.image }}">
+			<a href="{{ tenant.url }}"><img class="tenant" src="/images/tenants/{{ tenant.image }}"></a>
 		{% endfor %}
 	</div>
 </div>
