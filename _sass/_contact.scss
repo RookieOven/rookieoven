@@ -9,9 +9,6 @@
   -o-background-size: cover;
   background-size: cover;
 
-   @include media($mobile) {
-	  background: url(/images/rookieoven-contact-mobile.jpg) no-repeat center center fixed;
-  }
 }
 
 .contact-img:before {
