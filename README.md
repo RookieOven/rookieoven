@@ -58,4 +58,4 @@ Author id should line up with the author data in the ```/_data/contributors.yml`
 
 ##Other
 
-If you want to help in any other way or are interested in attending a meetup or joining the RookieOven Co-Working space drop Michael a message michael@rookieoven.com or get him on Twitter [@_MDHayes](http://twitter.com/_MDhayes
+If you want to help in any other way or are interested in attending a meetup or joining the RookieOven Co-Working space drop Michael a message michael@rookieoven.com or get him on Twitter [@_MDHayes](http://twitter.com/_MDhayes)
