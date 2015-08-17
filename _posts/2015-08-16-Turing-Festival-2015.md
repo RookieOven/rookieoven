@@ -31,13 +31,13 @@ Day two has Codebase pulling together an amazing line up of 'Billion Dollar Scal
 
 {% image src:"/images/blog/turing-scaleups.jpg" alt:"Billion Dollar Scaleups" title:"Billion Dollar Scaleups at Turing Festival" %}
 
-Names like Eileen Burbidge, Gil Dibner and Damian Kimmelman join local founders like Gareth Williams, Lesley Eccles and Ed Molyneux to share actionable and practible advice.
+Names like Eileen Burbidge, Gil Dibner and Damian Kimmelman join local founders like Gareth Williams, Lesley Eccles and Ed Molyneux to share actionable and practicable advice.
 
-I always love hearing from founders their story in their own words. You often see the non-linear path to success they take. The ups and downs we all face can lead to success at the scale these guys have acheived. We're lucky in Scotland that we have companies such as Fanduel and Skyscanner who have achived massive scale in recent years and are so willing to share their advice and experience with local companies.
+I always love hearing from founders their story in their own words. You often see the non-linear path to success they take. The ups and downs we all face can lead to success at the scale these guys have achieved. We're lucky in Scotland that we have companies such as Fanduel and Skyscanner who have achieved massive scale in recent years and are so willing to share their advice and experience with local companies.
 
 ##Day Three: Ethereum Developer Workshop
 
-Day three promises to be a little different. It's a full day workshop for developers who want to learn more about blockchain technology. Specificalled Ethereum.
+Day three promises to be a little different. It's a full day workshop for developers who want to learn more about blockchain technology. Specifically Ethereum.
 
 Ethereum is a decentralised platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference.
 
@@ -47,4 +47,4 @@ Laptop is required, it's a hands on day.
 
 Tickets are still available from the [Turing Festival website](http://turingfestival.com) and are bought on a per day basis. Not into marketing but want to know more about billion dollar scaleups? Then just buy what you want to take part in.
 
-There will also be nightlife and plenty of networkign opportunities at Turing, which in all honest no matter how good a lineup there is often proves to be the best part of these kinds of events. The chance to meet talented, diverse people from around the world over a few drinks is invaluable.
+There will also be nightlife and plenty of networking opportunities at Turing, which in all honest no matter how good a lineup there is often proves to be the best part of these kinds of events. The chance to meet talented, diverse people from around the world over a few drinks is invaluable.
