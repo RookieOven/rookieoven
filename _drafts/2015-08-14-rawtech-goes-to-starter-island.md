@@ -28,9 +28,6 @@ A spark of genious on Aaron's behalf, he has used a Raspberry Pi to create a loc
 
 ##A huge opportunity for Rawtech
 
-Aaron is seeing Starter Island as a huge opportunity to raise awareness of his work and Rawtech, "With participants from across the world it will be massive for my profile and that of Rawtech."
-
-But it wont all be work. Starter Island itinerary includes a cocktail party on the opening night and there will be plenty of socialising. "I will get drunk and build things only in Python. Getting to meet hot bikini girls will be the highlight of the trip, don't tell Alison." says Aaron.
 
 ##Keeping an eye on things
 
