@@ -4,6 +4,7 @@ author: 1
 layout: post
 description: Scotland’s first digital skills academy, CodeClan, has welcomed its initial intake of 15 students. CodeClan has been created to help meet the immediate and short term need for skilled software developers in Scotland. 
 headerImage: /images/blog/codeclan-launch.jpg
+permalink: /2014/10/14/Hello-CodeClan
 categories:
   - ediburgh
   - code
@@ -12,9 +13,9 @@ categories:
 ---
 Scotland’s first digital skills academy has welcomed its initial intake of 15 students, who are due to graduate in January 2016. CodeClan provides opportunities in vibrant digital sector with the aim of meeting the immediate and short term need for skilled software developers in Scotland.
 
-{% image src:"/images/blog/codeclan-logo.png" alt:"CodeClan logo" title:"CodeClan Scotland" %}
-
 The Scottish Government’s support has been drawn from the £6.6 million made available to Skills Development Scotland to drive forward the implementation of the ICT and Digital Technologies Skills Investment Plan (SIP).
+
+{% image src:"/images/blog/codeclan-logo.png" alt:"CodeClan logo" title:"CodeClan Scotland" %}
 
 Speaking at the launch, Deputy First Minister John Swinney said:
 

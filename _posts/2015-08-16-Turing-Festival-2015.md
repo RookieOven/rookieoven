@@ -4,6 +4,7 @@ author: 1
 layout: post
 description: The Turing Festival returns to Edinburgh this year with 3 packed days of content about tech, business and creating more success stories from Scotland.
 headerImage: /images/blog/turing-festival.jpg
+permalink: /2014/08/16/Turing-Festival-2015
 categories:
   - ediburgh
   - event
