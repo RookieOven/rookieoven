@@ -4,7 +4,7 @@ author: 1
 layout: post
 description: This weekend sees the return of Product Forge, a hackathon series organsied by Allan Lloyds. This event is focused on the theme of digital participation
 headerImage: /images/blog/productforge.jpg
-permalink: /2014/10/14/the-return-of-product-forge
+permalink: /2015/10/14/the-return-of-product-forge
 categories:
   - ediburgh
   - event
