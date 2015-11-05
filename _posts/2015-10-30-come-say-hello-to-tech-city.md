@@ -13,9 +13,9 @@ categories:
 ---
 Next Wednesday (4th of November) is your chance to meet Emma Swift, Senior Entrepreneur Relations Manager, from Tech City. Tech City is a London-based publicly funded, non-profit team with a focus on creating the optimum conditions for digital technology businesses and entrepreneurs to thrive across the UK.
 
-{% image src:"/images/blog/tech-city.png" alt:"Tech City Logo" title:"Tech City comes to Glasgow" %}
-
 Tech City are responsible for the annual Tech Nation report that provides an overview of the UK tech industry. The event, held at RookieOven on the 4th of November, is an opportunity to showcase the best of the Glasgow tech community to Tech City in anticipation of the 2016 Tech Nation report.
+
+{% image src:"/images/blog/tech-city.png" alt:"Tech City Logo" title:"Tech City comes to Glasgow" %}
 
 Emma is in Glasgow to visit the RookieOven Co-working space but let's look wider than that. Let's get the best of the Glasgow tech community down to RookieOven to show what our city can do. We have an abundance of talent and some truly amazing companies so let's show Emma what we can do and how we can play a part in the wider UK tech industry.
 
