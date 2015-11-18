@@ -53,3 +53,11 @@
   twitter: dr4goonis
   email: paul@dragoonis.com
   url: http://www.dragoonis.com
+
+- name: Learn Pro
+  id: 8
+  image: learn-pro-logo.png
+  description: World class business advice
+  twitter: learnpro
+  email: info@learnpro.co.uk
+  url: http://www.learnpro.co.uk
