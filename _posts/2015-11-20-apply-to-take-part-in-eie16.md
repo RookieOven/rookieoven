@@ -2,7 +2,7 @@
 title: Apply to take part in EIE16
 author: 1
 layout: post
-description: EIE is a startup showcase organised by Informatics Ventures that takes place each year in Edinburgh. Time is running out to appply for the 2016 event
+description: EIE is a startup showcase organised by Informatics Ventures that takes place each year in Edinburgh. Time is running out to apply for the 2016 event
 headerImage: /images/blog/eie-fan-duel.jpeg
 permalink: /2015/2015/11/20/apply-to-take-part-in-eie16
 categories:
