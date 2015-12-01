@@ -1,0 +1,36 @@
+header: Careers with exciting fast growing companies
+sub-title: Some tips for landing a dream job
+tips: Working at a startup is unique. It's fast paced, it's demanding and it's an excellent way to learn.<br><br>The most important things when looking to join a startup are your network and enthusiasm. To grow your network attend events in the community like Tech Meetup or RookieOven. To show enthusiasm have side projects and demonstrate your passion for tech and young businesses.
+positions:
+  - company: School Cloud Systems
+    position: Software Engineer
+    id: 1
+    url: http://www.schoolcloudsystems.co.uk/contact.asp
+    logo: school-cloud-systems.png
+    highlight: true
+    location: Glasgow
+    closing:
+
+  - company: PocketQube Shop
+    position: Business Development
+    id: 2
+    url: http://www.pocketqubeshop.com/careers
+    logo: pocketqube-shop.png
+    location: Glasgow
+    closing:
+
+  - company: Newspaper Club
+    position: Software Engineer
+    id: 3
+    url: http://newspaperclub.com
+    logo: newspaperclub.png
+    location: Remote
+    closing:
+
+  - company: Adimo
+    position: Product Designer
+    id: 4
+    url: https://adimo.co/Careers/Product-Designer
+    logo: adimo-logo.png
+    location: Glasgow
+    closing:

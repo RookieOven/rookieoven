@@ -1,0 +1,41 @@
+---
+title: Jobs | Share knowledge and gain advice
+author: 1
+layout: page
+description: Monthly meetup for startup founders in Glasgow. Meet your peers to share knowledge or gain advice and feedback. Free and open to all.
+---
+<div class="jobs-header-img">
+	<div class="vert-text">
+   	<h2>{{ site.data.jobs.header }}</h2>
+	</div>
+</div>
+
+<div class="jobs">
+	<h2>Open Positions</h2>
+	<table>
+		<tr>
+			<th class="hide"></th>
+			<th>Company</th>
+			<th>Position</th>
+			<th>Location</th>
+			<th></th>
+		</tr>
+		{% for job in site.data.jobs.positions %}
+			{% if job.highlight %}
+				<tr  class="job highlight">
+			{% else %}
+				<tr  class="job">
+		  {% endif %}
+					<td class="hide"><img src="/images/jobs/{{ job.logo }}"></td>
+					<td>{{ job.company }}</td>
+					<td>{{ job.position }}</td>
+					<td>{{ job.location }}</td>
+					<td><a href="{{ job.url }}">Apply</a></td>
+				</tr>
+		{% endfor %}
+	</table>
+</div>
+<div class="section">
+	<h2>{{ site.data.jobs.sub-title }}</h2>
+	<p>{{ site.data.jobs.tips }}</p>
+</div>

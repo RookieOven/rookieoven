@@ -1,0 +1,133 @@
+.jobs-header-img {
+  display: table;
+  height: 80%;
+  width: 100%;
+  position: relative;
+  background: url(/images/rookieoven-job-board.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.jobs-header-img:before {
+	content: "";
+	position:absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	background: rgba(0,0,0,0.15);
+}
+
+.jobs {
+  @include span-columns(8 of 12);
+  @include shift(2);
+  margin-top: 32px;
+  margin-bottom: 28px;
+  color: $dark-color;
+
+  @include media($mobile) {
+    @include span-columns(12 of 12);
+    @include shift(0);
+    font-size: 1.1em;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  @include media($tablet) {
+    @include span-columns(8 of 12);
+    @include shift(2);
+    font-size: 1.1em;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  h2 {
+    font-size: 1.9em;
+    line-height: 1.9em;
+    text-align: center;
+    margin-bottom: 12px;
+
+    @include media($mobile) {
+      line-height: 1.7em;
+      font-size: 1.3em;
+    }
+
+    @include media($tablet) {
+      font-size: 1.8em;
+    }
+  }
+
+  p {
+    @include span-columns(10 of 12);
+    @include shift(1);
+    font-size: 1.1em;
+    line-height: 1.6em;
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+    padding-bottom: 20px;
+
+    @include media($mobile) {
+      font-size: 0.8em;
+    }
+
+    @include media($tablet) {
+      font-size: 1.1em;
+    }
+  }
+
+  th {
+    color: $brand-color;
+    border-bottom: 1px solid $brand-color;
+    text-align: center;
+    font-size: 1.4em;
+    line-height: 1.8em;
+    @include media($mobile) {
+      font-size: 1.0em;
+      line-height: 1.1em;
+    }
+
+    @include media($tablet) {
+      font-size: 1.2em;
+      line-height: 1.6em;
+    }
+  }
+	.job {
+      td {
+        border-bottom: 1px solid $separator-color;
+        padding: 20px 20px 20px;
+
+        @include media($mobile) {
+          padding: 12px 4px 12px;
+          font-size: 0.8em;
+        }
+
+        @include media($tablet) {
+          padding: 15px 10px 15px;
+        }
+
+        img{
+          height: 50px;
+
+          @include media($mobile) {
+            height: 40px;
+          }
+        }
+
+        .hide {
+          @include media($mobile) {
+            display: none;
+          }
+        }
+      }
+	}
+	.highlight {
+    background-color: #FDF6E2;
+	}
+
+  a {
+    color: $brand-color;
+    text-align: center;
+  }
+}

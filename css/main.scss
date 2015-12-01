@@ -37,6 +37,7 @@ $footer-color: rgb(242, 242, 242);
 @import "coworking";
 @import "contact";
 @import "about";
+@import "job-board";
 
 * {
 	box-sizing: border-box;
@@ -241,7 +242,7 @@ footer {
     }
 
     .footer-title {
-      @include span-columns(3 of 12);
+      @include span-columns(2 of 10);
       font-size: 1.6em;
       color: $brand-color;
       text-align: center;
