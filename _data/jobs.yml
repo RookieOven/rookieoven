@@ -5,7 +5,7 @@ positions:
   - company: School Cloud Systems
     position: Software Engineer
     id: 1
-    url: http://www.schoolcloudsystems.co.uk/contact.asp
+    url: https://school-cloud-systems.workable.com/jobs/70579
     logo: school-cloud-systems.png
     highlight: true
     location: Glasgow
@@ -19,7 +19,7 @@ positions:
     location: Glasgow
     closing:
 
-  - company: Newspaper Club
+  - company: Newspaper Club jobby
     position: Software Engineer
     id: 3
     url: http://newspaperclub.com
@@ -31,6 +31,23 @@ positions:
     position: Product Designer
     id: 4
     url: https://adimo.co/Careers/Product-Designer
+    logo: adimo-logo.png
+    location: Glasgow
+    highlight: true
+    closing:
+
+  - company: Float
+    position: Full Stack Developer
+    id: 5
+    url: http://floatapp.com/jobs
+    logo: float-logo.png
+    location: Edinburgh
+    closing:
+
+  - company: Adimo
+    position: Senior Web Developer
+    id: 6
+    url: https://adimo.co/Careers/Senior-Web-Developer
     logo: adimo-logo.png
     location: Glasgow
     closing:
