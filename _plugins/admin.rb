@@ -6,7 +6,7 @@ module Jekyll
     safe true
 
     def generate(site)
-      positions_yml = open("https://admin.rookieoven.com/jobs.yml").read
+      positions_yml = open("http://admin.rookieoven.com/jobs.yml").read
       positions = YAML.load(positions_yml)
       site.data["jobs"]["positions"] = positions
     end
