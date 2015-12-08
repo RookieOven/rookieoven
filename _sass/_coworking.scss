@@ -132,7 +132,7 @@
 
 .pricing {
 	@include span-columns(10 of 12);
-	@include shift(2);
+	@include shift(1);
 	color: #4A4A4A;
 	text-align: center;
 
@@ -153,6 +153,7 @@
 
 		@include media($mobile) {
 			@include span-columns(12 of 12);
+      margin-top: 20px;
   	}
 		h3 {
 			font-size: 1.3em;
@@ -242,4 +243,3 @@
 	}
 
 }
-
