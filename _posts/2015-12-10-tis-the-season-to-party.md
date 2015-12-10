@@ -14,9 +14,7 @@ categories:
 2015 has been a mega year for the Scottish tech community. WE've had Fanduel crowned a Unicorn, CodeBase has continued to grow, Code Clan has started to educate the next generation of developers, 4J and Outplay are producing great things in Dundee and in Glasgow we opened the [RookieOven Coworking](/coworking) Space and have grown even stronger as a community. Therefore it makes sense that as we approach Christmas and wind down 2015 we should get together an celebrate our hard work for the year. Thankfully across the country there's plenty of parties
 
 ##Glasgow Tech Christmas Party
-[Tickets £10](https://www.eventbrite.co.uk/e/glasgow-tech-christmas-party-2015-tickets-19804666290)
-
-22nd December
+[Tickets £10](https://www.eventbrite.co.uk/e/glasgow-tech-christmas-party-2015-tickets-19804666290) - 22nd December
 
 Come and join the creative crowds, digital disrupters, hustler entrepreneurs, the hackers, makers and shakers of Glasgow for one night in the city filled with holiday spirit, beer, delicious bites, good company and general merriment.
 
