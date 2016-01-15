@@ -46,14 +46,6 @@
   email: hello@sunstone.com
   url: http://sunstonecommunication.com
 
-- name: Dragoonis Digital
-  id: 7
-  image: dragoonis.png
-  description: World class business advice
-  twitter: dr4goonis
-  email: paul@dragoonis.com
-  url: http://www.dragoonis.com
-
 - name: Learn Pro
   id: 8
   image: learn-pro-logo.png
