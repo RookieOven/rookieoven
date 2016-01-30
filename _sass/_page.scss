@@ -1,0 +1,64 @@
+.contact-form {
+	@include span-columns(8 of 12);
+	@include shift(2);
+	margin-bottom: 40px;
+
+	@include media($desktop) {
+		@include span-columns(6 of 12);
+		@include shift(3);
+	}
+
+	@include media($tablet) {
+		@include span-columns(6 of 12);
+		@include shift(3);
+	}
+
+	@include media($mobile) {
+		@include span-columns(10 of 12);
+		@include shift(1);
+	}
+
+	.field {
+		p {
+	    	color: $dark-color;
+	    	margin: 10px 0 3px 0;
+	    	padding: 0px;
+	    	font-size: 1.1em;
+	    }
+
+	    .ro-input {
+	    	width: 100%;
+	    	min-height: 40px;
+	    	background: $form-background;
+	    	border-radius: 5px;
+				border: 1px solid #979797;
+				margin-bottom: 12px;
+	    }
+	}
+
+  .submit-button {
+			margin: 15px auto;
+      width: 185px;
+      background-color: $brand-color;
+      color: $light-color;
+      border-radius: 3px;
+      border-width: 1px;
+      border-color: $brand-color;
+      height: 50px;
+      float: right;
+
+      @include media($mobile) {
+       width: 100px;
+       margin-left: 12px;
+     }
+      @include media($tablet) {
+       width: 120px;
+     }
+   }
+
+  .submit-button:hover {
+      color: $brand-color;
+      background-color: $light-color;
+      border-color: $brand-color;
+  }
+}
