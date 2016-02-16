@@ -90,6 +90,7 @@
     p {
         text-align: justify;
         font-family: 'Open Sans', sans-serif;
+        line-height: 170%;
     }
 
     @include media($mobile) {
@@ -132,6 +133,7 @@
 
     p{
       font-family: 'Open Sans', sans-serif;
+      line-height: 170%;
     }
 
     h3, h4, h5 {
@@ -294,7 +296,7 @@
 
 .date-img {
   width: 16px;
-  margin-right: 4px;
+  margin-right: 8px !important;
 }
 
 .pagination {
