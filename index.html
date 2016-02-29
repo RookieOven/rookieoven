@@ -36,8 +36,8 @@ layout: page
 	{% for post in site.posts limit:2 %}
 
 		<div class="post">
-			<h3 class="post-title"><a href={{ post.permalink }}>{{ post.title }}</a></h3>
-			<img class="post-image" src="{{ post.headerImage }}">
+			<h3 class="post-title"><a href={{ post.permalink }}>{{ post.title }}</h3>
+			<img class="post-image" src="{{ post.headerImage }}"></a>
 			<div class="post-excert">
 				{{ post.content |truncatehtml | truncatewords: 50 }}
 			</div>
