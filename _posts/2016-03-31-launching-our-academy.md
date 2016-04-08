@@ -35,3 +35,5 @@ Sound like you fit the bill? Get moving. Places are limited (we have space for o
 All those accepted will have to commit to participating fully in the academy and will need availability from the 31st May until the 1st of July and able to come to the RookieOven Coworking Space in Govan.
 
 Any questions get in touch on [Facebook](https://facebook.com/rookieoven), [Twitter](https://twitter.com/rookieoven) or email michael@rookieoven.com
+
+###Press Pack available [here](https://www.dropbox.com/sh/228f7whmmr1zy1r/AABxjKpPsCS-WsRRLrtI5jGra?dl=0https://www.dropbox.com/sh/228f7whmmr1zy1r/AABxjKpPsCS-WsRRLrtI5jGra?dl=0) but get in touch if you have any questions
