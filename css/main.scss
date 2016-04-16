@@ -242,7 +242,7 @@ footer {
 
     .footer-title {
       @include span-columns(2 of 10);
-      font-size: 1.6em;
+      font-size: 1.4em;
       color: $brand-color;
       text-align: center;
 
@@ -558,4 +558,60 @@ footer {
   a:hover {
     color: #f6f6f6;
   }
+}
+
+.error {
+  @include span-columns(6 of 12);
+  @include shift(3);
+  color: $dark-color;
+  margin-top: 32px;
+  margin-bottom: 28px;
+
+	h2 {
+		font-size: 1.9em;
+		line-height: 1.9em;
+		text-align: center;
+		margin-bottom: 12px;
+	}
+
+	p {
+		max-width: 600px;
+		margin-top: 20px;
+		text-align: center;
+	}
+
+	p:last-child {
+		margin-bottom: 28px;
+	}
+
+	img {
+		margin: 30 auto;
+	}
+
+	.actions {
+		vertical-align:middle;
+		margin: 30px auto;
+		text-align: center;
+
+		.button {
+			margin-right: 30px;
+			font-size: 1.2em;
+		}
+
+		.button:last-child {
+			margin-right: 0;
+		}
+	}
+}
+
+.img-404 {
+	display: table;
+	height: 250px;
+	width: 100%;
+	position: relative;
+	background: url(/images/404.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }

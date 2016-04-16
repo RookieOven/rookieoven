@@ -25,7 +25,7 @@ layout: page
 	<h2>Partners</h2>
 
 	{% for partner in site.data.partners %}
-		<img class="partner" src="/images/{{ partner.image }}">
+		<a href="{{ partner.url }}"><img class="partner" src="/images/{{ partner.image }}"></a>
 	{% endfor %}
 
 </div>
@@ -47,5 +47,5 @@ layout: page
 </div>
 
 <div class="section">
-<h2>Have something to shout about? Email michael@rookieoven.com</h2>
+<h3>Have something to shout about? Email michael@rookieoven.com</h3>
 </div>
