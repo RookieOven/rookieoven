@@ -1,9 +1,9 @@
 - name: Govan Workspace
   id: 1
-  image: govanworkspace.png
-  url: http://govanworkspace.co.uk
+  image: govanworkspace-logo.png
+  url: http://www.govanworkspace.co.uk
 
 - name: Telcom
   id: 2
-  image: telcom.jpeg
+  image: telcom-logo.png
   url: http://telcom.io

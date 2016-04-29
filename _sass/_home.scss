@@ -58,16 +58,16 @@
 		@include shift(1);
   }
 	.partner {
-		@include span-columns(3 of 12);
+		@include span-columns(6 of 12);
 		max-width: 350px;
 		padding: 0 25px 35px 25px;
 
 	 	@include media($tablet) {
-	    @include span-columns(4 of 12);
+	    @include span-columns(6 of 12);
 	  }
 
 	 	@include media($mobile) {
-	    @include span-columns(6 of 12);
+	    @include span-columns(12 of 12);
 	  }
 	}
 	h2 {
