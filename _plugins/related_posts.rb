@@ -28,7 +28,7 @@ module Jekyll
       html = '<ul>'
       closest.each do |related_post|
         html << '<li>'
-        html << "<a href=#{related_post['url']}>#{related_post['title']}</a>"
+        html << "<a href=#{related_post['permalink']}>#{related_post['title']}</a>"
         html << "<p>#{related_post['excerpt']}</p>"
         html << '</li>'
       end
