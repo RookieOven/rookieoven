@@ -43,9 +43,9 @@ RookieOven wouldn't have the coworking space without [Govan Workspace](http://go
 
 {% image src:"/images/blog/coworking6.jpg" alt:"RookieOven collaborative space in Glasgow" title:"RookieOven collaborative space in Glasgow" %}
 
-It's again down to people, Pat and Rosie at Govan Workspace and Shaun at Telcom have belief in the RookieOven and responded to the idea of creating a better tech community.
+It's again down to people, Pat and Rosie at Govan Workspace and Shaun at Telcom have faith in the RookieOven and responded to the idea of creating a better tech community.
 
-In each of these partners they provide expertise and resource in area's RookieOven has no knowledge.
+In each of these partners they provide expertise and resource in areas RookieOven has no knowledge.
 
 ##Just do it
 Another secret to RookieOven, I just did it. I think a lot of my early drive and passion for RookieOven was fuelled by naivety but regardless of what caused me to do it the fact I *actually acted* on an idea means a lot.
