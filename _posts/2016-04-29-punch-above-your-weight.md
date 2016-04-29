@@ -11,7 +11,7 @@ categories:
   - award
   - Glasgow
 ---
-I think some people have a perception that RookieOven is a bit of a heavy weight. We have a stunning coworking space, our website is pretty nice, we've used an amazing photographer, we're active across social media and get a decent whack of press coverage. So obviously RookieOven has lots of resource, a lot of capital, public support and a maybe even a private backer with deep pockets. The reality is far from the truth. RookieOven is entirely community led and has managed to do a lot for the Scottish startup community with very little resource. We really do punch above our weight and I hope it can serve as an example to others.
+I think some people have a perception that RookieOven is a bit of a heavy weight. We have a stunning coworking space, our website is pretty nice, we've used an amazing photographer, we're active across social media and get a decent whack of press coverage. So obviously RookieOven has lots of resource, a lot of capital, public support and maybe even a private backer with deep pockets. That's not the case. RookieOven is entirely community led and has managed to do a lot for the Scottish startup community with very little resource. We really do punch above our weight and I hope it can serve as an example to others.
 
 ##What we've achieved
 
