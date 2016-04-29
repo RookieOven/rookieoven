@@ -23,7 +23,7 @@ RookieOven is now 5 years old. Starting as a crummy Wordpress site with a horrif
 * Michael met the Queen
 * We helped organise the first Startup Weekend in Scotland
 * Created a strong, vibrant, open and collaborative community
-* Opened a fantastic [collaborative space](https:/rookieoven.com/coworking) in Govan
+* Opened a fantastic [collaborative space](https://rookieoven.com/coworking) in Govan
 * Appeared in international press, from German Radio to major US publications.
 * Runner up for a ScotlandIS Digital Tech Award
 
