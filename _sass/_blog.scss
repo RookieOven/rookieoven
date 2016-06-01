@@ -93,6 +93,15 @@
         line-height: 170%;
     }
 
+    ul {
+      font-family: 'Open Sans', sans-serif;
+      line-height: 170%;
+
+      li {
+        font-family: 'Open Sans', sans-serif;
+      }
+    }
+
     @include media($mobile) {
         @include span-columns(10 of 12);
         @include shift(1);
@@ -161,6 +170,15 @@
         @include media($mobile) {
             max-width: 100%;
         }
+    }
+
+    ul {
+      font-family: 'Open Sans', sans-serif;
+      line-height: 170%;
+
+      li {
+        font-family: 'Open Sans', sans-serif;
+      }
     }
 
     p, ul, h2, pre {
