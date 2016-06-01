@@ -61,3 +61,9 @@ This worked well and we have three teams and three excellent idea's:
 
 ##What's next
 Over the next week all the teams will be having a think about their idea, talking to people for feedback, getting advice and iterating on what they're doing. Next week Rohan Gunatillake from Mindfulness Everywhere will be on hand to share his experience and an overview of the products he's made like [Buddhify](http://buddhify.com) on iOS and Android, [Cards for Mindfulness](http://www.mindfulnesseverywhere.io/cards/) a successful Kickstarter campaign, his book [This is Happening](https://www.amazon.co.uk/This-Happening-Redesigning-mindfulness-modern/dp/1509803122?ie=UTF8&*Version*=1&*entries*=0) and [Sleepfulness App](http://www.sleepfulnessapp.com) on iOS and Android.
+
+
+###Resources
+Slides used in the day are available [here] (https://www.dropbox.com/sh/i227oocoyyrpwa7/AAAd0lsRr5lm75WWoiuLb_-7a?dl=0) feel free to use them in your classroom, if you do let us know.
+
+_RookieOven Academy is supported by [Glasgow City Council](https://www.glasgow.gov.uk/) and [Skills Development Scotland](https://www.skillsdevelopmentscotland.co.uk)_
