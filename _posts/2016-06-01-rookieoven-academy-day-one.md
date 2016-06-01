@@ -64,6 +64,6 @@ Over the next week all the teams will be having a think about their idea, talkin
 
 
 ###Resources
-Slides used in the day are available [here] (https://www.dropbox.com/sh/i227oocoyyrpwa7/AAAd0lsRr5lm75WWoiuLb_-7a?dl=0) feel free to use them in your classroom, if you do let us know.
+Slides used in the day are available [here] (http://bit.ly/1Vvp6F2) feel free to use them in your classroom, if you do let us know.
 
 _RookieOven Academy is supported by [Glasgow City Council](https://www.glasgow.gov.uk/) and [Skills Development Scotland](https://www.skillsdevelopmentscotland.co.uk)_
