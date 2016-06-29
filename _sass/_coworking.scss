@@ -87,7 +87,7 @@
 
 	.tenant {
 		@include span-columns(2 of 12);
-		margin: 0 25px;
+		margin: 10px 25px;
 
 	 	@include media($tablet) {
 	    @include span-columns(2 of 12);
