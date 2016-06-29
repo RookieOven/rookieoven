@@ -49,7 +49,15 @@
 - name: Learn Pro
   id: 8
   image: learn-pro-logo.png
-  description: World class business advice
+  description: E-learning software
   twitter: learnpro
   email: info@learnpro.co.uk
   url: http://www.learnpro.co.uk
+
+- name: Defining Technlogy
+  id: 7
+  image: defining-technology.jpg
+  description: Developing custom software to solve hard problems
+  twitter: defining_tech
+  email: info@defining.tech
+  url: http://www.defining.tech
