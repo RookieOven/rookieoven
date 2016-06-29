@@ -61,3 +61,11 @@
   twitter: defining_tech
   email: info@defining.tech
   url: http://www.defining.tech
+
+- name: Exevia
+  id: 9
+  image: exevia.png
+  description: A better way to capture mileage
+  twitter:
+  email:
+  url: http://www.exevia.co.uk
