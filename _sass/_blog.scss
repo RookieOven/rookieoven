@@ -157,18 +157,20 @@
         }
     }
 
-    video {
-        max-width: 600px;
+    .video {
+        @include span-columns(6 of 12);
+        @include shift(3);
         text-align: center;
-        margin: 0 auto;
         display: block;
 
         @include media($tablet) {
-            max-width: 75%;
+          @include span-columns(8 of 12);
+          @include shift(2);
         }
 
         @include media($mobile) {
-            max-width: 100%;
+          @include span-columns(12 of 12);
+          margin: 0;
         }
     }
 

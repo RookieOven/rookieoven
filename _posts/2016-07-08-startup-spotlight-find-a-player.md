@@ -23,6 +23,8 @@ The Press has beamed with compliments for Find A Player:
 * "Takes the hassle out of running your sports team." – Sport Review
 * "Glasgow entrepreneur creates app to make five-a-sides-call-offs a thing of the past.” – Evening Times
 
+<div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/NyOG0vxk0uI" frameborder="0" allowfullscreen></iframe></div>
+
 What makes Find a Player so unique, and our pick for this week’s Startup Spotlight, is they are a sports company that runs like a tech startup. John Hamelink, the CTO, says “we’re an interesting bunch…everything is measured and analysed. We’re working with some really talented people and it shows in our product.” Find a Player’s business model focuses first and foremost on scale. Similar to other startups, their “mission is to increase our user numbers as much as possible, so we can then position ourselves to be able to monetise our use base at a scale that would interest larger companies.” And they are doing a great job at that! Last year through [Seedrs](https://www.seedrs.com/), a crowdfunding site, they raised £150,000 in just three days. Let me repeat: Just. Three. Days. With another fund raising event around the corner, Find a Player is doing a superb job with creating an app and listening to the needs of their audience.
 
 {% image src:"/images/blog/find-a-player-140-sports.jpg" alt:"Find A Player 140 Sports" title:"Find A Player 140 Sports" %}
