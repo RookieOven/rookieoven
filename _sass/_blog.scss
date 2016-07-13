@@ -162,6 +162,7 @@
         @include shift(3);
         text-align: center;
         display: block;
+        min-width: 600px;
 
         @include media($tablet) {
           @include span-columns(8 of 12);
