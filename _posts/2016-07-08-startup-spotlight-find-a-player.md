@@ -2,7 +2,7 @@
 title: 'Startup Spotlight: Find A Player'
 author: 7
 layout: post
-permalink: /2012/11/23/startup-spotlight-find-a-player/
+permalink: /2016/07/08/startup-spotlight-find-a-player/
 dsq_thread_id:
   - 940821245
 categories:
