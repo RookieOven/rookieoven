@@ -2,15 +2,9 @@
 title: 'Startup Spotlight: Find A Player'
 author: 7
 layout: post
-<<<<<<< HEAD
-permalink: /2016/07/08/startup-spotlight-find-a-player/
-dsq_thread_id:
-  - 940821245
-=======
 description: The RookieOven Startup spotlight is a weekly look at a  startup from the Scottish tech community. This week the spotlight falls on Glasgow based Find a Player, the Facebook for sports.
 headerImage: /images/blog/find-a-player-header.jpeg
 permalink: /2016/07/08/startup-spotlight-find-a-player/
->>>>>>> origin/master
 categories:
   - Glasgow
   - Startup Spotlight
