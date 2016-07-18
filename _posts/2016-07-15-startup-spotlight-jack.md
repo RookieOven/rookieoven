@@ -48,11 +48,19 @@ Not only that, but it's obviously much better for the consumer when they can quo
 
 Shopping for insurance is not fun, but my motivation is to make it as painless as possible.
 
+##Q: How is it funded?
+
+I've been photographing weddings for the past few years. I'm using that money to get my insurance business off the ground. I'm not interested in taking investment and giving a percentage of my business away. I'd like to grow slowly and organically, using the money I make to invest back into the business.
+
 ##Q: Do you use a specific business model?
 
 It's a standard business model for insurance brokers. We earn a commission based on each policy we sell. When Jack launches, I'll be transparent in what fee I take from each sale.
 
 {% image src:"/images/blog/jack-quote-system.jpg" alt:"Quote System" title:"Quote System" %}
+
+##Q: Are there any other key team members other than yourself?
+
+Right now I'm outsourcing work to freelancers. I'm working with an amazing designer, [Scott Riley](http://scottriley.im/), on bringing the quote system to life. I'd love to bring design and development in-house, but as a small, bootstrapped business that has yet to launch, it's currently just myself wearing many hats.
 
 ##Q: How do you reach your audience?
 
