@@ -11,7 +11,7 @@ categories:
   - Travel
   - Work
 ---
-Everyone at some point has to travel for work or work while traveling. This can be a wonderful, all-paid for, no hassle experience _OR_, the more common experience, a difficult, pain, but a necessity or convenience. For me it was the latter and though I pride myself of being a multitasking queen, I have no reign over the UK train system and thus had a terrible time trying to get anything done. So by learning from my mistakes, here are six gems of wisdom about what not to do while working on the go!
+Everyone at some point has to travel for work or work while traveling. This can be a wonderful, all-paid for, no hassle experience _OR_, the more common experience, a difficult and painful experience, but a necessity or convenience. For me it was the latter and though I pride myself of being a multitasking queen, I have no reign over the UK train system and thus had a terrible time trying to get anything done. So by learning from my mistakes, here are six gems of wisdom about what not to do while working on the go!
 
 ##Working on the Go - Why it's a must for me:
 
