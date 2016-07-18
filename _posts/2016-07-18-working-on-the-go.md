@@ -43,9 +43,9 @@ But now I’m in Oban, it’s pouring down rain and I can’t film so I'm taking
 
 {% image src:"/images/blog/LeslieKnope-coffee.gif" alt:"Leslie Knope Coffee" title:"Leslie Knope Coffee" %}
 
-1 - Don’t take on too much. If you’re traveling, be realistic about what you take on in relation to where you’ll be traveling. Ask yourself if you can genuinely manage that with no glitches or will you run into problems like I did?
+1 - Don’t take on too much: If you’re traveling, be realistic about what you take on in relation to where you’ll be traveling. Ask yourself if you can genuinely manage that with no glitches or will you run into problems like I did?
 
-2 - Prioritize your workload. I should have made a database before I left with research completed well in advance, even though I had prepared the social media enough the blog was lacking. I naively thought I would get time between trips but forgot to factor that people might not respond in said time. This means you might need to work some overtime to spare you the hassle during your trip or work on projects that are non-wifi dependent. Use the down time to improve projects rather than start them, it’ll calm your nerves and help you in the end with deadlines.
+2 - Prioritize your workload: I should have made a database before I left with research completed well in advance, even though I had prepared the social media enough the blog was lacking. I naively thought I would get time between trips but forgot to factor that people might not respond in said time. This means you might need to work some overtime to spare you the hassle during your trip or work on projects that are non-wifi dependent. Use the down time to improve projects rather than start them, it’ll calm your nerves and help you in the end with deadlines.
 
 3 - Have all the right Equipment: Be as prepped as you can be with your equipment. Charge them the night before, have portable chargers, get a dongle with strong connection so you don’t have to worry for wifi-dependent tasks. Make sure when you’re stuck in an unforeseen jam that your tools can help you still be productive.
 
