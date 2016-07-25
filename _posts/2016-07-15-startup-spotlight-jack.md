@@ -2,10 +2,9 @@
 title: 'Startup Spotlight: Jack'
 author: 7
 layout: post
+description: The RookieOven Startup spotlight is a weekly look at a  startup from the Scottish tech community. This week the spotlight falls on Glasgow based Jack, a modern look at insurance companies.
 headerImage: /images/blog/jack.jpg
 permalink: /2016/07/15/startup-spotlight-jack/
-dsq_thread_id:
-  - 940821245
 categories:
   - Glasgow
   - Startup Spotlight

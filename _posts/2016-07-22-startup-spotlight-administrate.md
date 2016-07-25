@@ -2,10 +2,9 @@
 title: 'Startup Spotlight: Administrate'
 author: 7
 layout: post
+description: The RookieOven Startup spotlight is a weekly look at a  startup from the Scottish tech community. This week the spotlight falls on Edinburgh based Administrate, making training employees a breeze.
 headerImage: /images/blog/Admin-Header.png
 permalink: /2016/07/22/startup-spotlight-Administrate/
-dsq_thread_id:
-  - 940821245
 categories:
   - Edinburgh
   - Startup Spotlight

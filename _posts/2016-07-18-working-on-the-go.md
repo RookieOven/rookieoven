@@ -2,10 +2,9 @@
 title: 'Working On The Go'
 author: 7
 layout: post
+description: The RookieOven's Community Manager, Morgan Roberts, shares her experiences with working on the go and what not to do.
 headerImage: /images/blog/Working-on-the-go.jpg
 permalink: /2016/07/18/working-on-the-go/
-dsq_thread_id:
-  - 940821245
 categories:
   - Glasgow
   - Travel
