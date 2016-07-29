@@ -12,11 +12,11 @@ categories:
 ---
 Each Friday the RookieOven Startup Spotlight highlights a member of the Scottish tech startup community. The aim is to, as the name suggests, put the spotlight on Scotland’s best startups from across the country. It’s an opportunity to share information about an exciting tech startup from Scotland you may not have heard of. Giving a brief overview of the company, what they do, where they are and who they are. This week the spotlight falls on This is Milk.
 
-Last week I had the amazing opportunity to interview [Angela Prentner-Smith](https://twitter.com/AngelaPrentner) about her company, [This is Milk](http://www.thisismilk.co.uk/), live through [Product Forge](http://productforge.io/). If you missed it, stop reading immediately and watch it [here](http://productforge.io/livestreams/2016/07/22/livestreamed-q-and-a-with-angela-prentner-smith-founder-of-this-is-milk/). it is well-worth it! Amelia is not only bright, lovely, and talented, but she is driven to a point we should all admire. Her ambitious nature and love for her company shines through her every word, making This is Milk the obvious choice for this week’s Spotlight Start-Up.
+Last week I had the amazing opportunity to interview [Angela Prentner-Smith](https://twitter.com/AngelaPrentner) about her company, [This is Milk](http://www.thisismilk.co.uk/), live through [Product Forge](http://productforge.io/). If you missed it, stop reading immediately and watch it [here](http://productforge.io/livestreams/2016/07/22/livestreamed-q-and-a-with-angela-prentner-smith-founder-of-this-is-milk/). it is well-worth it! Angela is not only bright, lovely, and talented, but she is driven to a point we should all admire. Her ambitious nature and love for her company shines through her every word, making This is Milk the obvious choice for this week’s Spotlight Start-Up.
 
 {% image src:"/images/blog/Milk-Point.png" alt:"This is Milk Cover" title:"This is Milk Cover" %}
 
-After the interview last Friday, I asked Amelia if she wouldn't mind answering a few questions for us and let her take the wheels to describe This is Milk's journey:
+After the interview last Friday, I asked Angela if she wouldn't mind answering a few questions for us and let her take the wheels to describe This is Milk's journey:
 
 ##Q: Who are the key members of your team?
 
@@ -29,7 +29,7 @@ And Gillian Souter – Founder and soon to be Non-Executive Director
 
 We also have a number of partners that we work really closely with, for example Susan Cruickshank our graphic designer and Michelle Botia our HR partner.
 
-{% image src:"/images/blog/Milk-Amelia.jpg" alt:"This is Milk Amelia" title:"This is Milk Amelia" %}
+{% image src:"/images/blog/Milk-Angela.jpg" alt:"This is Milk Angela" title:"This is Milk Angela" %}
 
 ##Q: How would you describe This is Milk?
 A: We’re an experienced bunch, with expertise in a variety of business disciplines, from project management, customer experience and business strategy to, marketing and graphic design. We have a range of services, all designed to deliver business improvement. It may be that you have an existing problem or idea that we can workshop with you to create a plan of action, or perhaps you have a specific project in mind that we can help deliver from start to finish. We design solutions that will delight your customers and empower your people. Because we believe your people are your greatest assets. When you work with us you’ll get a fresh pair of eyes on your business opportunity – we’ll look at it in a holistic and interactive way, applying design thinking, deep questioning and clear, simple tools that will get you to an answer. Every challenge has a unique solution; you won’t get a one-size-fits-all process from us.
@@ -57,7 +57,7 @@ A: We are based in a jail cell.  I’m not kidding.  Orkney Street Enterprise Ce
 
 ##Last but not least, how can we find out more?
 
-Thank you so much Amelia for your time and a wonderful interview. Find out more about This is Milk below and don't forget to check out our [interview](http://productforge.io/livestreams/2016/07/22/livestreamed-q-and-a-with-angela-prentner-smith-founder-of-this-is-milk/).
+Thank you so much Angela for your time and a wonderful interview. Find out more about This is Milk below and don't forget to check out our [interview](http://productforge.io/livestreams/2016/07/22/livestreamed-q-and-a-with-angela-prentner-smith-founder-of-this-is-milk/).
 
 * [This is Milk Website](http://www.getadministrate.com/)
 * [This is Milk Blog](http://www.thisismilk.co.uk/blog)
