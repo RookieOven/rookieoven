@@ -57,7 +57,7 @@ A: We are based in a jail cell.  I’m not kidding.  Orkney Street Enterprise Ce
 
 ##Last but not least, how can we find out more?
 
-Thank you so much Angela for your time and a wonderful interview. Find out more about This is Milk below and don't forget to check out our [interview](http://productforge.io/livestreams/2016/07/22/livestreamed-q-and-a-with-angela-prentner-smith-founder-of-this-is-milk/).
+Thank you so much Angela for your time and speaking with me. Find out more about This is Milk below and don't forget to check out our [interview here](http://productforge.io/livestreams/2016/07/22/livestreamed-q-and-a-with-angela-prentner-smith-founder-of-this-is-milk/).
 
 * [This is Milk Website](http://www.getadministrate.com/)
 * [This is Milk Blog](http://www.thisismilk.co.uk/blog)
