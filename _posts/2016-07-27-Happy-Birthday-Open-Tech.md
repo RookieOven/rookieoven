@@ -1,5 +1,5 @@
 ---
-title: 'Happy Birthday Open Tech Calendar'
+title: Happy Birthday Open Tech Calendar
 author: 7
 layout: post
 description: We have a special shout out to Open Tech Calendar to wish them a Happy 4th Birthday! In a short time it has become an indispensable community resource.
@@ -10,7 +10,7 @@ categories:
   - Glasgow
   - Happy Birthday
 ---
-We have a special shout out to Open Tech Calendar to wish them a Happy 4th Birthday! There are a lot of unsung heroes in the Scottish tech community that work extremely hard to create a more vibrant and successful tech industry in Scotland. Open Tech Calendar is a prime example of this so let's help them celebrate turning 4. 
+We have a special shout out to Open Tech Calendar to wish them a Happy 4th Birthday! There are a lot of unsung heroes in the Scottish tech community that work extremely hard to create a more vibrant and successful tech industry in Scotland. Open Tech Calendar is a prime example of this so let's help them celebrate turning 4.
 
 ##Happy Birthday Open Tech!
 I talked with James Baster, the Android and web developer who helped create Open Tech Calendar. Baster has always been up for meetups, getting himself evolved with the Edinburgh Tech Meetup, presenting and help running it, for over a year and decided the Scottish tech community needed an easier way to locate and promote events. We are really glad he did because this site has become one of our go-to’s for finding and advertising meetups for RookieOven! It’s a fantastic site and while talking to James I got to hear about their journey to their 4th birthday!

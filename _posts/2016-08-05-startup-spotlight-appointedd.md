@@ -4,7 +4,7 @@ author: 7
 layout: post
 description: The RookieOven Startup spotlight is a weekly look at a  startup from the Scottish tech community. This week the spotlight falls on Appointedd.
 headerImage: /images/blog/Appoint-Computer.jpg
-permalink: /2016/07/22/startup-spotlight-Appointedd/
+permalink: /2016/08/05/startup-spotlight-Appointedd/
 categories:
   - Edinburgh
   - Startup Spotlight
@@ -15,7 +15,7 @@ Each Friday the RookieOven Startup Spotlight highlights a member of the Scottish
 
 ##Appointing you in the right direction:
 
-Bad pun aside, we’ve seen companies help organize businesses before but Appointedd has it’s own special touch within the booking industry. This online booking and business management software company has taken Scotland by storm! I got an opportunity to talk with Marc Blake, Appoitedd’s Marketing Manager to discuss more about this fantastic startup.
+Bad pun aside, we’ve seen companies help organise businesses before but Appointedd has it’s own special touch within the booking industry. This online booking and business management software company has taken Scotland by storm! I got an opportunity to talk with Marc Blake, Appointedd’s Marketing Manager to discuss more about this fantastic startup.
 
 Marc describes Appointedd as a company which “allows all kinds of different small, independent, businesses to take online bookings from their website, Facebook and really any online presence. Then once that booking is made the software can manage that booking right the way through their business. The whole business can be managed all in one place.”
 
@@ -23,7 +23,7 @@ Marc describes Appointedd as a company which “allows all kinds of different sm
 
 {% image src:"/images/blog/Appoint-Leah.jpg" alt:"Appointedd Leah" title:"Appointedd Leah" %}
 
-Leah Hutcheon, CEO of Appointedd, grew incredibly frustrated that booking anything would always be a pain. As a magazine editor, Hutcheon was always on the go and used to a busy schedule which needing to manage everything online. “The only thing she couldn’t seem to book was my hairdresser appointments, or anything engaging with independent businesses. She thought if she had that problem, who else was experiencing this too.” As this frustration grew she realized that this could be something huge for companies, big or small, thus Appointedd began.
+Leah Hutcheon, CEO of Appointedd, grew incredibly frustrated that booking anything would always be a pain. As a magazine editor, Hutcheon was always on the go and used to a busy schedule which needing to manage everything online. “The only thing she couldn’t seem to book was my hairdresser appointments, or anything engaging with independent businesses. She thought if she had that problem, who else was experiencing this too.” As this frustration grew she realised that this could be something huge for companies, big or small, thus Appointedd began.
 
 
 ##Small but mighty:
@@ -40,12 +40,7 @@ Kirsty McLaughlin, Customer Experience Executive
 Scott Hutcheson, Designer
 Oscar
 
-Their chairman is Kenny Fraser
-Marie Macklin CBE is a Non Exec Director
-
-{% image src:"/images/blog/Appoint-Full-Team.png" alt:"Appointedd Full Team" title:"Appointedd Full Team" %}
-
-{% image src:"/images/blog/Appoint-Last-Team.png" alt:"Appointedd Last Team" title:"Appointedd Last Team" %}
+Their chairman is Kenny Fraser of Sunstone Communication (he's actually based in RookieOven and runs weekly office hours - [book in](http://www.sunstonecommunication.com) if you need some advice) and Marie Macklin CBE is a Non Exec Director.
 
 ##How they funded their online based startup:
 
