@@ -2,9 +2,9 @@
 title: 'Pokemon Go Trail'
 author: 7
 layout: post
-description: RookieOven and Digital Media are hosting the first ever Pokemon Go Trail within Glasgow.
+description: RookieOven and Digital Media are hosting the first ever Pokemon Go Trail within Glasgow to raise money for Macmillian Cancer Support
 headerImage: /images/blog/Poke-Header.jpg
-permalink: /2016/08/10/pokemon go trail/
+permalink: /2016/08/10/pokemon-go-trail/
 categories:
   - Glasgow
   - Pokemon Go Trail
@@ -33,7 +33,7 @@ I remember being a tween, with my chocker necklace on, bright blue eyeshadow, be
 
 {% image src:"/images/blog/Poke-Style.gif" alt:"Pokemon Go Trail Style" title:"Pokemon Go Trail Style" %}
 
-I grew up in the States, so my childhood gems might be different from others but it doesn’t change the simple truth that Pokemon has brought all generations together. Looking back, I remember geeking out over the trading cards, I was on top of the world playing the Nintendo games and every single weekend I’d run over to my neighbor’s house in the mornings to watch the 3 hour Pokemon marathons. I even remember the first Pokemon I ever won from my brother – Cubone.
+I grew up in the States, so my childhood gems might be different from others but it doesn’t change the simple truth that Pokemon has brought all generations together. Looking back, I remember geeking out over the trading cards, I was on top of the world playing the Nintendo games and every single weekend I’d run over to my neighbour’s house in the mornings to watch the 3 hour Pokemon marathons. I even remember the first Pokemon I ever won from my brother – Cubone.
 
 {% image src:"/images/blog/Poke-Cubone.jpg" alt:"Pokemon Go Cubone" title:"Pokemon Go Trail Cubone" %}
 
@@ -62,10 +62,11 @@ Oh yeah, it's FREE! Simply RSVP and turn up at 12:00 PM.
 ##Last Tips & Naysayers:
 
 Here are some tips for the evening:
-  * We will be walking a lot so we recommend wearing comfy shoes.
-  * Highly recommend bringing your portable chargers as a backup for your Pokedex.
-  * Water is always a smart choice.
-  * #trainerstyle is not a must but totally gives you points (ehem PRIZES!).
+
+* We will be walking a lot so we recommend wearing comfy shoes.
+* Highly recommend bringing your portable chargers as a backup for your Pokedex.
+* Water is always a smart choice.
+* #trainerstyle is not a must but totally gives you points (ehem PRIZES!).
 
 I know there will be some naysayers out there but here are my thoughts on that: Who could actually have a bad time catching imaginary monsters while eating and drinking copious amounts of alcohol and vittles? WHO? TELL ME! I will find them, take them to find Pikachu, and if they don’t feel like the best damned Pokemon Trainer there ever was then I’m probably just secretly part of Team Rocket.
 
