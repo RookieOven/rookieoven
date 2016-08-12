@@ -11,8 +11,6 @@ categories:
 ---
 Each Friday the RookieOven Startup Spotlight highlights a member of the Scottish tech startup community. The aim is to, as the name suggests, put the spotlight on Scotland’s best startups from across the country. It’s an opportunity to share information about an exciting tech startup from Scotland you may not have heard of. Giving a brief overview of the company, what they do, where they are and who they are. This week the spotlight falls on Product Forge.
 
-{% image src:"/images/blog/Product-Me.png" alt:"This is Milk Interview" title:"This is Milk Interview" %}
-
 ##Starting on your own:
 
 As we have learned from personal experience or just reading our weekly blog posts, startups are moulded from recognition of the supply and demand, usually from our own personal experiences. Entrepreneurs thrive off of this and [Product Forge](http://productforge.io/) wants to support these innovators.
