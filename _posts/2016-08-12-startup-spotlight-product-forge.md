@@ -45,6 +45,8 @@ Product Forge, like most startups, consists of a small team of hardworking peopl
 
 Product Forge is self-funded and bootstrapped. They use event sponsorship to partner with "organisations who want to practice open innovation or support early stage entrepreneurship in their sector."
 
+<div class="video"><iframe width="100%" height="400px" src="https://www.youtube.com/embed/nR0ngzQ9LBM" frameborder="0" allowfullscreen></iframe></div>
+
 ##Get to know them more:
 
 You can find Product Forge’s offices in [TechCube](http://www.interspace-edinburgh.org/shared-office-space/techcube/), Edinburgh's first privately funded technology incubator which was founded by Olly Treadway with support from TechMeetup volunteers. Allan and his team are very excited to hear from startups so don't hesitate to check out their websites, videos, and even give them a call!
