@@ -1,10 +1,10 @@
 ---
-title: 'Startup Spotlight: This is Milk'
+title: Startup Spotlight - This is Milk
 author: 7
 layout: post
-description: The RookieOven Startup spotlight is a weekly look at a  startup from the Scottish tech community. This week the spotlight falls on This is Milk with Amelia Pretner-Smith.
+description: The RookieOven Startup spotlight is a weekly look at a  startup from the Scottish tech community. This week the spotlight falls on This is Milk with Angela Pretner-Smith.
 headerImage: /images/blog/Milk-Header.png
-permalink: /2016/07/22/startup-spotlight-This-is-Milk/
+permalink: /2016/07/29/startup-spotlight-This-is-Milk/
 categories:
   - Glasgow
   - Canada

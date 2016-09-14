@@ -1,5 +1,5 @@
 ---
-title: 'Startup Spotlight: Find A Player'
+title: Startup Spotlight - Find A Player
 author: 7
 layout: post
 description: The RookieOven Startup spotlight is a weekly look at a  startup from the Scottish tech community. This week the spotlight falls on Glasgow based Find a Player, the Facebook for sports.
