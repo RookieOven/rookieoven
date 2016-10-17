@@ -4,23 +4,15 @@
   description: Creating beautiful mobile products
   twitter: add_jam.png
   email: yo@addjam.com
-  url: http://addjam.com
+  url: https://addjam.com
 
 - name: Insurance By Jack
   id: 2
   image: insurancebyjack.png
   description: Simple business insurance for freelancers
   twitter: insurancebyjack
-  email: hello@insurancebyjack.co.uk
-  url: http://insurancebyjack.co.uk
-
-- name: FarmGeek
-  id: 3
-  image: farmgeek.jpg
-  description: Business management software for Farmers
-  twitter: wearefarmgeek
-  email: hello@farmer.io
-  url: http://farmer.io
+  email: hello@withjack.co.uk
+  url: http://withjack.co.uk
 
 - name: RawTech
   id: 4
@@ -69,3 +61,43 @@
   twitter:
   email:
   url: http://www.exevia.co.uk
+
+- name: Greta
+  id: 10
+  image: greta.png
+  description: A tool to analyze and improve site performance
+  twitter:
+  email:
+  url: http://www.greta.io
+
+- name: Gromego
+  id: 11
+  image: gromego.png
+  description: A better way to capture mileage
+  twitter:
+  email:
+  url: http://gromego.co.uk
+
+- name: Tido Music
+  id: 12
+  image: tido.png
+  description: Unlocking the power of music
+  twitter:
+  email:
+  url: http://tido-music.com
+
+- name: Really Good List
+  id: 13
+  image: reallygoodlist.png
+  description: Product launch list
+  twitter:
+  email:
+  url: http://reallygoodlist.com
+
+- name: Jen Thomson
+  id: 14
+  image: jen-thomson.png
+  description: UX Designer
+  twitter:
+  email:
+  url: http://jenthomson.com
