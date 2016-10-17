@@ -21,23 +21,17 @@
 }
 
 .jobs {
-  @include span-columns(8 of 12);
-  @include shift(2);
-  margin-top: 32px;
-  margin-bottom: 28px;
+  margin: 30px auto;
+  max-width: 800px;
   color: $dark-color;
 
   @include media($mobile) {
-    @include span-columns(12 of 12);
-    @include shift(0);
     font-size: 1.1em;
     padding-top: 0;
     padding-bottom: 0;
   }
 
   @include media($tablet) {
-    @include span-columns(8 of 12);
-    @include shift(2);
     font-size: 1.1em;
     padding-top: 0;
     padding-bottom: 0;
