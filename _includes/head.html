@@ -2,7 +2,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="user-scalable=no,width=device-width"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
+  <meta name="og:image" content="{% if page.image %}{{ site.url }}{{ page.image }}{% else %}{{ site.url }}{{ site.image }}{% endif %}">
+  <meta name="og:image:url" content="{% if page.image %}{{ site.url }}{{ page.image }}{% else %}{{ site.url }}{{ site.image }}{% endif %}">
+  <meta name="image" content="{% if page.image %}{{ site.url }}{{ page.image }}{% else %}{{ site.url }}{{ site.image }}{% endif %}">
+  <meta property="og:image:type" content="image/jpg" />
+  
 	<link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-icon-57x57.png">
 	<link rel="apple-touch-icon" sizes="60x60" href="/favicon/apple-icon-60x60.png">
 	<link rel="apple-touch-icon" sizes="72x72" href="/favicon/apple-icon-72x72.png">
