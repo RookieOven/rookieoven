@@ -15,7 +15,7 @@ Dig out that Christmas jumper, dust off your Santa hat and get ready for some se
 Back for the 3rd year running, the event brings together developers and designers, creatives and disruptors, and all the other wonderful people that help make the tech community in Glasgow what it is.
 Come along to **The Raven** on **Wednesday 7th December** for some holiday spirit, delicious bites, good company and general merriment.
 
-Tickets are just [£10 + eventbrite fees](https://gla-xmas-tech.eventbrite.co.uk).
+Tickets are just __[£10 + eventbrite fees](https://gla-xmas-tech.eventbrite.com/?aff=rookieoven)__.
 
 >>_As someone who has been to the last two Tech Christmas parties I have to say it is a real highlight of the year, I always meet people that I have not seen in ages, and new interesting people I would not have met otherwise. You are SERIOUSLY missing out if you don’t go. Buy a ticket!_
 
@@ -29,7 +29,7 @@ We also want to say a huge thank you to all of this year’s sponsors, who help 
 [Streamba](http://streamba.net) are building the “Google” of the energy supply chain. VOR is the single global source of operational truth for it’s customers, giving them complete visibility over their supply chain. Currently [hiring](http://www.streamba.net/careers) for their Glasgow office, they are keen to support and grow the Glasgow tech community, using the success and recent exits of companies in Edinburgh, like FanDuel and SkyScanner, as a benchmark and inspiration.
 
 {% image src:"/images/blog/burness-paull.jpg" alt:"Burness Paull" title:"Burness Paull" %}
-[Burness Paull](http://www.burnesspaull.com) are a top tier commercial law firm serving an international client base from Scotland. From their offices in Aberdeen, Edinburgh and Glasgow, they work with clients not just in Scotland and the rest of the UK — but across the world. But it’s their culture and personality that sets them apart. They do things their way. They aren’t magnolia. Truly great things don’t conform to a norm. They dare to be different.
+[Burness Paull](http://www.burnesspaull.com) is a premier independent commercial law firm with offices in Aberdeen, Edinburgh and Glasgow. The 59 partner firm advises clients in Scotland, the UK and internationally. In the last year they have represented clients and project managed over £100bn of deals in more than 60 jurisdicutions. Burness Paull's key focus is on Corporate Scotland and the technology, property & infrastructure, financial and oil & gas sectors. Bringing together experienced tech-aware practitioners from every discipline, the team looks to understand how tech drives your business and can deliver solutions that work for you.
 
 {% image src:"/images/blog/grant-thornton.jpg" alt:"Grant Thornton" title:"Grant Thornton" %}
 [Grant Thornton](http://www.grantthornton.co.uk) have chosen to set their reputation alongside a bold purpose — by unlocking the potential for growth in their people, clients and their communities they believe they can help shape a vibrant economy where businesses and people can flourish. They believe that today’s world is all about connecting across businesses and industries, between public and private. And they have a track record of making that happen. They provide advice to more than 40,000 dynamic organisations across the public and private sector, and working with those organisations excites them because they know they help a vibrant economy to thrive.
