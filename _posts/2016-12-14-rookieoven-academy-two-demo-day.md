@@ -31,7 +31,7 @@ Speakers and subjects being:
 * Creative Thinking with Me, founder of RookieOven
 * Business Models with Chris Sloey founder of [Add Jam](https://addjam.com)
 * Digital Marketing with Kaye Symington, cofounder of [Paved With Gold](http://www.pavedwithgold.co)
-* Identity and User Experience with Jen Thomson, founder of [Upclose and Pixelated](http://insurancebyjack.co.uk)
+* Identity and User Experience with Jen Thomson, founder of [Upclose and Pixelated](http://jenthomson.com)
 * How to tell your story with Ashley Baxter founder [Jack](http://withjack.co.uk)
 * Demo Day
 
