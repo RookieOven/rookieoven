@@ -4,6 +4,7 @@ author: 1
 layout: post
 description: Our second RookieOven Academy comes to an end with our Demo night. Get details on how it all went down.
 headerImage: /images/blog/academy-two-pitch.jpg
+image: /images/blog/academy-two-pitch.jpg
 permalink: /2016/12/14/rookieoven-academy-two-demo-day
 categories:
   - education
