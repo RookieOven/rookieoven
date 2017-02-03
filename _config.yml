@@ -1,7 +1,7 @@
 title: RookieOven
-description: Baking a tasty startup scene in Scotland. Creating a more cohesive startup community in Scotland through a coworking space and regular meetups
+description: Creating a more vibrant startup community in Scotland with our gorgeous coworking space, regular events and education programmes.
 email: michael@rookieoven.com
-url: "http://rookieoven.com"
+url: "https://rookieoven.com"
 image: "/images/academy-top.jpg"
 twitter_username: rookieoven
 gems: [bourbon, neat, jekyll-sitemap, jekyll-minifier, jekyll-paginate]
