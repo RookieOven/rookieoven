@@ -109,6 +109,7 @@
     @include span-columns(6 of 12);
 		@include shift(3);
 		padding: 0px;
+    list-style-position: outside;
 
 	 	@include media($tablet) {
 	    @include span-columns(12 of 12);
@@ -126,10 +127,15 @@
 		line-height: 1.3em;
     font-family: 'Open Sans', sans-serif;
     margin-bottom: 8px;
+    position:relative;
+    padding-left:32px;
 	}
 	li:before {
   	content: "• ";
   	color: $brand-color;
+    position:absolute;
+    top:0;
+    left:0;
 	}
 }
 
@@ -154,10 +160,14 @@
 		@include span-columns(6 of 12);
 		margin-bottom: 12px;
 
-		@include media($mobile) {
+		@include media($tablet) {
 			@include span-columns(12 of 12);
       margin-top: 20px;
   	}
+    @include media($mobile) {
+      @include span-columns(12 of 12);
+      margin-top: 20px;
+    }
 		h3 {
 			font-size: 1.3em;
 			padding-bottom: 10px;
@@ -179,6 +189,7 @@
 		}
 		ul{
 			list-style-type: none;
+      list-style-position: outside;
 		}
 		li {
 			text-align: left;
@@ -186,10 +197,15 @@
 			line-height: 1.3em;
 	    font-family: 'Open Sans', sans-serif;
       margin-bottom: 8px;
+      position:relative;
+      padding-left:32px;
 		}
 		li:before {
     	content: "• ";
     	color: $brand-color;
+      position:absolute;
+      top:0;
+      left:0;
 		}
 		.button {
 			margin-top: 30px;
