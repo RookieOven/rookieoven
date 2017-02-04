@@ -1,5 +1,5 @@
 ---
-title: Coworking | A Home for Glasgow Technology
+title: Coworking | A Home for Glasgow Technology | RookieOven
 author: 1
 layout: page
 description: A beautiful coworking space just for tech in Glasgow. Home to some of the best development, design and businesses talent in the city.
@@ -17,14 +17,14 @@ image: /images/rookieoven-overview.jpg
 </div>
 
 <div class="image-row">
-	<img src="/images/coworking1.jpg">
-	<img src="/images/coworking2.jpg">
-	<img src="/images/coworking3.jpg">
-	<img src="/images/coworking4.jpg">
-	<img src="/images/coworking5.jpg">
-	<img src="/images/coworking6.jpg">
-	<img src="/images/coworking7.jpg">
-	<img src="/images/coworking8.jpg">
+	<img src="/images/coworking1.jpg" alt="we have a classic school blackboard">
+	<img src="/images/coworking2.jpg" alt="our awesome pool table">
+	<img src="/images/coworking3.jpg" alt="Indie our office dog">
+	<img src="/images/coworking4.jpg" alt="we love our sweeties and treats">
+	<img src="/images/coworking5.jpg" alt="freshly gorund coffee every day">
+	<img src="/images/coworking6.jpg" alt="lovely open space bathed in light">
+	<img src="/images/coworking7.jpg" alt="diverse range of talents">
+	<img src="/images/coworking8.jpg" alt="we like to play our games">
 </div>
 
 <div class="section" id="pricing">
@@ -68,15 +68,14 @@ image: /images/rookieoven-overview.jpg
 	<h2>About the space</h2>
 	<ul>
 		<li>Custom made desks, 1.2 metre square</li>
-		<li>Blazing internet access (>300bms) thanks to our awesome partner Telcom</li>
+		<li>Blazing internet access thanks to our awesome partner Telcom</li>
 		<li>Kitchen with microwave, tea and coffee making facilities and a fridge freezer</li>
 		<li>Retro games consoles - xbox 360, PSone and Sega Master System</li>
 		<li>Pub style pool table - free to use</li>
-    <li>A Sonos playing the best 80's tunes</li>
-		<li>A small library with business, design, product, marketing and technical books</li>
+		<li>A small library</li>
 		<li>Free onsite parking</li>
     <li>Printer and shredder</li>
-    <li>Excellent transport links with the M8, Clyde Tunnel, Subway and Fastlink buses nearby</li>
+    <li>Excellent transport links by car, subway, bike and bus</li>
     <li>Bike storage and onsite shower</li>
     <li>We even have a museum on the ground floor</li>
 	</ul>
@@ -89,16 +88,16 @@ image: /images/rookieoven-overview.jpg
 
 <div class="section" id="tenants">
 	<div class="tenants">
-		<h2>Tenants</h2>
+		<h2>Who works here?</h2>
 
 		{% for tenant in site.data.tenants %}
-			<a href="{{ tenant.url }}"><img class="tenant" src="/images/tenants/{{ tenant.image }}"></a>
+			<a href="{{ tenant.url }}"><img class="tenant" src="/images/tenants/{{ tenant.image }}" alt="{{ tenant.name }} logo"></a>
 		{% endfor %}
 	</div>
 </div>
 
 <div class="find-us" id="find-us">
-	<h2>Find Us</h2>
+	<h2>Come say hello</h2>
 	<div class="map">
 		<iframe width='100%' height='300px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/mdhayes.mjh655j0/attribution.html?access_token=pk.eyJ1IjoibWRoYXllcyIsImEiOiIzc0d2MjBjIn0.mYIBQhNxrLGWCdOOINdePw'></iframe>
 	</div>
@@ -107,7 +106,7 @@ image: /images/rookieoven-overview.jpg
 <div class="section">
 
   <h2>{{ site.data.coworking.info_subheader }}</h2>
-  <p>{{ site.data.coworking.info_introduction }}</p>
+  <p>{{ site.data.coworking.info_paragraph }}</p>
 
 </div>
 {% include subscribe.html %}

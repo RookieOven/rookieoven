@@ -42,9 +42,10 @@
 	background: rgba(0,0,0,0.15);
 }
 
-.image-row{
+.image-row {
 	@include span-columns(10 of 12);
 	@include shift(1);
+  margin-bottom: 0;
 
 	@include media($mobile) {
 		@include span-columns(12 of 12);
@@ -74,6 +75,7 @@
 	@include shift(1);
 	color: $dark-color;
 	text-align: center;
+  margin-bottom: 12px;
 
  	@include media($tablet) {
     @include span-columns(10 of 12);
@@ -104,8 +106,8 @@
 .details {
 	ul{
 		list-style-type: none;
-    @include span-columns(10 of 12);
-		@include shift(1);
+    @include span-columns(6 of 12);
+		@include shift(3);
 		padding: 0px;
 
 	 	@include media($tablet) {
@@ -120,9 +122,10 @@
 	}
 	li {
 		text-align: left;
-		font-size: 0.9em;
+		font-size: 1.1em;
 		line-height: 1.3em;
     font-family: 'Open Sans', sans-serif;
+    margin-bottom: 8px;
 	}
 	li:before {
   	content: "• ";
@@ -179,9 +182,10 @@
 		}
 		li {
 			text-align: left;
-			font-size: 0.9em;
+			font-size: 1.1em;
 			line-height: 1.3em;
 	    font-family: 'Open Sans', sans-serif;
+      margin-bottom: 8px;
 		}
 		li:before {
     	content: "• ";
@@ -189,7 +193,6 @@
 		}
 		.button {
 			margin-top: 30px;
-      height: 50px;
       width: 175px;
       margin-left: 0;
       display: inline-block;

@@ -35,7 +35,6 @@
 .image-row{
 	@include span-columns(10 of 12);
 	@include shift(1);
-  margin-bottom: 120px;
 
 	@include media($mobile) {
 		@include span-columns(12 of 12);

@@ -74,6 +74,7 @@ h1, h2 {
 
 h2 {
 	font-size: 2.4em;
+	margin-bottom: 8px;
 
   @include media($mobile) {
       font-size: 1.8em;
@@ -402,6 +403,7 @@ footer {
     margin-right: auto;
     display: block;
     width: 635px;
+		margin-bottom: 12px;
 
     *::-webkit-input-placeholder {
         color: darken($light-color, 30);
