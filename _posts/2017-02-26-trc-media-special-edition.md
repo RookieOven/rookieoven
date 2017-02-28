@@ -44,7 +44,7 @@ Those who wish to apply should ideally have:
 
 There are limited places available on Special Edition and the highly competitive selection process is based on talent, need and clearly articulated goals.
 
-{% image src:"/images/blog/trc-media-blog-image" alt:"trc media world class training and development " title:"TRC Media" %}
+{% image src:"/images/blog/trc-media-blog-image.jpg" alt:"trc media world class training and development " title:"TRC Media" %}
 
 ##Candidates from 2016
 
