@@ -1,14 +1,14 @@
 ---
 title: TRC Media - Special Edition
-author: 1
+author: 10
 layout: post
 description: Discover TRC Media's Special Edition. A professional development programme that seeks to help ambitious women fulfill their potential and reach the very top.
 headerImage: /images/Special-Edition-Header-Image.jpg
 image: /images/blog/Special-Edition-Header-Image.jpg
 permalink: /2017/02/26/trc-media-special-edition
 categories:
-  - education
-  - Academy
+  - support
+  - startus
   - glasgow
 ---
 TRC Media acknowledge that women are under-represented at board level in the tech/digital sector in Scotland - so they decided to take action. Special Edition is an initiative that aims to help women reach their full potential in the industry. The six-month programme offers participants a chance to learn from detailed workshops and develop not only their professional and creative skills, but their entrepreneurial and networking skills.

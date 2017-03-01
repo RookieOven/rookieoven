@@ -1,14 +1,14 @@
 ---
 title: Adimo raises £1 million to make marketing shoppable.
-author: 1
+author: 10
 layout: post
 description: Glasgow based start-up Adimo successfully secures a £1 million seed for marketing commerce platform that drives impulse purchases for FMCGs.
 headerImage:
 image:
-permalink: /2017/02/26/adimo-raises-one-million-pound-to-make-marketing-shoppable
+permalink: /2017/02/28/adimo-raises-one-million-pound-to-make-marketing-shoppable
 categories:
-  - education
-  - Academy
+  - investment
+  - funding
   - glasgow
 ---
 ##About Adimo
