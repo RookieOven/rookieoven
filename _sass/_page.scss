@@ -20,6 +20,10 @@
 
 	.field {
 		margin-top: 20px;
+
+		.label {
+			width: 100%;
+		}
 		
 		p {
 	    	color: $dark-color;
@@ -36,7 +40,12 @@
 				border: 1px solid #979797;
 				margin-bottom: 12px;
 	    }
-	}
+
+			.ro-input {
+					float: right;
+					margin-left: 50px;
+				}
+		}
 
   .submit-button {
 			margin: 15px auto;
