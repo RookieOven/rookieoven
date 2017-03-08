@@ -25,8 +25,42 @@ image: /images/academy-top.jpg
 
 <div class="section">
 
-<h2>{{ site.data.academy.application_subheader }}</h2>
-<p>{{ site.data.academy.application_introduction }}</p>
+  <h2>{{ site.data.academy.application_subheader }}</h2>
+  <p>{{ site.data.academy.application_introduction }}</p>
+
+	<div class="contact-form">
+ 		<form action="http://getsimpleform.com/messages?form_api_token=b11f805cd71a721b26db11e766b05d98" method="post">
+ 			<input type='hidden' name='redirect_to' value='http://rookieoven.com/' />
+       <input type='hidden' name='page' value='academy' />
+ 			<div class="field">
+ 				<p class="label">Name</p>
+ 				<input class="ro-input" type='text' name='name' />
+ 			</div>
+ 			<div class="field">
+ 				<p class="label">Email</p>
+ 				<input class="ro-input" type='email' name='email' />
+ 			</div>
+       <div class="field">
+         <p class="label">School/College/University (if applicable)</p>
+         <input class="ro-input" type='text' name='school' />
+       </div>
+ 			<div class="field">
+ 				<p class="label">Why do you want to join the Academy?</p>
+ 				<textarea class="ro-input" type='textarea' name='why' rows="6"/> </textarea>
+ 			</div>
+
+       <div class="field">
+ 				<p class="label">What is your proudest moment?</p>
+ 				<textarea class="ro-input" type='textarea' name='proudest' rows="6"/> </textarea>
+ 			</div>
+
+       <div class="field">
+         <p class="label">What is your favourite technology and why?</p>
+         <textarea class="ro-input" type='textarea' name='technology' rows="6"/> </textarea>
+       </div>
+ 			<button class="submit-button">Submit</button>
+ 		</form>
+ 	</div>
 
 </div>
 
