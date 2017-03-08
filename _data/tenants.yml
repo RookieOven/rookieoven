@@ -14,13 +14,13 @@
   email: hello@withjack.co.uk
   url: http://withjack.co.uk
 
-- name: RawTech
-  id: 4
-  image: rawtechio.png
-  description: Expert python development from Glasgow
-  twitter: rawtechio
-  email: hello@rawtech.io
-  url: http://rawtech.io
+- name: FarmGeek
+  id: 3
+  image: farmgeek.jpg
+  description: Farming Software
+  twitter: insurancebyjack
+  email: hello@withjack.co.uk
+  url: http://farmer.io
 
 - name: ActiveRefer
   id: 5
@@ -38,14 +38,6 @@
   email: hello@sunstone.com
   url: http://sunstonecommunication.com
 
-- name: Learn Pro
-  id: 8
-  image: learn-pro-logo.png
-  description: E-learning software
-  twitter: learnpro
-  email: info@learnpro.co.uk
-  url: http://www.learnpro.co.uk
-
 - name: Defining Technlogy
   id: 7
   image: defining-technology.jpg
@@ -53,14 +45,6 @@
   twitter: defining_tech
   email: info@defining.tech
   url: http://www.defining.tech
-
-- name: Exevia
-  id: 9
-  image: exevia.png
-  description: A better way to capture mileage
-  twitter:
-  email:
-  url: http://www.exevia.co.uk
 
 - name: Greta
   id: 10
@@ -101,3 +85,43 @@
   twitter:
   email:
   url: http://jenthomson.com
+
+- name: Just Add Code
+  id: 15
+  image: justaddcode.png
+  description: Coding School
+  twitter:
+  email:
+  url: http://justaddcode.co.uk
+
+- name: Kiswebs
+  id: 16
+  image: kiswebs.png
+  description: Web Development
+  twitter:
+  email:
+  url: http://kiswebs-design.co.uk
+
+- name: Catch Media
+  id: 17
+  image: catch-media.png
+  description: Digital Marketing
+  twitter:
+  email:
+  url: https://www.catch-media.co.uk
+
+- name: Derryherk
+  id: 17
+  image: derryherk-logo.png
+  description: Smart cities
+  twitter:
+  email:
+  url: mailto:ciaran@derryherk.com
+
+- name: Ashworth Digital
+  id: 18
+  image: ashworth.png
+  description: Web Development
+  twitter:
+  email:
+  url: http://stuartashworth.com
