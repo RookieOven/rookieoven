@@ -17,8 +17,6 @@ We're driven to help the next generation of ambitious tech entrepreneurs fulfil 
 Having evaluated Academies One and Two, we've produced a infographic (below) to show what we've learned. 
 
 
-##Get Involved
-
 If you're 16-25, have a passion for tech and are keen to develop your startup business skills, [apply now](https://rookieoven.com/academy/).
 
 And if you're still thinking, 'Mmm...don't think this is for me...' have a look below to find out what our students are telling us about the Academy. We think you'll like it.
