@@ -125,3 +125,11 @@
   twitter:
   email:
   url: http://stuartashworth.com
+
+- name: Pocket Leap
+  id: 19
+  image: pocketleap.png
+  description: App platform
+  twitter:
+  email:
+  url: http://www.pocketleap.com
