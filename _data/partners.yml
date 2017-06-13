@@ -7,3 +7,13 @@
   id: 2
   image: telcom-logo.png
   url: http://telcom.io
+
+- name: AWS
+  id: 3
+  image: aws-logo.png
+  url: http://aws.amazon.com
+
+- name: Sketch
+  id: 4
+  image: sketch-logo.png
+  url: https://www.sketchapp.com
