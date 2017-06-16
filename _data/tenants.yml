@@ -133,3 +133,11 @@
   twitter:
   email:
   url: http://www.pocketleap.com
+
+- name: Shed
+  id: 20
+  image: shed.png
+  description: Web agency
+  twitter:
+  email:
+  url: http://shedcollective.org

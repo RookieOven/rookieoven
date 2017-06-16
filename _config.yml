@@ -5,7 +5,7 @@ url: "https://rookieoven.com"
 image: "/images/academy-top.jpg"
 twitter_username: rookieoven
 gems: [bourbon, neat, jekyll-sitemap, jekyll-minifier, jekyll-paginate]
-paginate: 10
+paginate: 15
 paginate_path: "/blog/page:num"
 markdown: redcarpet
 redcarpet:

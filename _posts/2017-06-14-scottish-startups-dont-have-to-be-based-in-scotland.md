@@ -3,7 +3,7 @@ title: Scottish startups don't have to be based in Scotland
 author: 1
 layout: post
 headerImage: /images/blog/kapa-mobile-ios.jpg
-permalink: /2017/03/17/scottish-startups-dont-have-to-be-based-in-scotland
+permalink: /2017/06/14/scottish-startups-dont-have-to-be-based-in-scotland
 categories:
  - development
  - london
