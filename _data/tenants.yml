@@ -141,3 +141,11 @@
   twitter:
   email:
   url: http://shedcollective.org
+
+- name: APL Business Intelligence
+  id: 20
+  image: apl-business-intelligence.png
+  description: BI
+  twitter:
+  email:
+  url: mailto:paulmathieson@aplbusinessintelligence.co.uk
