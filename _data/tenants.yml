@@ -14,14 +14,6 @@
   email: hello@withjack.co.uk
   url: http://withjack.co.uk
 
-- name: FarmGeek
-  id: 3
-  image: farmgeek.jpg
-  description: Farming Software
-  twitter: insurancebyjack
-  email: hello@withjack.co.uk
-  url: http://farmer.io
-
 - name: ActiveRefer
   id: 5
   image: activerefer.png
@@ -29,14 +21,6 @@
   twitter: activerefer
   email: hello@activerefer.com
   url: http://activerefer.com
-
-- name: Sunstone Communications
-  id: 6
-  image: sunstone.png
-  description: World class business advice
-  twitter: sunstone
-  email: hello@sunstone.com
-  url: http://sunstonecommunication.com
 
 - name: Defining Technlogy
   id: 7
@@ -149,3 +133,27 @@
   twitter:
   email:
   url: mailto:paulmathieson@aplbusinessintelligence.co.uk
+
+- name: Skunkworx
+  id: 20
+  image: skunkworx.png
+  description: Automotive tools
+  twitter:
+  email:
+  url: http://www.skunkworx.com
+
+- name: Canny Travel
+  id: 21
+  image: canny-travel.jpg
+  description: Salvage your booking
+  twitter:
+  email:
+  url: http://cannytravel.com
+
+- name: Upsurge IO
+  id: 22
+  image: upsurgeio.png
+  description: Marketing automation
+  twitter:
+  email:
+  url: http://gsllab.com
