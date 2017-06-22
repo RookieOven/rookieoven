@@ -94,14 +94,6 @@
   email:
   url: https://www.catch-media.co.uk
 
-- name: Derryherk
-  id: 17
-  image: derryherk-logo.png
-  description: Smart cities
-  twitter:
-  email:
-  url: mailto:ciaran@derryherk.com
-
 - name: Ashworth Digital
   id: 18
   image: ashworth.png
@@ -140,7 +132,7 @@
   description: Automotive tools
   twitter:
   email:
-  url: http://www.skunkworx.com
+  url: http://www.weareskunkworx.com
 
 - name: Canny Travel
   id: 21
@@ -157,3 +149,20 @@
   twitter:
   email:
   url: http://gsllab.com
+
+- name: Geckoboard
+  id: 23
+  image: geckoboard.jpg
+  description: Dashboarding
+  twitter:
+  email:
+  url: http://geckoboard.com
+
+
+- name: Danbo
+  id: 24
+  image: danbo.jpg
+  description: Video games
+  twitter:
+  email:
+  url: http://stellarcirclegames.com
