@@ -2,6 +2,7 @@
 title: Making mobile affordable
 author: 1
 layout: post
+description: Mobile apps offer such huge opportunity to tourism businesses. Pocket Leap aims to make mobile apps affordable and accessible to tourism businesses
 headerImage: /images/blog/phone-mockup-template.jpg
 image: /images/blog/phone-mockup-template.jpg
 permalink: /2017/06/22/making-mobile-affordable

@@ -2,6 +2,7 @@
 title: Grenfell Tower Support Hack
 author: 1
 layout: post
+description: Legal Hackers Scotland community have organised a hackathon, which is taking place this weekend – 25 + 26 June - in Glasgow to support those affect by the Grenfell Tower fire.
 headerImage: /images/blog/glasgow-hack.jpg
 image: /images/blog/glasgow-hack.jpg
 permalink: /2017/06/23/grenfell-tower-support-hack
