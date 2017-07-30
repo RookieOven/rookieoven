@@ -1,0 +1,43 @@
+---
+title: An Introduction to Metrics Driven Development — build features that change real numbers.
+author: 1
+layout: post
+description: Explore Metrics Driven Development with a concrete example of how to build features that change the analytics that matter to your startup.
+image: /images/blog/roadie/heading.jpg
+permalink: /2017/07/30/roadie-metrics-driven-development
+categories:
+ - development
+ - startup
+ - metrics
+---
+How many times have developers picked up tickets because they were in the backlog? Delivered them and never asked why? Metrics driven development tries to put an end to this. It focuses the teams and business on building features that aim to have high impact on what matters i.e. logins, revenue, or sign ups. You can read more about this in a [blog I posted back in February](https://medium.com/redlightmikey/metrics-driven-development-1c1889dda6ac).
+
+Recently at Roadie, a Dundee based startup helping learner drivers find the right driving instructor, we have been trying to increase the number of our booking requests. The process is lightweight and something other startups can pick up easily.
+
+We started by looking what we were trying to achieve; more booking requests. Then we looked at our metrics for search results and seen we have 60% drop off. Right now our booking conversion is around 4% so in theory if we managed to lower this drop off we would see more booking requests. A leap of faith assumption but we went with it.
+
+FIRST ANALYTICS image
+
+So, the objective was simple: Reduce bounce rate on search by 5%.
+
+Next, we had a brainstorming session where came up with possible solutions, all varying degrees of work.
+
+TRELLO image
+
+We discussed what we thought were worth taking on and that could have high impact. As a team we voted and began the work.
+
+We released three changes on that list; *higher resolution images, banner for popular instructors and a nicer heading*.
+
+Then we released those changes.
+
+__The process of gathering metrics, deciding what to do, then implementing the changes took less than 1 hour.__
+
+When the (cross-functional) team has a clear goal i.e. increase conversion and the team is left to their own devices to solve the problem, development becomes a lot faster. Ownership aids delivery.
+
+SEARCH RESULT images
+
+The real test comes from looking back at the analytics. Did we succeed? Is the bounce rate lower?
+
+ANALYTICS IMAGE 2
+
+Ten days after the change, I think they speak for themselves.  60.26% to 46.38% is definite win. This is something we will continue to measure in the coming weeks. However, we did make an assumption that decreasing the search bounce rate would increase conversion overall. It is too early to tell if this has a significant impact, but one thing is certain we will be looking at the metrics to determine this.
