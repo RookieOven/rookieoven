@@ -10,7 +10,7 @@ categories:
  - startup
  - metrics
 ---
-How many times have developers picked up tickets because they were in the backlog? Delivered them and never asked why? Metrics driven development tries to put an end to this. It focuses the teams and business on building features that aim to have high impact on what matters i.e. logins, revenue, or sign ups. You can read more about this in a [blog I posted back in February](https://medium.com/redlightmikey/metrics-driven-development-1c1889dda6ac).
+How many times have developers picked up tickets because they were in the backlog? Delivered them and never asked why? Metrics driven development tries to put an end to this. It focuses the teams and business on building features that aim to have high impact on what matters i.e. logins, revenue, or sign ups. You can read more about this in a [blog I posted back in February](https://medium.com/redlightmikey/metrics-driven-development-1c1889dda6ac). I want to talk about where I used this methodology in a real world example, and how this could change the way your organisation works forever.
 
 Recently at Roadie, a Dundee based startup helping learner drivers find the right driving instructor, we have been trying to increase the number of our booking requests. The process is lightweight and something other startups can pick up easily.
 
@@ -18,7 +18,7 @@ We started by looking what we were trying to achieve; more booking requests. The
 
 {% image src:"/images/blog/roadie/analytics-orginal.png" alt:"Roadie Dundee search results analytics" title:"Original analytics with a high bounce rate" %}
 
-So, the objective was simple: Reduce bounce rate on search by 5%.
+So, the objective was simple: Reduce bounce rate on search by 5%. This is our __criteria for success__
 
 Next, we had a brainstorming session where came up with possible solutions, all varying degrees of work.
 
@@ -42,7 +42,9 @@ The real test comes from looking back at the analytics. Did we succeed? Is the b
 
 {% image src:"/images/blog/roadie/analytics-after.png" alt:"Roadie analytics for search greatly improved" title:"Improved search analytics for driving instructors" %}
 
-Ten days after the change, I think they speak for themselves.  60.26% to 46.38% is definite win. This is something we will continue to measure in the coming weeks. However, we did make an assumption that decreasing the search bounce rate would increase conversion overall. It is too early to tell if this has a significant impact, but one thing is certain we will be looking at the metrics to determine this.
+Ten days after the change, I think the metrics speak for themselves.  60.26% to 46.38% is definite win. This is something we will continue to measure in the coming weeks. However, we did make an assumption that decreasing the search bounce rate would increase the number of requests overall. It is too early to tell if this change has a significant impact on booking requests, however by watching those metrics, and having a predefined __criteria for success__ the team knows that the deliverables met the desired outcome; to lower the bounce rate by 5%.
+
+By using Metrics Driven Development, the team were able to quickly deliver features as the nature of the problem was clear, and by writing out the criteria for success beforehand it is easy to judge wither they failed or not. Using these steps could drastically speed up delivery. Focussing on metrics daily will help startups prioritise it's backlog, give real clarity of success and failure. Try it, putting your analytics first will change the way you look at startups and software.
 
 Michael Carr
 Founder of [Roadie](https://www.goroadie.com)
