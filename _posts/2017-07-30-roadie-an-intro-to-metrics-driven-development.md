@@ -1,6 +1,6 @@
 ---
 title: An Introduction to Metrics Driven Development — build features that change real numbers.
-author: 1
+author: 11
 layout: post
 description: Explore Metrics Driven Development with a concrete example of how to build features that change the analytics that matter to your startup.
 image: /images/blog/roadie/heading.jpg
@@ -16,13 +16,13 @@ Recently at Roadie, a Dundee based startup helping learner drivers find the righ
 
 We started by looking what we were trying to achieve; more booking requests. Then we looked at our metrics for search results and seen we have 60% drop off. Right now our booking conversion is around 4% so in theory if we managed to lower this drop off we would see more booking requests. A leap of faith assumption but we went with it.
 
-FIRST ANALYTICS image
+{% image src:"/images/blog/roadie/analytics-orginal.png" alt:"Roadie Dundee search results analytics" title:"Original analytics with a high bounce rate" %}
 
 So, the objective was simple: Reduce bounce rate on search by 5%.
 
 Next, we had a brainstorming session where came up with possible solutions, all varying degrees of work.
 
-TRELLO image
+{% image src:"/images/blog/roadie/trello-options.png" alt:"Brainstorming options for search results" title:"Options for improving search results" %}
 
 We discussed what we thought were worth taking on and that could have high impact. As a team we voted and began the work.
 
@@ -34,10 +34,17 @@ __The process of gathering metrics, deciding what to do, then implementing the c
 
 When the (cross-functional) team has a clear goal i.e. increase conversion and the team is left to their own devices to solve the problem, development becomes a lot faster. Ownership aids delivery.
 
-SEARCH RESULT images
+{% image src:"/images/blog/roadie/search-results.png" alt:"Roadie Dundee search results" title:"Dundee driving lessons search results within Roadie" %}
+
+###### View [Driving Lessons in Dundee](https://www.goroadie.com/search/dundee) results.
 
 The real test comes from looking back at the analytics. Did we succeed? Is the bounce rate lower?
 
-ANALYTICS IMAGE 2
+{% image src:"/images/blog/roadie/analytics-after.png" alt:"Roadie analytics for search greatly improved" title:"Improved search analytics for driving instructors" %}
 
 Ten days after the change, I think they speak for themselves.  60.26% to 46.38% is definite win. This is something we will continue to measure in the coming weeks. However, we did make an assumption that decreasing the search bounce rate would increase conversion overall. It is too early to tell if this has a significant impact, but one thing is certain we will be looking at the metrics to determine this.
+
+Michael Carr
+Founder of [Roadie](https://www.goroadie.com)
+[Twitter](https://www.twitter.com/redlightmikey)
+[Blog](https://www.medium.com/@redlightmikey)
