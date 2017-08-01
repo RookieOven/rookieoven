@@ -166,3 +166,19 @@
   twitter:
   email:
   url: http://stellarcirclegames.com
+
+- name: NEU
+  id: 25
+  image: neu.png
+  description:
+  twitter:
+  email:
+  url: http://neubots.co
+
+- name: FreeAgent
+  id: 26
+  image: freeagent.jpg
+  description:
+  twitter:
+  email:
+  url: http://freeagent.com
