@@ -1,13 +1,13 @@
 ---
-title: RookieOven Academy - What Our Students Are Telling Us
+title: RookieOven Academy - What our students are telling us
 author: 9
 layout: post
 headerImage: /images/blog/academy9.jpg
 permalink: /2017/03/17/rookie-oven-what-our-students-are-telling-us
-categories: 
- - Academy 
- - education 
- - evaluation
+categories:  
+ - Academy
+ - education
+ - evaluation 
 ---
 
 As well as gearing up for [RookieOven Academy Three] (https://rookieoven.com/academy/), we've been reflecting on the last two Academies and taking the time to figure out what's working well, what needs improved and what (if anything), needs 'moved to trash'.
