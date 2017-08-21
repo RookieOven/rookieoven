@@ -2,7 +2,9 @@
 title: Introducing Digital Technology Meetup Glasgow
 author: 1
 layout: post
+description: Digital Tourism Meetup Glasgow is a monthly meetup with the aim of bringing together tourism businesses and the world class technology talent in Glasgow.
 headerImage: /images/blog/digital-tourism-header.jpg
+image: /images/blog/digital-tourism-header.jpg
 permalink: /2017/08/21/introducing-digital-tourism-glasgow-meetup
 categories:  
     - networking
