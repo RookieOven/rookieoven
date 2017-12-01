@@ -30,14 +30,6 @@
   email: info@defining.tech
   url: http://www.defining.tech
 
-- name: Greta
-  id: 10
-  image: greta.png
-  description: A tool to analyze and improve site performance
-  twitter:
-  email:
-  url: http://www.greta.io
-
 - name: Gromego
   id: 11
   image: gromego.png
@@ -61,14 +53,6 @@
   twitter:
   email:
   url: http://reallygoodlist.com
-
-- name: Jen Thomson
-  id: 14
-  image: jen-thomson.png
-  description: UX Designer
-  twitter:
-  email:
-  url: http://jenthomson.com
 
 - name: Just Add Code
   id: 15
@@ -134,14 +118,6 @@
   email:
   url: http://www.weareskunkworx.com
 
-- name: Canny Travel
-  id: 21
-  image: canny-travel.jpg
-  description: Salvage your booking
-  twitter:
-  email:
-  url: http://cannytravel.com
-
 - name: Upsurge IO
   id: 22
   image: upsurgeio.png
@@ -158,23 +134,6 @@
   email:
   url: http://geckoboard.com
 
-
-- name: Danbo
-  id: 24
-  image: setllarcircle.jpg
-  description: Video games
-  twitter:
-  email:
-  url: http://stellarcirclegames.com
-
-- name: NEU
-  id: 25
-  image: neu.png
-  description:
-  twitter:
-  email:
-  url: http://neubots.co
-
 - name: FreeAgent
   id: 26
   image: freeagent.jpg
@@ -182,3 +141,13 @@
   twitter:
   email:
   url: http://freeagent.com
+
+- name: MyFlag
+  id: 26
+  image: myflag.png
+  description:
+  twitter:
+  email:
+  url: https://twitter.com/My_Flag_
+
+
