@@ -22,14 +22,6 @@
   email: hello@activerefer.com
   url: http://activerefer.com
 
-- name: Defining Technlogy
-  id: 7
-  image: defining-technology.jpg
-  description: Developing custom software to solve hard problems
-  twitter: defining_tech
-  email: info@defining.tech
-  url: http://www.defining.tech
-
 - name: Gromego
   id: 11
   image: gromego.png
@@ -150,4 +142,18 @@
   email:
   url: https://twitter.com/My_Flag_
 
+- name: Healthcare Jobs
+  id: 27
+  image: healthcare.jpg
+  description:
+  twitter: 
+  email:
+  url: https://healthcarejobsapp.co.uk
 
+- name: Blog and Beyond
+  id: 28
+  image: blogandbeyond.jpg
+  description:
+  twitter: 
+  email:
+  url: https://www.blogandbeyond.com
