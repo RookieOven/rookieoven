@@ -62,14 +62,6 @@
   email:
   url: http://kiswebs-design.co.uk
 
-- name: Catch Media
-  id: 17
-  image: catch-media.png
-  description: Digital Marketing
-  twitter:
-  email:
-  url: https://www.catch-media.co.uk
-
 - name: Ashworth Digital
   id: 18
   image: ashworth.png
