@@ -17,3 +17,8 @@
   id: 4
   image: sketch-logo.png
   url: https://www.sketchapp.com
+
+- name: Digital Scotland
+  id: 5
+  image: digital-scotland-logo.jpg
+  url: http://www.gov.scot/digitalscotland/
