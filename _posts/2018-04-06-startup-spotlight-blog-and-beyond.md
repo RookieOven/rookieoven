@@ -2,7 +2,7 @@
 title: Startup Spotlight -  Blog and Beyond
 author: 1
 layout: post
-description: Meet Ashley, one of our RookieOven residents, and learn more about how she’s making the world of insurance easier for freelancers to navigate.
+description: Meet Charlotte founder of Blog and Beyond. Read about her story building a platform to help bloggers by being a information hub for their industry
 headerImage: /images/blog/charlotte-dougall.jpg
 image: /images/blog/charlotte-dougall.jpg
 permalink: /2018/04/06/startup-spotlight-blog-and-beyond
