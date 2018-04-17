@@ -44,4 +44,4 @@ Their main differentiator is that they can also break down the data based on the
 			
 _Are you a startup looking to transform government services? Applications for PUBLIC’s 6-month growth programme GovStart are currently open._
 
-_Want to learn more? [Get in touch and set up a time to talk to a member of the GovStart team](https://pipedrivewebforms.com/form/7990e6a1aaddacff19cc74e1e62e756b2648213). Get in touch and set up a time to talk to a member of the GovStart team. Applications close April 30th._
+_Want to learn more? [Get in touch and set up a time to talk to a member of the GovStart team](https://pipedrivewebforms.com/form/7990e6a1aaddacff19cc74e1e62e756b2648213). Applications close April 30th._
