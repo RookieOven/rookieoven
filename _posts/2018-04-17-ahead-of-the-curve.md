@@ -42,6 +42,6 @@ Mastodon C offers a potential resolution with their SEED model, a product that u
 Their main differentiator is that they can also break down the data based on the severity of special needs and disabilities. This helps councils to make data-based decisions around investments in special needs education and avoid difficult scenarios such as having to send disabled or special needs children far away from their home due to a lack of capacity.					
 				
 			
-Are you a startup looking to transform government services? Applications for PUBLIC’s 6-month growth programme GovStart are currently open.
+_Are you a startup looking to transform government services? Applications for PUBLIC’s 6-month growth programme GovStart are currently open._
 
-Want to learn more? [Get in touch and set up a time to talk to a member of the GovStart team](https://pipedrivewebforms.com/form/7990e6a1aaddacff19cc74e1e62e756b2648213). Get in touch and set up a time to talk to a member of the GovStart team. Applications close April 30th.
+_Want to learn more? [Get in touch and set up a time to talk to a member of the GovStart team](https://pipedrivewebforms.com/form/7990e6a1aaddacff19cc74e1e62e756b2648213). Get in touch and set up a time to talk to a member of the GovStart team. Applications close April 30th._
