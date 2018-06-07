@@ -1,5 +1,5 @@
 ---
-title: Finding Clients for Your Business
+title: Finding Customers for Your Business
 author: 12
 layout: post
 description: Finding your first customer might seem like a daunting task, but it doesn’t have to be. Here are some top tips for finding clients for your business.
