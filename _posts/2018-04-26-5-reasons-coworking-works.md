@@ -32,4 +32,4 @@ Working solo can be tough when you’ve not got anyone around to socialise with.
 
 (also, the office dogs and our pool table make it pretty fun, too.)
 
-_Want to try coworking out? Get involved with [National Coworking Day on the ](https://www.nationalcoworkingday.com) on the 8th of May._
+_Want to try coworking out? Get involved with [National Coworking Day on the](https://www.nationalcoworkingday.com) on the 8th of May._
