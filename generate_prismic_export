@@ -4,6 +4,7 @@ require "json"
 require "SecureRandom"
 require "fileutils"
 require "colorize"
+require "jekyll"
 
 def posts
   @posts ||= Dir
@@ -100,8 +101,8 @@ def imported_image(key, path, base_dir)
   input_location = File.join(FileUtils.pwd, path)
 
   unless File.file? input_location
-    puts "File at #{path} doesn't exist".red
-    puts "\t Full Path: #{input_location}".light_black
+    puts "\tFile at #{path} doesn't exist".red
+    puts "\t\tFull Path: #{input_location}"
     return
   end
 
@@ -130,7 +131,7 @@ def imported_image(key, path, base_dir)
 end
 
 def write_json(post, output_dir)
-  p "Processing #{post}"
+  puts "\tProcessing #{post}"
 
   parsed = FrontMatterParser::Parser.parse_file(post)
 
@@ -170,18 +171,51 @@ def write_json(post, output_dir)
     ],
   }
 
-  File.write("#{output_dir}/new_#{SecureRandom.uuid}_en-gb.json", JSON.dump(output))
+  output_file_path = "#{output_dir}/new_#{SecureRandom.uuid}_en-gb.json"
+  File.write(output_file_path, JSON.dump(output))
 end
 
-# Create folder
-now = Time.now.to_i
-output_dir = "prismic-import-#{now}"
-Dir.mkdir(output_dir) unless File.directory?(output_dir)
+# Process site
+puts "Generating Jekyll site..."
+conf = Jekyll.configuration({
+  "source" => FileUtils.pwd,
+})
+Jekyll::Site.new(conf).process
+puts "...done".green
 
-# Add json
-posts.map { |post| write_json(post, output_dir) }
+# Process
+puts "Exporting #{posts.length} posts"
+output_folders = []
+uid = SecureRandom.hex(4)
+posts.each_slice(200).with_index do |posts_import, index|
+  puts "\n\nExporting group of #{posts_import.length} posts\n\n"
 
-# Zip folder contents
+  # Create folder
+  output_dir = "prismic-import-#{uid}-#{index}"
+  Dir.mkdir(output_dir) unless File.directory?(output_dir)
+  puts "Created output directory".green
 
-# Done
-puts "Wrote #{posts.length} posts to #{output_dir}"
+  # Add json
+  puts "Parsing posts"
+  posts_import.map { |post| write_json(post, output_dir) }
+
+  # Done
+  puts "Wrote #{posts_import.length} posts to #{output_dir}".green
+  output_folders << {
+    dir: output_dir,
+    count: posts_import.length,
+  }
+end
+puts "Finished exporting #{posts.length} posts".green
+
+# TODO Zip folder contents
+puts "\n\n--------"
+puts "Zip the " + "contents".cyan + " of the folder(s) to upload to prismic."
+puts "Do not zip the folder itself, Prismic won't like it."
+puts "Created #{output_folders.length} import(s) - max 200 posts per import"
+output_folders.each do |output|
+  puts "\nWrote #{output[:count]} posts to:"
+  puts "#{File.join(FileUtils.pwd, output[:dir])}"
+end
+puts "\nhttps://rookieoven.prismic.io/settings/import/"
+puts "--------"
