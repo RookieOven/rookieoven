@@ -9,7 +9,6 @@ def posts
   @posts ||= Dir
     .children("_posts")
     .map { |filename| "_posts/#{filename}" }
-    .reverse[2..-1] # Reverse = most recent first, omit the most recent 2
 end
 
 AUTHORS = {
