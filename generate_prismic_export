@@ -1,0 +1,188 @@
+#!/usr/bin/env ruby
+require "front_matter_parser"
+require "json"
+require "SecureRandom"
+require "fileutils"
+require "colorize"
+
+def posts
+  @posts ||= Dir
+    .children("_posts")
+    .map { |filename| "_posts/#{filename}" }
+    .reverse[2..-1] # Reverse = most recent first, omit the most recent 2
+end
+
+AUTHORS = {
+  "1" => {
+    # name: "Michael Hayes",
+    id: "W2GE0B8AAB0Ar4Lc",
+    mask: "author",
+  },
+
+  "2" => {
+    # name: "Jamie McHale",
+    id: "W2GFPB8AACQAr4S_",
+    mask: "author",
+  },
+
+  "3" => {
+    # name: "Cally Russell",
+    id: "W2GFVB8AACEAr4Ux",
+    mask: "author",
+  },
+
+  "4" => {
+    # name: "David Wong",
+    id: "W2GFbh8AACEAr4Wj",
+    mask: "author",
+  },
+
+  "5" => {
+    # name: "Gregg O'Malley",
+    id: "W2GFhR8AACEAr4YX",
+    mask: "author",
+  },
+
+  "6" => {
+    # name: "Rich Smith",
+    id: "W2GFmx8AAB0Ar4Z8",
+    mask: "author",
+  },
+
+  "7" => {
+    # name: "Morgan Roberts",
+    id: "W2GFuh8AACQAr4cE",
+    mask: "author",
+  },
+
+  "8" => {
+    # name: "Kyle Bremner",
+    id: "W2GFwx8AACQAr4cv",
+    mask: "author",
+  },
+
+  "9" => {
+    # name: "John Bell",
+    id: "W2GF3B8AAB8Ar4ei",
+    mask: "author",
+  },
+
+  "10" => {
+    # name: "Peter Retson",
+    id: "W2GF_B8AAB0Ar4g5",
+    mask: "author",
+  },
+
+  "11" => {
+    # name: "Michael Carr",
+    id: "W2GGJB8AAB0Ar4ju",
+    mask: "author",
+  },
+
+  "12" => {
+    # name: "Charlotte Dougall",
+    id: "W2GFDB8AAB8Ar4Pt",
+    mask: "author",
+  },
+
+  "13" => {
+    # name: "Rachel Guthartz",
+    id: "W2GGQR8AAB8Ar4lx",
+    mask: "author",
+  },
+}
+
+# source path => output path
+COPIED_FILES = {}
+
+def imported_image(key, path, base_dir)
+  return nil unless path
+
+  input_location = File.join(FileUtils.pwd, path)
+
+  unless File.file? input_location
+    puts "File at #{path} doesn't exist".red
+    puts "\t Full Path: #{input_location}".light_black
+    return
+  end
+
+  file_path = if COPIED_FILES[path]
+                COPIED_FILES[path]
+              else
+                ext = path.split(".").last
+                new_file_path = "images/#{key}.#{ext}"
+
+                # Copy the file
+                output_location = "#{base_dir}/#{new_file_path}"
+                output_dir = "#{base_dir}/images"
+                Dir.mkdir(output_dir) unless File.directory?(output_dir)
+                FileUtils.cp(input_location, output_location)
+
+                # Cache result url
+                COPIED_FILES[path] = new_file_path
+              end
+
+  {
+    origin: {
+      url: file_path,
+    },
+    url: file_path,
+  }
+end
+
+def write_json(post, output_dir)
+  p "Processing #{post}"
+
+  parsed = FrontMatterParser::Parser.parse_file(post)
+
+  data = parsed.front_matter
+  content = parsed.content
+
+  # Get date and uid from permalink
+  # Permalink is of format /2018/02/17/hello-world-2
+  # uid is hello-world-2 and post_date is 2018-02-17
+  permalink = data["permalink"]
+  uid = permalink.split("/").last
+  post_date = permalink.split("/")[1..3].join("-")
+
+  output = {
+    type: "blog_post",
+    lang: "en-gb",
+    uid: uid,
+    tags: data["categories"] || [],
+    published_date: post_date,
+    title: data["title"],
+    subtitle: "",
+    author: AUTHORS["#{data["author"]}"],
+    header_image: imported_image("#{uid}-header_image", data["headerImage"] || data["image"], output_dir),
+    list_image: imported_image("#{uid}-list_image", data["image"] || data["headerImage"], output_dir),
+    body: [
+      {
+        "key": "raw-html-md",
+        "value": {
+          "repeat": [
+            {},
+          ],
+          "non-repeat": {
+            "text": content,
+          },
+        },
+      },
+    ],
+  }
+
+  File.write("#{output_dir}/new_#{SecureRandom.uuid}_en-gb.json", JSON.dump(output))
+end
+
+# Create folder
+now = Time.now.to_i
+output_dir = "prismic-import-#{now}"
+Dir.mkdir(output_dir) unless File.directory?(output_dir)
+
+# Add json
+posts.map { |post| write_json(post, output_dir) }
+
+# Zip folder contents
+
+# Done
+puts "Wrote #{posts.length} posts to #{output_dir}"

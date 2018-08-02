@@ -11,6 +11,7 @@ categories:
   - award
   - Glasgow
 ---
+
 I think some people have a perception that RookieOven is a bit of a heavy weight. We have a stunning coworking space, our website is pretty nice, we've used an amazing photographer, we're active across social media and get a decent whack of press coverage. So obviously RookieOven has lots of resource, a lot of capital, public support and maybe even a private backer with deep pockets. That's not the case. RookieOven is entirely community led and has managed to do a lot for the Scottish startup community with very little resource. We really do punch above our weight and I hope it can serve as an example to others.
 
 ##What we've achieved
@@ -19,13 +20,13 @@ RookieOven is now 5 years old. Starting as a crummy Wordpress site with a horrif
 
 {% image src:"/images/blog/rookieoven-queen.jpg" alt:"RookieOven Meets the Queen" title:"RookieOven Meets the Queen" %}
 
-* RookieOven blagged press accreditation for major tech events like SXSW and Web Summit
-* Michael met the Queen
-* We helped organise the first Startup Weekend in Scotland
-* Created a strong, vibrant, open and collaborative community
-* Opened a fantastic [collaborative space](https://rookieoven.com/coworking) in Govan
-* Appeared in international press, from German Radio to major US publications.
-* Runner up for a ScotlandIS Digital Tech Award
+- RookieOven blagged press accreditation for major tech events like SXSW and Web Summit
+- Michael met the Queen
+- We helped organise the first Startup Weekend in Scotland
+- Created a strong, vibrant, open and collaborative community
+- Opened a fantastic [collaborative space](https://rookieoven.com/coworking) in Govan
+- Appeared in international press, from German Radio to major US publications.
+- Runner up for a ScotlandIS Digital Tech Award
 
 It's that last point that inspired me to write this post. On the night it was RookieOven, largely a team of one, against Nucleus Finance who have a much larger team (and rightly deserved to win). It hit home how much RookieOven has been able to achieve with little resource.
 
@@ -48,7 +49,7 @@ It's again down to people, Pat and Rosie at Govan Workspace and Shaun at Telcom 
 In each of these partners they provide expertise and resource in areas RookieOven has no knowledge.
 
 ##Just do it
-Another secret to RookieOven, I just did it. I think a lot of my early drive and passion for RookieOven was fuelled by naivety but regardless of what caused me to do it the fact I *actually acted* on an idea means a lot.
+Another secret to RookieOven, I just did it. I think a lot of my early drive and passion for RookieOven was fuelled by naivety but regardless of what caused me to do it the fact I _actually acted_ on an idea means a lot.
 
 One night I decided it would be a good idea to start a blog and 15 minutes later had the domain name and a site up. Not too long after I thought getting folk together for a regular meetup would be great too and I fired out a couple of tweets.
 
@@ -70,4 +71,4 @@ Be ambitious and keep plodding on. I'm proud of RookieOven but it's by no means 
 
 So let's see where the next 5 years will take RookieOven.
 
-{% image src:"/images/blog/rookieoven-overview.jpg" alt:"Insurance By Jack in RookieOven, Glasgow" title:"Insurance By Jack in RookieOven, Glasgow" %}
+{% image src:"/images/rookieoven-overview.jpg" alt:"Insurance By Jack in RookieOven, Glasgow" title:"Insurance By Jack in RookieOven, Glasgow" %}

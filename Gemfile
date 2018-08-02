@@ -9,3 +9,7 @@ gem 'hpricot'
 gem 'jekyll-minifier'
 gem 'redcarpet'
 gem 'jekyll-paginate'
+
+# Prismic export
+gem 'front_matter_parser'
+gem 'colorize'

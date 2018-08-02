@@ -4,13 +4,14 @@ author: 10
 layout: post
 description: Discover TRC Media's Special Edition. A professional development programme that seeks to help ambitious women fulfill their potential and reach the very top.
 headerImage: /images/Special-Edition-Header-Image.jpg
-image: /images/blog/Special-Edition-Header-Image.jpg
+image: /images/Special-Edition-Header-Image.jpg
 permalink: /2017/02/26/trc-media-special-edition
 categories:
   - support
   - startus
   - glasgow
 ---
+
 TRC Media acknowledge that women are under-represented at board level in the tech/digital sector in Scotland - so they decided to take action. Special Edition is an initiative that aims to help women reach their full potential in the industry. The six-month programme offers participants a chance to learn from detailed workshops and develop not only their professional and creative skills, but their entrepreneurial and networking skills.
 
 Previous candidates have gone on to secure boardroom level positions and even start their own companies. The ambition of the program is ultimately to have all female participants embarking on a career which leads to the boardroom.
@@ -24,12 +25,12 @@ Entrepreneurial skills will also be developed throughout the programme as candid
 
 The skills and training are tailored to the individuals in the programme and previously discussed themes have been:
 
-  * Personal and professional goal setting
-  * Influencing skills
-  * Creative thinking and problem solving
-  * Entrepreneurship
-  * Management techniques
-  * Networking
+- Personal and professional goal setting
+- Influencing skills
+- Creative thinking and problem solving
+- Entrepreneurship
+- Management techniques
+- Networking
 
 2016's Special Edition started back in August beginning the first of the five sessions which ended in a very successful international trip.
 
@@ -38,9 +39,9 @@ Special Edition was created for women working in the digital sector - specifical
 
 Those who wish to apply should ideally have:
 
-* Significant experience in their field
-* Experience in management
-* The aim of reaching Boardroom/Director level or run their own business.
+- Significant experience in their field
+- Experience in management
+- The aim of reaching Boardroom/Director level or run their own business.
 
 There are limited places available on Special Edition and the highly competitive selection process is based on talent, need and clearly articulated goals.
 
@@ -48,12 +49,12 @@ There are limited places available on Special Edition and the highly competitive
 
 ##Candidates from 2016
 
-* Claire Wood         [The Leith Agency](http://www.leith.co.uk/) | Associate Planner
-* Danae Shell         [FreeAgent](https://www.freeagent.com/) | Head of Awareness
-* Kaye Symington      [Paved with Gold](http://www.pavedwithgold.co/)  | Co-founder
-* Laura Boyle         [Dog Digital](http://www.dogdigital.com/#/)  | Senior Analytics & Insights Manager
-* Sarah Johnson       [Whitespace](http://whitespacers.com/)  | Head of Digital Marketing
-* Terresa Aitken      Blonde Digital | Group Account Director
+- Claire Wood [The Leith Agency](http://www.leith.co.uk/) | Associate Planner
+- Danae Shell [FreeAgent](https://www.freeagent.com/) | Head of Awareness
+- Kaye Symington [Paved with Gold](http://www.pavedwithgold.co/) | Co-founder
+- Laura Boyle [Dog Digital](http://www.dogdigital.com/#/) | Senior Analytics & Insights Manager
+- Sarah Johnson [Whitespace](http://whitespacers.com/) | Head of Digital Marketing
+- Terresa Aitken Blonde Digital | Group Account Director
 
 ##What do past participants have to say
 "I arrived knowing this experience would change my career. I left feeling it had changed my life. We shared, we supported , we challenged, we travelled, we laughed, we cried, we changed, we grew." - Kirsten Murray, Teviot - Talking about Special Edition.

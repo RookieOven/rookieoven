@@ -11,6 +11,7 @@ categories:
     - event
     - glasgow
 ---
+
 Glasgow is a world leading tourist destination with a rich history, spectacular events and diverse culture. Glasgow is also home to a strong and vibrant community of world leading technology companies (as showcased by RookieOven).
 
 However at the moment there's little cross over between these two industries. Why is that? It makes total sense to foster a relationship between these two communities with the aim of creating a stronger tourism industry and increased recognition of the local tech talent in Glasgow.
@@ -23,11 +24,11 @@ The night will have plenty of opportunity for networking and free beer and pizza
 
 The format for each meetup will follow a simple agenda:
 
-* 6.30-7.00: Drinks, pizza and networking
-* 7.00-7.30: First speaker (20 mins) and Q&A (10 mins)
-* 7.30-7.45: Networking
-* 7.45-8.15: Second speaker (20 mins) and Q&A (10 mins)
-* 8.15: Close
+- 6.30-7.00: Drinks, pizza and networking
+- 7.00-7.30: First speaker (20 mins) and Q&A (10 mins)
+- 7.30-7.45: Networking
+- 7.45-8.15: Second speaker (20 mins) and Q&A (10 mins)
+- 8.15: Close
 
 ##Who should come?
 The event is open to anyone but if you're working or studying tourism at all we hope you'll get a lot from it. Likewise if you work with technology and think you have a lot to offer the tourism sector come along and understand the needs of the businesses in Scotland.
@@ -39,7 +40,7 @@ The meetup is a monthly opportunity for us to get together in a relaxed environm
 ##Venue
 Each event will take place in RookieOven which is super simple to find on Google Maps. We're just a short walk from Govan Subway and we have free parking to the rear.
 
-{% image src:"/images/blog/rookieoven-overview.jpg" alt:"RookieOven Glasgow technology
+{% image src:"/images/rookieoven-overview.jpg" alt:"RookieOven Glasgow technology
 " %}
 
 RookieOven is not only home to the leading tech talent in our city today but it has historically been a centre of engineering excellence. Not too long ago shipbuilding was the most important industry in our city and Fairfield Shipyard was at the centre of innovation and design that make 'Clyde Built' a world recognised brand for ships.

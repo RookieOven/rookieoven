@@ -3,7 +3,7 @@ title: Come say hello to Tech City
 author: 1
 layout: post
 description: Tech City has a focus on creating the optimum conditions for digital technology businesses and entrepreneurs to thrive across the UK and you can meet Emma from the team at RookieOven.
-headerImage: /images/blog/rookieoven-overview.jpg
+headerImage: /images/rookieoven-overview.jpg
 permalink: /2015/10/30/come-say-hello-to-tech-city
 categories:
   - glasgow
@@ -11,6 +11,7 @@ categories:
   - techcity
   - investment
 ---
+
 Next Wednesday (4th of November) is your chance to meet Emma Swift, Senior Entrepreneur Relations Manager, from Tech City. Tech City is a London-based publicly funded, non-profit team with a focus on creating the optimum conditions for digital technology businesses and entrepreneurs to thrive across the UK.
 
 Tech City are responsible for the annual Tech Nation report that provides an overview of the UK tech industry. The event, held at RookieOven on the 4th of November, is an opportunity to showcase the best of the Glasgow tech community to Tech City in anticipation of the 2016 Tech Nation report.
