@@ -13,3 +13,4 @@ gem 'jekyll-paginate'
 # Prismic export
 gem 'front_matter_parser'
 gem 'colorize'
+gem 'nokogiri'
