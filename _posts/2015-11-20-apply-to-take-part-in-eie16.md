@@ -4,13 +4,14 @@ author: 1
 layout: post
 description: EIE is a startup showcase organised by Informatics Ventures that takes place each year in Edinburgh. Time is running out to apply for the 2016 event
 headerImage: /images/blog/eie-fan-duel.jpeg
-permalink: /2015/2015/11/20/apply-to-take-part-in-eie16
+permalink: /2015/11/20/apply-to-take-part-in-eie16
 categories:
   - edinburgh
   - networking
   - event
   - news
 ---
+
 A must attend event on the Scottish tech/startup calendar is the annual EIE (Engage Invest Exploit) event organised by the folks at Informatics Ventures. The event in Edinburgh takes place around May time each year and brings together companies across the tech, life sciences and energy sectors to showcase their organisations in front of a mix of press, investors and the public sector.
 
 Now in it’s ninth year, EIE has grown to be the largest investor technology showcase in the UK. EIE Scotland focuses on technology investment opportunities from companies headquartered in Scotland. With events like EIE Scotland is fast becoming one of Europe’s most vibrant tech scenes.

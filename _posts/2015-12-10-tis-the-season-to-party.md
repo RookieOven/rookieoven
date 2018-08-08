@@ -4,13 +4,14 @@ author: 1
 layout: post
 description: As we approach Christmas and wind down 2015 it makes a good opportunity to get together an celebrate our hard work for the year. Thankfully the community has come together to organise a few parties
 headerImage: /images/blog/christmas-2015.png
-permalink: /2015/2015/11/20/tis-the-season-to-party
+permalink: /2015/11/20/tis-the-season-to-party
 categories:
   - edinburgh
   - networking
   - event
   - glasgow
 ---
+
 2015 has been a mega year for the Scottish tech community. WE've had Fanduel crowned a Unicorn, CodeBase has continued to grow, Code Clan has started to educate the next generation of developers, 4J and Outplay are producing great things in Dundee and in Glasgow we opened the [RookieOven Coworking](/coworking) Space and have grown even stronger as a community. Therefore it makes sense that as we approach Christmas and wind down 2015 we should get together an celebrate our hard work for the year. Thankfully across the country there's plenty of parties
 
 ##Glasgow Tech Christmas Party
@@ -22,7 +23,6 @@ Come and join the creative crowds, digital disrupters, hustler entrepreneurs, th
 
 In 2014 the community had a great party with over 80 devs and entrepreneurs coming together and 2015 is going to be bigger. Unleash your best (ugliest) Christmas jumpers, Santa Hats and inner festive beast, and cheer to an awesome year in the Glasgow Tech world with likeminded people.
 
-
 ##ScotStartups Christmas Party
 [Tickets £10-15](http://scotstartups.com/christmas-party-2015) - 16th December
 
@@ -33,6 +33,7 @@ The community in Edinburgh know how to throw a party. Likely to be the largest s
 There's sure to be plenty of drinks, food and entertainment to go along with the networking.
 
 ## #Party Like a Boss
+
 [Tickets £10](https://www.eventbrite.co.uk/e/partylikeabosstwb-tickets-19685736568) - 17th December
 
 You're the Boss? #PartyLikeABoss is a Christmas Party for Entrepreneurs, Freelancers and Self-Employed. Being held in The Whisky Bond on Thursday the 17th of December it's chance to have a Christmas Party of your own and have a chance to meet, party and network with other Creative and Business people from across Glasgow and Scotland.
