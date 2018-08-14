@@ -12,6 +12,7 @@ categories:
   - space
   - general
 ---
+
 Hello and welcome back to the RookieOven blog. There's a new look (and a new technology stack, will expand on that soon) but it's been quiet on the blog for almost a year. Apologies for that but I do have two very good reasons. Firstly I've been head down with my startup [Add Jam](https://addjam.com) where I work alongside Chris Sloey and make products and take on client projects, such as my work on the Future City Project in Glasgow. Secondly I've been working on opening the fantastic RookieOven Coworking space in Govan.
 
 ##A home for the community

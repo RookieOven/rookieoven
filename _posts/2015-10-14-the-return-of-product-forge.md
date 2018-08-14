@@ -11,6 +11,7 @@ categories:
   - hackathon
   - code
 ---
+
 This weekend sees the return of Product Forge, a hackathon series organsied by Allan Lloyds. This weekend sees a room full of talented people spending 3 days and 3 nights side by side developing new business ideas, overcoming challenges and bonding - sound good?
 
 This will be the 4th Product Forge to be held in Scotland and is focused on the theme of digital participation (with a specific focus on libraries, social housing and personal finance). The event is being supported by the Scottish Government Digital Directorate and their head of digital communities, Alexander Holt, will be in attendance alongside Steve Perry, former CTO of Visa Europe and founder and co-creator of Visa Europe Collab.
