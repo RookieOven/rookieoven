@@ -74,10 +74,11 @@ blog_post_data.map do |export|
 
   json = export[:json]
   new_json = json.merge({
-    meta_title: json["title"],
-    meta_description: desc,
-    short_summary: desc,
-    og_image: json["list_image"] || json["header_image"],
+    "meta_title" => json["title"],
+    "meta_description" => desc,
+    "short_summary" => desc,
+    "og_image" => json["list_image"] || json["header_image"],
+    "subtitle" => desc,
   })
 
   export = export.merge({json: new_json})
